@@ -5,7 +5,7 @@
 ################################################################################
 # To update 2024 data, simply download the data from CheckbookNYC and save it 
 # to the same folder where all data files for other years are saved
-# The newly downloaded data file should follow the naming convention "all_agency_revene_..."
+# The newly downloaded data file should follow the naming convention "all_agency_revenue_..."
 # The code is automated to read all csv files in "All Agency Revenue Data" folder
 # that starts with "all_agency_revenue" and bind them together. Similarly for budget.
 
