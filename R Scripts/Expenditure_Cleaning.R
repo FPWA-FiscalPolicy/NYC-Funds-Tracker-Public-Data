@@ -79,8 +79,9 @@ ACFR_expenditure_cleaned <- ACFR %>% replace_with_na_all(condition=~.x =="-") %>
                         "Income Taxes, Other (Net of Refunds)")|category=="Total Other Revenues") %>% # drop rows with category totals
   mutate(subcategory=if_else((expenditure_category=="Taxes (Net of Refunds):" & category=="Real Estate Taxes"), "Real Estate Taxes", subcategory)) %>% # correct wrong filling missing using previous values
   rename(Categorical.Citywide.Exp=amount_in_thousands) %>% # rename columns according to the naming convention
-  left_join(CPI) %>% 
-  mutate(Adjusted.Categorical.Citywide.Exp=Categorical.Citywide.Exp*CPI2024/FY_CPI) # calculate inflation-adjusted expenditure
+  left_join(CPI) %>%
+  mutate(Categorical.Citywide.Exp=Categorical.Citywide.Exp*1000,
+         Adjusted.Categorical.Citywide.Exp=Categorical.Citywide.Exp*CPI2024/FY_CPI) # calculate inflation-adjusted expenditure
 
 # create a vector for human services agencies
 human_services <- c("Commission on Human Rights",
@@ -136,7 +137,6 @@ ACFR_expenditure_cleaned_formatted <- ACFR_expenditure_cleaned %>%
          category=gsub("Administrator - ", "Administrator-", category),
          category=gsub("Administrator- ", "Administrator-", category)) %>% # correct irregular use of space
   rename(agency=category) # rename category as agency to match Checkbook expenditure data
-
 
 
 # sum in different ways to check for errors
@@ -292,7 +292,15 @@ expenditure_detail_by_expenditure_category <- expenditure_detail %>%
 diff <- expenditure_detail_by_expenditure_category %>% 
   right_join(expenditure_by_ACFR_category) %>% 
   rename(checkbook=total, ACFR=sum_by_category) %>% 
-  mutate(diff= checkbook-ACFR)
+  mutate(diff= checkbook-ACFR,
+         percent_diff=round(diff/ACFR,2)*100)
 
 # sum of difference
 sum(diff$diff, na.rm = T)
+
+# Checkbook expenditure sum by year 
+expenditure_detail_by_year <- expenditure_detail %>% 
+  group_by(year) %>% 
+  summarise(total=sum(committed, na.rm = T))
+
+
