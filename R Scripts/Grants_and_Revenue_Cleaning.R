@@ -33,13 +33,51 @@ revenue_grants <- filter(Revenue_data, revenue_category%in%c("Federal Grants-Cat
            closing_classification_name != "Unbilled Revenue" &
            closing_classification_name != "Accounts Left In Old Year") %>% 
   left_join(CPI) %>% 
-  mutate(Adjusted.recognized=recognized*CPI2024/FY_CPI) # calculate inflation-adjusted grants
+  mutate(Adjusted.recognized=round(recognized*CPI2024/FY_CPI)) # calculate inflation-adjusted grants
 
 # save grants data in csv file
 write.csv(revenue_grants, "revenue_grants.csv")
 
 
-############################## ACFR Revenue ################################
+
+
+
+##################### Federal State Proportion by Agency #######################
+
+
+Budget_data <- fread('raw_budget.csv')
+
+# add a column --  actual_expenditure ;   
+#‘Committed’ - Sum of ‘Pre-Encumbered’ , ‘Encumbered’ , ‘Accrued Expense’, ‘Cash Payments’ and ‘Post Adjustments’.
+# Actual Expenditure= Committed budget + Cash expense 
+Budget_data <- Budget_data %>%
+  mutate(actual_expenditure=pre_encumbered+encumbered+accrued_expense+post_adjustment+cash_expense)
+
+# add a column --  total budget for every agency  
+agency_Budget_summary <- Budget_data %>%
+  group_by(agency,year)%>%
+  summarise(agency_total_budget=sum(actual_expenditure,na.rm=T))
+
+Agency_budget <- agency_Budget_summary %>%
+  dplyr::select(year,agency,agency_total_budget) %>%
+  distinct()
+
+
+federal_state_agency <- Revenue_data %>%
+  rename(year=fiscal_year) %>% 
+  filter(funding_class=="STATE" | funding_class=="FEDERAL - OTHER")%>%
+  group_by(year,agency,funding_class)%>%
+  summarise(sum_rev=sum(recognized))
+
+
+federal_state_agency <- left_join(federal_state_agency,Agency_budget,by=c("year","agency"))
+
+federal_state_agency$proportion <- round(federal_state_agency$sum_rev/federal_state_agency$agency_total_budget,2)
+write.csv(federal_state_agency,"federal_state_proportion.csv")
+
+
+
+############################## ACFR Revenue ####################################
 
 # read ACFR revenue data
 
@@ -109,7 +147,8 @@ ACFR_revenue_cleaned <- ACFR %>% replace_with_na_all(condition=~.x =="-") %>% # 
   mutate(subcategory=if_else((revenue_category=="Taxes (Net of Refunds):" & category=="Real Estate Taxes"), "Real Estate Taxes", subcategory)) %>% # correct wrong filling missing
   rename(Categorical.Citywide.Rev=amount_in_thousands) %>% # rename columns according to the naming convention
   left_join(CPI) %>% 
-  mutate(Adjusted.Categorical.Citywide.Rev=Categorical.Citywide.Rev*CPI2024/FY_CPI,
+  mutate(Categorical.Citywide.Rev=Categorical.Citywide.Rev*1000,
+         Adjusted.Categorical.Citywide.Rev=round(Categorical.Citywide.Rev*CPI2024/FY_CPI),
          Categorical.Citywide.Rev=replace_na(Categorical.Citywide.Rev, 0),
          Adjusted.Categorical.Citywide.Rev=replace_na(Adjusted.Categorical.Citywide.Rev, 0)) # calculate inflation-adjusted revenue and replace mising revenues with 0
 
@@ -152,7 +191,45 @@ ACFR_sum_by_category <- ACFR_revenue_cleaned_formatted  %>%
   group_by(revenue_category, subcategory) %>% 
   summarise(sum=sum(Categorical.Citywide.Rev, na.rm = T))
 
-# compare revenue_grants with ACFR
+
+
+
+
+
+#################### Federal State Proportion by Category ######################
+
+
+ACFR_Budget_data <- fread('ACFR_expenditure_long.csv')
+
+# add a column --  total budget for every category  
+ACFR_category_Budget_summary <- ACFR_Budget_data %>%
+  rename(year=fiscal_year) %>% 
+  group_by(expenditure_category,year)%>%
+  summarise(category_total_budget=sum(Categorical.Citywide.Exp,na.rm=T))
+
+ACFR_category_budget <- ACFR_category_Budget_summary %>%
+  dplyr::select(year,expenditure_category,category_total_budget) %>%
+  distinct()
+
+
+ACFR_federal_state_agency <- ACFR_revenue_cleaned_formatted %>%
+  rename(year=fiscal_year) %>% 
+  filter(revenue_category%in%c("Federal Grants and Contracts--Categorical",
+                               "State Grants and Contracts--Categorical"))%>%
+  select(revenue_category, category, year, Categorical.Citywide.Rev)
+
+
+ACFR_federal_state_category <- left_join(ACFR_federal_state_agency,ACFR_category_budget,by=c("year","category"))
+
+federal_state_agency$proportion <- round(federal_state_agency$sum_rev/federal_state_agency$agency_total_budget,2)
+write.csv(federal_state_agency,"federal_state_proportion.csv")
+
+
+
+
+
+
+####################### Checkbook ACFR Grants Comparison #######################
 
 # Checkbook grants by year in thousands
 revenue_grants_sum_by_year <- revenue_grants %>% 
