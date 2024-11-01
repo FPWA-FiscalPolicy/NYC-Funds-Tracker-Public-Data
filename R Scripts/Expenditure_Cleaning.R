@@ -9,6 +9,11 @@ library(naniar)
 current_path = rstudioapi::getActiveDocumentContext()$path 
 setwd(dirname(current_path ))
 
+###############################
+###### Data Preparation  ######
+###############################
+
+
 ################################# ACFR Expenditure ############################
 # read corrected ACFR data
 ACFR <- fread("ACFR_Expenditure_Corrected.csv", skip = 2, header = T)
@@ -293,6 +298,3 @@ diff <- expenditure_detail_by_expenditure_category %>%
   right_join(expenditure_by_ACFR_category) %>% 
   rename(checkbook=total, ACFR=sum_by_category) %>% 
   mutate(diff= checkbook-ACFR)
-
-# sum of difference
-sum(diff$diff, na.rm = T)
