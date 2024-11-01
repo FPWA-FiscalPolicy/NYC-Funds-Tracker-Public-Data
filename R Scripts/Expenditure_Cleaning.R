@@ -6,9 +6,9 @@ library(xlsx)
 library(naniar)
 # put ACFR_Expenditure_Corrected.csv, CPI_index.csv, and raw_budget.csv
 # into the same folder as this R script is in and set working directory to source file location
-current_path = rstudioapi::getActiveDocumentContext()$path 
-setwd(dirname(current_path ))
-
+#current_path = rstudioapi::getActiveDocumentContext()$path 
+setwd("/Users/emilypisano/Documents/FPWA/NYC Funds Tracker")
+getwd()
 ###############################
 ###### Data Preparation  ######
 ###############################
@@ -16,14 +16,18 @@ setwd(dirname(current_path ))
 
 ################################# ACFR Expenditure ############################
 # read corrected ACFR data
+
+#Aren't we supposed to put in the non-cleaned data?
 ACFR <- fread("ACFR_Expenditure_Corrected.csv", skip = 2, header = T)
 
 # read CPI data for inflation adjustment
-CPI <- fread('CPI_index.csv') %>% 
+# CODE INCLUDED TO CREATE CPI NOT INCLUDED
+CPI <- fread('CPI_index.csv')  %>% 
   filter(Year >= 2011) %>% 
-  select(Year, V17) %>% 
-  rename(fiscal_year=Year, FY_CPI=V17)
+  select(Year, FY_CPI) %>% 
+  rename(fiscal_year=Year)
 CPI2024 <- CPI[CPI$fiscal_year==2024]$FY_CPI
+
 
 # classify categories using expenditure_category(top layer), subcategory(middle layer), agency(bottom layer)
 category <- ACFR$V1
@@ -62,9 +66,10 @@ subcategory_vec <- c("General Debt Service Fund:",
 
 
 
+
 # pivot ACFR data to long form and clean
 ACFR_expenditure_cleaned <- ACFR %>% replace_with_na_all(condition=~.x =="-") %>% 
-  select(V1:`2011`) %>% 
+  select(V1:`2011`) %>%  
   gather("fiscal_year", "amount_in_thousands", -V1) %>% 
   mutate(fiscal_year=as.numeric(fiscal_year), # convert year into numeric
          negative=case_when(substring(amount_in_thousands,1,1)=="(" ~ -1,
@@ -98,7 +103,10 @@ human_services <- c("Commission on Human Rights",
                     "Department for the Aging",
                     "Housing Preservation and Development",
                     "Miscellaneous-Payments to Housing Authority",
-                    "Department of Health and Mental Hygiene")
+                    "Department of Health and Mental Hygiene",
+                    "Office of Racial Equity",
+                    "Commission of Racial Equity"
+                    )
 
 # formatting the category names
 ACFR_expenditure_cleaned_formatted <- ACFR_expenditure_cleaned %>% 
@@ -141,6 +149,10 @@ ACFR_expenditure_cleaned_formatted <- ACFR_expenditure_cleaned %>%
          category=gsub("Administrator - ", "Administrator-", category),
          category=gsub("Administrator- ", "Administrator-", category)) %>% # correct irregular use of space
   rename(agency=category) # rename category as agency to match Checkbook expenditure data
+
+
+
+
 
 
 
