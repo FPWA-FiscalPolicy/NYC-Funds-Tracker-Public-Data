@@ -1,0 +1,1093 @@
+"","revenue_category","subcategory","category","fiscal_year","Categorical.Citywide.Rev","FY_CPI","Adjusted.Categorical.Citywide.Rev"
+"1","Taxes","Real Estate Taxes","Real Estate Taxes",2024,32987024000,309.5705,32987024000
+"2","Taxes","Sales and Use Taxes","General Sales",2024,9955470000,309.5705,9955470000
+"3","Taxes","Sales and Use Taxes","Cigarette",2024,14333000,309.5705,14333000
+"4","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2024,68091000,309.5705,68091000
+"5","Taxes","Sales and Use Taxes","Mortgage",2024,596642000,309.5705,596642000
+"6","Taxes","Sales and Use Taxes","Stock Transfer",2024,0,309.5705,0
+"7","Taxes","Sales and Use Taxes","Auto Use",2024,28410000,309.5705,28410000
+"8","Taxes","Sales and Use Taxes","Other",2024,3866000,309.5705,3866000
+"9","Taxes","Personal Income Taxes","Personal Income Taxes",2024,14052723000,309.5705,14052723000
+"10","Taxes","Income Taxes, Other","General Corporation",2024,7355405000,309.5705,7355405000
+"11","Taxes","Income Taxes, Other","Financial Corporation",2024,28479000,309.5705,28479000
+"12","Taxes","Income Taxes, Other","Unincorporated Business",2024,3061653000,309.5705,3061653000
+"13","Taxes","Income Taxes, Other","Pass-through Entity Tax",2024,1657404000,309.5705,1657404000
+"14","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2024,238797000,309.5705,238797000
+"15","Taxes","Income Taxes, Other","Utility",2024,429947000,309.5705,429947000
+"16","Taxes","Other Taxes","Payments in Lieu of Taxes",2024,772889000,309.5705,772889000
+"17","Taxes","Other Taxes","Hotel Room Occupancy",2024,725077000,309.5705,725077000
+"18","Taxes","Other Taxes","Commercial Rents",2024,982280000,309.5705,982280000
+"19","Taxes","Other Taxes","Horse Race Admissions",2024,15000,309.5705,15000
+"20","Taxes","Other Taxes","Conveyance of Real Property",2024,1137280000,309.5705,1137280000
+"21","Taxes","Other Taxes","Beer and Liquor Excise",2024,23222000,309.5705,23222000
+"22","Taxes","Other Taxes","Taxi Medallion Transfer",2024,514000,309.5705,514000
+"23","Taxes","Other Taxes","Off-Track Betting Surtax",2024,397000,309.5705,397000
+"24","Taxes","Other Taxes","Surcharge on Liquor Licenses",2024,6822000,309.5705,6822000
+"25","Taxes","Other Taxes","Coin-operated Amusement Devices",2024,0,309.5705,0
+"26","Taxes","Other Taxes","Refunds of Other Taxes",2024,-56901000,309.5705,-56901000
+"27","Taxes","Other Taxes","Other",2024,457000,309.5705,457000
+"28","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2024,113299000,309.5705,113299000
+"29","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2024,-6865000,309.5705,-6865000
+"30","Federal Grants and Contracts--Categorical","General Government","General Government",2024,1586526000,309.5705,1586526000
+"31","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2024,310976000,309.5705,310976000
+"32","Federal Grants and Contracts--Categorical","Education","Education",2024,4357059000,309.5705,4357059000
+"33","Federal Grants and Contracts--Categorical","Social Services","Social Services",2024,3609285000,309.5705,3609285000
+"34","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2024,-2974000,309.5705,-2974000
+"35","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2024,117015000,309.5705,117015000
+"36","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2024,-12000,309.5705,-12000
+"37","Federal Grants and Contracts--Categorical","Housing","Housing",2024,752121000,309.5705,752121000
+"38","Federal Grants and Contracts--Categorical","Health","Health",2024,452930000,309.5705,452930000
+"39","Federal Grants and Contracts--Categorical","Libraries","Libraries",2024,0,309.5705,0
+"40","Federal Grants and Contracts--Categorical","City University","City University",2024,111126000,309.5705,111126000
+"41","State Grants and Contracts--Categorical","General Government","General Government",2024,1715342000,309.5705,1715342000
+"42","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2024,144564000,309.5705,144564000
+"43","State Grants and Contracts--Categorical","Education","Education",2024,12930012000,309.5705,12930012000
+"44","State Grants and Contracts--Categorical","Social Services","Social Services",2024,3310854000,309.5705,3310854000
+"45","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2024,681000,309.5705,681000
+"46","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2024,312290000,309.5705,312290000
+"47","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2024,763000,309.5705,763000
+"48","State Grants and Contracts--Categorical","Housing","Housing",2024,246000,309.5705,246000
+"49","State Grants and Contracts--Categorical","Health","Health",2024,556547000,309.5705,556547000
+"50","State Grants and Contracts--Categorical","City University","City University",2024,259458000,309.5705,259458000
+"51","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2024,0,309.5705,0
+"52","Non-Governmental Grants","General Government","General Government",2024,279458000,309.5705,279458000
+"53","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2024,293725000,309.5705,293725000
+"54","Non-Governmental Grants","Education","Education",2024,288352000,309.5705,288352000
+"55","Non-Governmental Grants","Social Services","Social Services",2024,1747000,309.5705,1747000
+"56","Non-Governmental Grants","Environmental Protection","Environmental Protection",2024,12330000,309.5705,12330000
+"57","Non-Governmental Grants","Transportation Services","Transportation Services",2024,6508000,309.5705,6508000
+"58","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2024,19295000,309.5705,19295000
+"59","Non-Governmental Grants","Housing","Housing",2024,4035000,309.5705,4035000
+"60","Non-Governmental Grants","Health","Health",2024,63719000,309.5705,63719000
+"61","Non-Governmental Grants","Libraries","Libraries",2024,0,309.5705,0
+"62","Non-Governmental Grants","City University","City University",2024,16199000,309.5705,16199000
+"63","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2024,-12590000,309.5705,-12590000
+"64","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2024,41233000,309.5705,41233000
+"65","Charges for Services","General Government Charges","General Government Charges",2024,898633000,309.5705,898633000
+"66","Charges for Services","Water and Sewer","Water and Sewer",2024,1952826000,309.5705,1952826000
+"67","Charges for Services","Housing","Housing",2024,12774000,309.5705,12774000
+"68","Charges for Services","Rental Income","Rental Income",2024,283066000,309.5705,283066000
+"69","Investment Income","Investment Income","Investment Income",2024,696027000,309.5705,696027000
+"70","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2024,81756000,309.5705,81756000
+"71","Licenses, Permits, Privileges and Franchises","Permits","Permits",2024,288123000,309.5705,288123000
+"72","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2024,346745000,309.5705,346745000
+"73","Fines and Forfeitures","Fines","Fines",2024,1365101000,309.5705,1365101000
+"74","Fines and Forfeitures","Forfeitures","Forfeitures",2024,1573000,309.5705,1573000
+"75","Miscellaneous","Miscellaneous","Miscellaneous",2024,745233000,309.5705,745233000
+"76","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2024,217898000,309.5705,217898000
+"77","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2024,44223000,309.5705,44223000
+"78","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2024,164705000,309.5705,164705000
+"79","Taxes","Real Estate Taxes","Real Estate Taxes",2023,31644665000,299.6855,32688450947
+"80","Taxes","Sales and Use Taxes","General Sales",2023,9575336000,299.6855,9891174425
+"81","Taxes","Sales and Use Taxes","Cigarette",2023,16996000,299.6855,17556606
+"82","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2023,62768000,299.6855,64838376
+"83","Taxes","Sales and Use Taxes","Mortgage",2023,898136000,299.6855,927760638
+"84","Taxes","Sales and Use Taxes","Stock Transfer",2023,0,299.6855,0
+"85","Taxes","Sales and Use Taxes","Auto Use",2023,31013000,299.6855,32035951
+"86","Taxes","Sales and Use Taxes","Other",2023,768000,299.6855,793332
+"87","Taxes","Personal Income Taxes","Personal Income Taxes",2023,14828978000,299.6855,15318105594
+"88","Taxes","Income Taxes, Other","General Corporation",2023,6535408000,299.6855,6750975680
+"89","Taxes","Income Taxes, Other","Financial Corporation",2023,455382000,299.6855,470402583
+"90","Taxes","Income Taxes, Other","Unincorporated Business",2023,2672981000,299.6855,2761148153
+"91","Taxes","Income Taxes, Other","Pass-through Entity Tax",2023,2387394000,299.6855,2466141186
+"92","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2023,232165000,299.6855,239822865
+"93","Taxes","Income Taxes, Other","Utility",2023,429383000,299.6855,443546017
+"94","Taxes","Other Taxes","Payments in Lieu of Taxes",2023,652483000,299.6855,674004877
+"95","Taxes","Other Taxes","Hotel Room Occupancy",2023,662181000,299.6855,684022761
+"96","Taxes","Other Taxes","Commercial Rents",2023,992666000,299.6855,1025408670
+"97","Taxes","Other Taxes","Horse Race Admissions",2023,14000,299.6855,14462
+"98","Taxes","Other Taxes","Conveyance of Real Property",2023,1287403000,299.6855,1329867446
+"99","Taxes","Other Taxes","Beer and Liquor Excise",2023,24095000,299.6855,24889763
+"100","Taxes","Other Taxes","Taxi Medallion Transfer",2023,529000,299.6855,546449
+"101","Taxes","Other Taxes","Off-Track Betting Surtax",2023,434000,299.6855,448315
+"102","Taxes","Other Taxes","Surcharge on Liquor Licenses",2023,5228000,299.6855,5400443
+"103","Taxes","Other Taxes","Coin-operated Amusement Devices",2023,0,299.6855,0
+"104","Taxes","Other Taxes","Refunds of Other Taxes",2023,-60039000,299.6855,-62019361
+"105","Taxes","Other Taxes","Other",2023,636000,299.6855,656978
+"106","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2023,103021000,299.6855,106419104
+"107","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2023,-3247000,299.6855,-3354101
+"108","Federal Grants and Contracts--Categorical","General Government","General Government",2023,1259396000,299.6855,1300936647
+"109","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2023,291484000,299.6855,301098477
+"110","Federal Grants and Contracts--Categorical","Education","Education",2023,3969581000,299.6855,4100515957
+"111","Federal Grants and Contracts--Categorical","Social Services","Social Services",2023,3141372000,299.6855,3244988832
+"112","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2023,666000,299.6855,687968
+"113","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2023,115941000,299.6855,119765265
+"114","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2023,-824000,299.6855,-851179
+"115","Federal Grants and Contracts--Categorical","Housing","Housing",2023,670589000,299.6855,692708096
+"116","Federal Grants and Contracts--Categorical","Health","Health",2023,448842000,299.6855,463646864
+"117","Federal Grants and Contracts--Categorical","Libraries","Libraries",2023,0,299.6855,0
+"118","Federal Grants and Contracts--Categorical","City University","City University",2023,77196000,299.6855,79742278
+"119","State Grants and Contracts--Categorical","General Government","General Government",2023,1287764000,299.6855,1330240353
+"120","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2023,136671000,299.6855,141179035
+"121","State Grants and Contracts--Categorical","Education","Education",2023,12352744000,299.6855,12760194058
+"122","State Grants and Contracts--Categorical","Social Services","Social Services",2023,2250667000,299.6855,2324904303
+"123","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2023,2945000,299.6855,3042140
+"124","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2023,280365000,299.6855,289612721
+"125","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2023,1681000,299.6855,1736447
+"126","State Grants and Contracts--Categorical","Housing","Housing",2023,611000,299.6855,631154
+"127","State Grants and Contracts--Categorical","Health","Health",2023,511022000,299.6855,527877845
+"128","State Grants and Contracts--Categorical","City University","City University",2023,245100000,299.6855,253184520
+"129","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2023,0,299.6855,0
+"130","Non-Governmental Grants","General Government","General Government",2023,320924000,299.6855,331509543
+"131","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2023,265494000,299.6855,274251208
+"132","Non-Governmental Grants","Education","Education",2023,202996000,299.6855,209691738
+"133","Non-Governmental Grants","Social Services","Social Services",2023,6615000,299.6855,6833193
+"134","Non-Governmental Grants","Environmental Protection","Environmental Protection",2023,11572000,299.6855,11953698
+"135","Non-Governmental Grants","Transportation Services","Transportation Services",2023,2299000,299.6855,2374832
+"136","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2023,12859000,299.6855,13283149
+"137","Non-Governmental Grants","Housing","Housing",2023,8283000,299.6855,8556211
+"138","Non-Governmental Grants","Health","Health",2023,38305000,299.6855,39568474
+"139","Non-Governmental Grants","Libraries","Libraries",2023,0,299.6855,0
+"140","Non-Governmental Grants","City University","City University",2023,15684000,299.6855,16201330
+"141","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2023,-13374000,299.6855,-13815136
+"142","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2023,186282000,299.6855,192426433
+"143","Charges for Services","General Government Charges","General Government Charges",2023,847921000,299.6855,875889317
+"144","Charges for Services","Water and Sewer","Water and Sewer",2023,1710007000,299.6855,1766410861
+"145","Charges for Services","Housing","Housing",2023,15793000,299.6855,16313925
+"146","Charges for Services","Rental Income","Rental Income",2023,266036000,299.6855,274811085
+"147","Investment Income","Investment Income","Investment Income",2023,508143000,299.6855,524903883
+"148","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2023,78991000,299.6855,81596485
+"149","Licenses, Permits, Privileges and Franchises","Permits","Permits",2023,290503000,299.6855,300085119
+"150","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2023,393537000,299.6855,406517652
+"151","Fines and Forfeitures","Fines","Fines",2023,1453989000,299.6855,1501948215
+"152","Fines and Forfeitures","Forfeitures","Forfeitures",2023,1304000,299.6855,1347012
+"153","Miscellaneous","Miscellaneous","Miscellaneous",2023,674796000,299.6855,697053862
+"154","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2023,169391000,299.6855,174978291
+"155","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2023,48047000,299.6855,49631810
+"156","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2023,240623000,299.6855,248559848
+"157","Taxes","Real Estate Taxes","Real Estate Taxes",2022,29582214000,282.025,32471521245
+"158","Taxes","Sales and Use Taxes","General Sales",2022,8560405000,282.025,9396503346
+"159","Taxes","Sales and Use Taxes","Cigarette",2022,20465000,282.025,22463825
+"160","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2022,62072000,282.025,68134598
+"161","Taxes","Sales and Use Taxes","Mortgage",2022,1336023000,282.025,1466512927
+"162","Taxes","Sales and Use Taxes","Stock Transfer",2022,0,282.025,0
+"163","Taxes","Sales and Use Taxes","Auto Use",2022,28572000,282.025,31362639
+"164","Taxes","Sales and Use Taxes","Other",2022,755000,282.025,828741
+"165","Taxes","Personal Income Taxes","Personal Income Taxes",2022,16733563000,282.025,18367937114
+"166","Taxes","Income Taxes, Other","General Corporation",2022,6177190000,282.025,6780518737
+"167","Taxes","Income Taxes, Other","Financial Corporation",2022,63645000,282.025,69861234
+"168","Taxes","Income Taxes, Other","Unincorporated Business",2022,2668960000,282.025,2929638442
+"169","Taxes","Income Taxes, Other","Pass-through Entity Tax",2022,0,282.025,0
+"170","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2022,211662000,282.025,232335116
+"171","Taxes","Income Taxes, Other","Utility",2022,401870000,282.025,441120811
+"172","Taxes","Other Taxes","Payments in Lieu of Taxes",2022,455375000,282.025,499851667
+"173","Taxes","Other Taxes","Hotel Room Occupancy",2022,354711000,282.025,389355772
+"174","Taxes","Other Taxes","Commercial Rents",2022,956613000,282.025,1050045793
+"175","Taxes","Other Taxes","Horse Race Admissions",2022,9000,282.025,9879
+"176","Taxes","Other Taxes","Conveyance of Real Property",2022,1918387000,282.025,2105756663
+"177","Taxes","Other Taxes","Beer and Liquor Excise",2022,24967000,282.025,27405537
+"178","Taxes","Other Taxes","Taxi Medallion Transfer",2022,735000,282.025,806788
+"179","Taxes","Other Taxes","Off-Track Betting Surtax",2022,414000,282.025,454436
+"180","Taxes","Other Taxes","Surcharge on Liquor Licenses",2022,1665000,282.025,1827621
+"181","Taxes","Other Taxes","Coin-operated Amusement Devices",2022,0,282.025,0
+"182","Taxes","Other Taxes","Refunds of Other Taxes",2022,-59602000,282.025,-65423352
+"183","Taxes","Other Taxes","Other",2022,685000,282.025,751904
+"184","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2022,101719000,282.025,111653937
+"185","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2022,-6194000,282.025,-6798971
+"186","Federal Grants and Contracts--Categorical","General Government","General Government",2022,5802521000,282.025,6369255659
+"187","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2022,272260000,282.025,298851748
+"188","Federal Grants and Contracts--Categorical","Education","Education",2022,4898685000,282.025,5377141618
+"189","Federal Grants and Contracts--Categorical","Social Services","Social Services",2022,2492457000,282.025,2735896320
+"190","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2022,6394000,282.025,7018505
+"191","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2022,124527000,282.025,136689604
+"192","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2022,515000,282.025,565300
+"193","Federal Grants and Contracts--Categorical","Housing","Housing",2022,629799000,282.025,691311732
+"194","Federal Grants and Contracts--Categorical","Health","Health",2022,708830000,282.025,778061723
+"195","Federal Grants and Contracts--Categorical","Libraries","Libraries",2022,24000,282.025,26344
+"196","Federal Grants and Contracts--Categorical","City University","City University",2022,111359000,282.025,122235480
+"197","State Grants and Contracts--Categorical","General Government","General Government",2022,1128970000,282.025,1239236973
+"198","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2022,85236000,282.025,93561036
+"199","State Grants and Contracts--Categorical","Education","Education",2022,11942729000,282.025,13109180349
+"200","State Grants and Contracts--Categorical","Social Services","Social Services",2022,1776925000,282.025,1950478010
+"201","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2022,12996000,282.025,14265325
+"202","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2022,239987000,282.025,263426631
+"203","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2022,754000,282.025,827643
+"204","State Grants and Contracts--Categorical","Housing","Housing",2022,614000,282.025,673970
+"205","State Grants and Contracts--Categorical","Health","Health",2022,421137000,282.025,462269627
+"206","State Grants and Contracts--Categorical","City University","City University",2022,238055000,282.025,261305932
+"207","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2022,0,282.025,0
+"208","Non-Governmental Grants","General Government","General Government",2022,492625000,282.025,540739890
+"209","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2022,25273000,282.025,27741425
+"210","Non-Governmental Grants","Education","Education",2022,154471000,282.025,169558247
+"211","Non-Governmental Grants","Social Services","Social Services",2022,-742000,282.025,-814471
+"212","Non-Governmental Grants","Environmental Protection","Environmental Protection",2022,7558000,282.025,8296193
+"213","Non-Governmental Grants","Transportation Services","Transportation Services",2022,2204000,282.025,2419266
+"214","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2022,12089000,282.025,13269738
+"215","Non-Governmental Grants","Housing","Housing",2022,8700000,282.025,9549733
+"216","Non-Governmental Grants","Health","Health",2022,16507000,282.025,18119246
+"217","Non-Governmental Grants","Libraries","Libraries",2022,113000,282.025,124037
+"218","Non-Governmental Grants","City University","City University",2022,18099000,282.025,19866737
+"219","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2022,-34846000,282.025,-38249423
+"220","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2022,498400000,282.025,547078937
+"221","Charges for Services","General Government Charges","General Government Charges",2022,849742000,282.025,932736657
+"222","Charges for Services","Water and Sewer","Water and Sewer",2022,1574864000,282.025,1728681627
+"223","Charges for Services","Housing","Housing",2022,23144000,282.025,25404484
+"224","Charges for Services","Rental Income","Rental Income",2022,249020000,282.025,273341888
+"225","Investment Income","Investment Income","Investment Income",2022,16022000,282.025,17586875
+"226","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2022,67942000,282.025,74577924
+"227","Licenses, Permits, Privileges and Franchises","Permits","Permits",2022,294604000,282.025,323378096
+"228","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2022,288656000,282.025,316849153
+"229","Fines and Forfeitures","Fines","Fines",2022,1229072000,282.025,1349115978
+"230","Fines and Forfeitures","Forfeitures","Forfeitures",2022,1407000,282.025,1544422
+"231","Miscellaneous","Miscellaneous","Miscellaneous",2022,508948000,282.025,558657165
+"232","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2022,147672000,282.025,162095186
+"233","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2022,50861000,282.025,55828615
+"234","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2022,234594000,282.025,257506894
+"235","Taxes","Real Estate Taxes","Real Estate Taxes",2021,31464469000,263.1505,37014831439
+"236","Taxes","Sales and Use Taxes","General Sales",2021,6587154000,263.1505,7749134269
+"237","Taxes","Sales and Use Taxes","Cigarette",2021,22206000,263.1505,26123160
+"238","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2021,62370000,263.1505,73372128
+"239","Taxes","Sales and Use Taxes","Mortgage",2021,896467000,263.1505,1054604637
+"240","Taxes","Sales and Use Taxes","Stock Transfer",2021,0,263.1505,0
+"241","Taxes","Sales and Use Taxes","Auto Use",2021,33640000,263.1505,39574128
+"242","Taxes","Sales and Use Taxes","Other",2021,851000,263.1505,1001117
+"243","Taxes","Personal Income Taxes","Personal Income Taxes",2021,15140380000,263.1505,17811157519
+"244","Taxes","Income Taxes, Other","General Corporation",2021,5447251000,263.1505,6408151289
+"245","Taxes","Income Taxes, Other","Financial Corporation",2021,413269000,263.1505,486170047
+"246","Taxes","Income Taxes, Other","Unincorporated Business",2021,2183399000,263.1505,2568552673
+"247","Taxes","Income Taxes, Other","Pass-through Entity Tax",2021,0,263.1505,0
+"248","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2021,187601000,263.1505,220693996
+"249","Taxes","Income Taxes, Other","Utility",2021,362902000,263.1505,426918260
+"250","Taxes","Other Taxes","Payments in Lieu of Taxes",2021,550063000,263.1505,647094640
+"251","Taxes","Other Taxes","Hotel Room Occupancy",2021,106425000,263.1505,125198472
+"252","Taxes","Other Taxes","Commercial Rents",2021,941341000,263.1505,1107394453
+"253","Taxes","Other Taxes","Horse Race Admissions",2021,0,263.1505,0
+"254","Taxes","Other Taxes","Conveyance of Real Property",2021,1058480000,263.1505,1245196885
+"255","Taxes","Other Taxes","Beer and Liquor Excise",2021,20596000,263.1505,24229154
+"256","Taxes","Other Taxes","Taxi Medallion Transfer",2021,244000,263.1505,287042
+"257","Taxes","Other Taxes","Off-Track Betting Surtax",2021,643000,263.1505,756426
+"258","Taxes","Other Taxes","Surcharge on Liquor Licenses",2021,6543000,263.1505,7697191
+"259","Taxes","Other Taxes","Coin-operated Amusement Devices",2021,0,263.1505,0
+"260","Taxes","Other Taxes","Refunds of Other Taxes",2021,-58393000,263.1505,-68693581
+"261","Taxes","Other Taxes","Other",2021,545000,263.1505,641139
+"262","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2021,108208000,263.1505,127295995
+"263","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2021,-2787000,263.1505,-3278629
+"264","Federal Grants and Contracts--Categorical","General Government","General Government",2021,4574414000,263.1505,5381345007
+"265","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2021,250631000,263.1505,294842548
+"266","Federal Grants and Contracts--Categorical","Education","Education",2021,2498003000,263.1505,2938653119
+"267","Federal Grants and Contracts--Categorical","Social Services","Social Services",2021,3306074000,263.1505,3889268617
+"268","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2021,4155000,263.1505,4887946
+"269","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2021,77787000,263.1505,91508701
+"270","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2021,215000,263.1505,252926
+"271","Federal Grants and Contracts--Categorical","Housing","Housing",2021,598892000,263.1505,704537122
+"272","Federal Grants and Contracts--Categorical","Health","Health",2021,1098430000,263.1505,1292194103
+"273","Federal Grants and Contracts--Categorical","Libraries","Libraries",2021,0,263.1505,0
+"274","Federal Grants and Contracts--Categorical","City University","City University",2021,31164000,263.1505,36661359
+"275","State Grants and Contracts--Categorical","General Government","General Government",2021,1084303000,263.1505,1275575087
+"276","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2021,94008000,263.1505,110591101
+"277","State Grants and Contracts--Categorical","Education","Education",2021,10633009000,263.1505,12508681962
+"278","State Grants and Contracts--Categorical","Social Services","Social Services",2021,1880330000,263.1505,2212022011
+"279","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2021,865000,263.1505,1017587
+"280","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2021,248582000,263.1505,292432103
+"281","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2021,1021000,263.1505,1201105
+"282","State Grants and Contracts--Categorical","Housing","Housing",2021,722000,263.1505,849361
+"283","State Grants and Contracts--Categorical","Health","Health",2021,423063000,263.1505,497691718
+"284","State Grants and Contracts--Categorical","City University","City University",2021,231044000,263.1505,271800383
+"285","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2021,0,263.1505,0
+"286","Non-Governmental Grants","General Government","General Government",2021,471786000,263.1505,555009502
+"287","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2021,372045000,263.1505,437674094
+"288","Non-Governmental Grants","Education","Education",2021,186847000,263.1505,219806990
+"289","Non-Governmental Grants","Social Services","Social Services",2021,2315000,263.1505,2723368
+"290","Non-Governmental Grants","Environmental Protection","Environmental Protection",2021,12366000,263.1505,14547374
+"291","Non-Governmental Grants","Transportation Services","Transportation Services",2021,3794000,263.1505,4463265
+"292","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2021,11490000,263.1505,13516847
+"293","Non-Governmental Grants","Housing","Housing",2021,4027000,263.1505,4737367
+"294","Non-Governmental Grants","Health","Health",2021,1866000,263.1505,2195164
+"295","Non-Governmental Grants","Libraries","Libraries",2021,0,263.1505,0
+"296","Non-Governmental Grants","City University","City University",2021,13650000,263.1505,16057873
+"297","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2021,-24062000,263.1505,-28306560
+"298","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2021,968000,263.1505,1138756
+"299","Charges for Services","General Government Charges","General Government Charges",2021,862563000,263.1505,1014719939
+"300","Charges for Services","Water and Sewer","Water and Sewer",2021,1687273000,263.1505,1984909572
+"301","Charges for Services","Housing","Housing",2021,14088000,263.1505,16573137
+"302","Charges for Services","Rental Income","Rental Income",2021,233535000,263.1505,274730797
+"303","Investment Income","Investment Income","Investment Income",2021,14743000,263.1505,17343679
+"304","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2021,63863000,263.1505,75128494
+"305","Licenses, Permits, Privileges and Franchises","Permits","Permits",2021,265188000,263.1505,311967417
+"306","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2021,296095000,263.1505,348326441
+"307","Fines and Forfeitures","Fines","Fines",2021,1034804000,263.1505,1217344416
+"308","Fines and Forfeitures","Forfeitures","Forfeitures",2021,868000,263.1505,1021116
+"309","Miscellaneous","Miscellaneous","Miscellaneous",2021,1081818000,263.1505,1272651730
+"310","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2021,96428000,263.1505,113437991
+"311","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2021,60554000,263.1505,71235784
+"312","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2021,247720000,263.1505,291418045
+"313","Taxes","Real Estate Taxes","Real Estate Taxes",2020,29815935000,257.23,35882804906
+"314","Taxes","Sales and Use Taxes","General Sales",2020,7385024000,257.23,8887709724
+"315","Taxes","Sales and Use Taxes","Cigarette",2020,25746000,257.23,30984730
+"316","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2020,63736000,257.23,76704838
+"317","Taxes","Sales and Use Taxes","Mortgage",2020,974514000,257.23,1172805607
+"318","Taxes","Sales and Use Taxes","Stock Transfer",2020,0,257.23,0
+"319","Taxes","Sales and Use Taxes","Auto Use",2020,27952000,257.23,33639601
+"320","Taxes","Sales and Use Taxes","Other",2020,1138000,257.23,1369557
+"321","Taxes","Personal Income Taxes","Personal Income Taxes",2020,13591179000,257.23,16356677210
+"322","Taxes","Income Taxes, Other","General Corporation",2020,5170058000,257.23,6222048128
+"323","Taxes","Income Taxes, Other","Financial Corporation",2020,82902000,257.23,99770686
+"324","Taxes","Income Taxes, Other","Unincorporated Business",2020,2053213000,257.23,2470995510
+"325","Taxes","Income Taxes, Other","Pass-through Entity Tax",2020,0,257.23,0
+"326","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2020,184946000,257.23,222578337
+"327","Taxes","Income Taxes, Other","Utility",2020,370877000,257.23,446342100
+"328","Taxes","Other Taxes","Payments in Lieu of Taxes",2020,736618000,257.23,886503139
+"329","Taxes","Other Taxes","Hotel Room Occupancy",2020,481739000,257.23,579762015
+"330","Taxes","Other Taxes","Commercial Rents",2020,942889000,257.23,1134745633
+"331","Taxes","Other Taxes","Horse Race Admissions",2020,25000,257.23,30087
+"332","Taxes","Other Taxes","Conveyance of Real Property",2020,1140136000,257.23,1372127946
+"333","Taxes","Other Taxes","Beer and Liquor Excise",2020,23787000,257.23,28627118
+"334","Taxes","Other Taxes","Taxi Medallion Transfer",2020,532000,257.23,640250
+"335","Taxes","Other Taxes","Off-Track Betting Surtax",2020,619000,257.23,744953
+"336","Taxes","Other Taxes","Surcharge on Liquor Licenses",2020,5714000,257.23,6876670
+"337","Taxes","Other Taxes","Coin-operated Amusement Devices",2020,0,257.23,0
+"338","Taxes","Other Taxes","Refunds of Other Taxes",2020,-72945000,257.23,-87787661
+"339","Taxes","Other Taxes","Other",2020,251000,257.23,302073
+"340","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2020,90932000,257.23,109434610
+"341","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2020,-7845000,257.23,-9441280
+"342","Federal Grants and Contracts--Categorical","General Government","General Government",2020,3324971000,257.23,4001527563
+"343","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2020,334376000,257.23,402413970
+"344","Federal Grants and Contracts--Categorical","Education","Education",2020,1672438000,257.23,2012741391
+"345","Federal Grants and Contracts--Categorical","Social Services","Social Services",2020,3012760000,257.23,3625788670
+"346","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2020,35582000,257.23,42822134
+"347","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2020,104223000,257.23,125430028
+"348","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2020,-5114000,257.23,-6154584
+"349","Federal Grants and Contracts--Categorical","Housing","Housing",2020,565660000,257.23,680759045
+"350","Federal Grants and Contracts--Categorical","Health","Health",2020,349841000,257.23,421025749
+"351","Federal Grants and Contracts--Categorical","Libraries","Libraries",2020,0,257.23,0
+"352","Federal Grants and Contracts--Categorical","City University","City University",2020,0,257.23,0
+"353","State Grants and Contracts--Categorical","General Government","General Government",2020,1004457000,257.23,1208841332
+"354","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2020,126551000,257.23,152301273
+"355","State Grants and Contracts--Categorical","Education","Education",2020,11493497000,257.23,13832164262
+"356","State Grants and Contracts--Categorical","Social Services","Social Services",2020,1795717000,257.23,2161104885
+"357","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2020,3431000,257.23,4129131
+"358","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2020,234477000,257.23,282187778
+"359","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2020,1101000,257.23,1325029
+"360","State Grants and Contracts--Categorical","Housing","Housing",2020,814000,257.23,979631
+"361","State Grants and Contracts--Categorical","Health","Health",2020,428008000,257.23,515097969
+"362","State Grants and Contracts--Categorical","City University","City University",2020,245900000,257.23,295935101
+"363","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2020,0,257.23,0
+"364","Non-Governmental Grants","General Government","General Government",2020,510663000,257.23,614571396
+"365","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2020,217719000,257.23,262019903
+"366","Non-Governmental Grants","Education","Education",2020,144310000,257.23,173673828
+"367","Non-Governmental Grants","Social Services","Social Services",2020,3312000,257.23,3985917
+"368","Non-Governmental Grants","Environmental Protection","Environmental Protection",2020,7999000,257.23,9626616
+"369","Non-Governmental Grants","Transportation Services","Transportation Services",2020,5123000,257.23,6165415
+"370","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2020,14227000,257.23,17121873
+"371","Non-Governmental Grants","Housing","Housing",2020,-963000,257.23,-1158949
+"372","Non-Governmental Grants","Health","Health",2020,48755000,257.23,58675542
+"373","Non-Governmental Grants","Libraries","Libraries",2020,135000,257.23,162469
+"374","Non-Governmental Grants","City University","City University",2020,18042000,257.23,21713140
+"375","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2020,-5082000,257.23,-6116072
+"376","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2020,10861000,257.23,13070968
+"377","Charges for Services","General Government Charges","General Government Charges",2020,951449000,257.23,1145047400
+"378","Charges for Services","Water and Sewer","Water and Sewer",2020,1614829000,257.23,1943410259
+"379","Charges for Services","Housing","Housing",2020,30729000,257.23,36981658
+"380","Charges for Services","Rental Income","Rental Income",2020,258430000,257.23,311014673
+"381","Investment Income","Investment Income","Investment Income",2020,136599000,257.23,164393814
+"382","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2020,74660000,257.23,89851625
+"383","Licenses, Permits, Privileges and Franchises","Permits","Permits",2020,297110000,257.23,357565180
+"384","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2020,327638000,257.23,394304939
+"385","Fines and Forfeitures","Fines","Fines",2020,1077292000,257.23,1296496610
+"386","Fines and Forfeitures","Forfeitures","Forfeitures",2020,1873000,257.23,2254113
+"387","Miscellaneous","Miscellaneous","Miscellaneous",2020,1054078000,257.23,1268559085
+"388","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2020,136064000,257.23,163749953
+"389","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2020,78090000,257.23,93979553
+"390","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2020,225838000,257.23,271790936
+"391","Taxes","Real Estate Taxes","Real Estate Taxes",2019,27884735000,253.2685,34083557001
+"392","Taxes","Sales and Use Taxes","General Sales",2019,7839527000,253.2685,9582266619
+"393","Taxes","Sales and Use Taxes","Cigarette",2019,29938000,253.2685,36593266
+"394","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2019,85488000,253.2685,104492122
+"395","Taxes","Sales and Use Taxes","Mortgage",2019,1096556000,253.2685,1340322185
+"396","Taxes","Sales and Use Taxes","Stock Transfer",2019,0,253.2685,0
+"397","Taxes","Sales and Use Taxes","Auto Use",2019,29925000,253.2685,36577376
+"398","Taxes","Sales and Use Taxes","Other",2019,1346000,253.2685,1645218
+"399","Taxes","Personal Income Taxes","Personal Income Taxes",2019,13376944000,253.2685,16350660436
+"400","Taxes","Income Taxes, Other","General Corporation",2019,4728619000,253.2685,5779798704
+"401","Taxes","Income Taxes, Other","Financial Corporation",2019,-1283000,253.2685,-1568213
+"402","Taxes","Income Taxes, Other","Unincorporated Business",2019,2123980000,253.2685,2596144213
+"403","Taxes","Income Taxes, Other","Pass-through Entity Tax",2019,0,253.2685,0
+"404","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2019,178399000,253.2685,218057388
+"405","Taxes","Income Taxes, Other","Utility",2019,386550000,253.2685,472480695
+"406","Taxes","Other Taxes","Payments in Lieu of Taxes",2019,491292000,253.2685,600507012
+"407","Taxes","Other Taxes","Hotel Room Occupancy",2019,634022000,253.2685,774966123
+"408","Taxes","Other Taxes","Commercial Rents",2019,995346000,253.2685,1216613037
+"409","Taxes","Other Taxes","Horse Race Admissions",2019,42000,253.2685,51337
+"410","Taxes","Other Taxes","Conveyance of Real Property",2019,1563388000,253.2685,1910931698
+"411","Taxes","Other Taxes","Beer and Liquor Excise",2019,25795000,253.2685,31529271
+"412","Taxes","Other Taxes","Taxi Medallion Transfer",2019,1035000,253.2685,1265082
+"413","Taxes","Other Taxes","Off-Track Betting Surtax",2019,729000,253.2685,891058
+"414","Taxes","Other Taxes","Surcharge on Liquor Licenses",2019,7121000,253.2685,8704010
+"415","Taxes","Other Taxes","Coin-operated Amusement Devices",2019,0,253.2685,0
+"416","Taxes","Other Taxes","Refunds of Other Taxes",2019,-50478000,253.2685,-61699342
+"417","Taxes","Other Taxes","Other",2019,191000,253.2685,233460
+"418","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2019,81816000,253.2685,100003830
+"419","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2019,-17523000,253.2685,-21418391
+"420","Federal Grants and Contracts--Categorical","General Government","General Government",2019,712692000,253.2685,871124592
+"421","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2019,386161000,253.2685,472005219
+"422","Federal Grants and Contracts--Categorical","Education","Education",2019,1875662000,253.2685,2292624717
+"423","Federal Grants and Contracts--Categorical","Social Services","Social Services",2019,3619906000,253.2685,4424616999
+"424","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2019,3651000,253.2685,4462623
+"425","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2019,74337000,253.2685,90862236
+"426","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2019,424000,253.2685,518256
+"427","Federal Grants and Contracts--Categorical","Housing","Housing",2019,543204000,253.2685,663959134
+"428","Federal Grants and Contracts--Categorical","Health","Health",2019,305851000,253.2685,373842175
+"429","Federal Grants and Contracts--Categorical","Libraries","Libraries",2019,0,253.2685,0
+"430","Federal Grants and Contracts--Categorical","City University","City University",2019,0,253.2685,0
+"431","State Grants and Contracts--Categorical","General Government","General Government",2019,923324000,253.2685,1128580429
+"432","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2019,125169000,253.2685,152994273
+"433","State Grants and Contracts--Categorical","Education","Education",2019,11185252000,253.2685,13671751735
+"434","State Grants and Contracts--Categorical","Social Services","Social Services",2019,1739804000,253.2685,2126565262
+"435","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2019,1966000,253.2685,2403045
+"436","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2019,205732000,253.2685,251466559
+"437","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2019,1280000,253.2685,1564546
+"438","State Grants and Contracts--Categorical","Housing","Housing",2019,988000,253.2685,1207634
+"439","State Grants and Contracts--Categorical","Health","Health",2019,523468000,253.2685,639835789
+"440","State Grants and Contracts--Categorical","City University","City University",2019,263317000,253.2685,321852798
+"441","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2019,0,253.2685,0
+"442","Non-Governmental Grants","General Government","General Government",2019,693885000,253.2685,848136765
+"443","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2019,226278000,253.2685,276579968
+"444","Non-Governmental Grants","Education","Education",2019,179971000,253.2685,219978846
+"445","Non-Governmental Grants","Social Services","Social Services",2019,3985000,253.2685,4870872
+"446","Non-Governmental Grants","Environmental Protection","Environmental Protection",2019,12731000,253.2685,15561122
+"447","Non-Governmental Grants","Transportation Services","Transportation Services",2019,2686000,253.2685,3283102
+"448","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2019,16882000,253.2685,20634896
+"449","Non-Governmental Grants","Housing","Housing",2019,13561000,253.2685,16575632
+"450","Non-Governmental Grants","Health","Health",2019,30405000,253.2685,37164081
+"451","Non-Governmental Grants","Libraries","Libraries",2019,0,253.2685,0
+"452","Non-Governmental Grants","City University","City University",2019,19693000,253.2685,24070786
+"453","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2019,112543000,253.2685,137561492
+"454","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2019,150539000,253.2685,184004065
+"455","Charges for Services","General Government Charges","General Government Charges",2019,1030694000,253.2685,1259818955
+"456","Charges for Services","Water and Sewer","Water and Sewer",2019,1469601000,253.2685,1796295696
+"457","Charges for Services","Housing","Housing",2019,27854000,253.2685,34045990
+"458","Charges for Services","Rental Income","Rental Income",2019,273141000,253.2685,333860689
+"459","Investment Income","Investment Income","Investment Income",2019,225904000,253.2685,276122827
+"460","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2019,85140000,253.2685,104066761
+"461","Licenses, Permits, Privileges and Franchises","Permits","Permits",2019,356561000,253.2685,435825091
+"462","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2019,360650000,253.2685,440823082
+"463","Fines and Forfeitures","Fines","Fines",2019,1107441000,253.2685,1353626938
+"464","Fines and Forfeitures","Forfeitures","Forfeitures",2019,1287000,253.2685,1573102
+"465","Miscellaneous","Miscellaneous","Miscellaneous",2019,956681000,253.2685,1169352744
+"466","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2019,140310000,253.2685,171501141
+"467","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2019,80976000,253.2685,98977097
+"468","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2019,219215000,253.2685,267946851
+"469","Taxes","Real Estate Taxes","Real Estate Taxes",2018,26407630000,248.126,32947064084
+"470","Taxes","Sales and Use Taxes","General Sales",2018,7460490000,248.126,9307962969
+"471","Taxes","Sales and Use Taxes","Cigarette",2018,36483000,248.126,45517441
+"472","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2018,73707000,248.126,91959379
+"473","Taxes","Sales and Use Taxes","Mortgage",2018,1049474000,248.126,1309359724
+"474","Taxes","Sales and Use Taxes","Stock Transfer",2018,0,248.126,0
+"475","Taxes","Sales and Use Taxes","Auto Use",2018,30317000,248.126,37824528
+"476","Taxes","Sales and Use Taxes","Other",2018,0,248.126,0
+"477","Taxes","Personal Income Taxes","Personal Income Taxes",2018,13411315000,248.126,16732416152
+"478","Taxes","Income Taxes, Other","General Corporation",2018,4101887000,248.126,5117654778
+"479","Taxes","Income Taxes, Other","Financial Corporation",2018,394858000,248.126,492638371
+"480","Taxes","Income Taxes, Other","Unincorporated Business",2018,2269384000,248.126,2831361242
+"481","Taxes","Income Taxes, Other","Pass-through Entity Tax",2018,0,248.126,0
+"482","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2018,173118000,248.126,215987949
+"483","Taxes","Income Taxes, Other","Utility",2018,389648000,248.126,486138197
+"484","Taxes","Other Taxes","Payments in Lieu of Taxes",2018,376546000,248.126,469791692
+"485","Taxes","Other Taxes","Hotel Room Occupancy",2018,606728000,248.126,756974643
+"486","Taxes","Other Taxes","Commercial Rents",2018,919094000,248.126,1146693168
+"487","Taxes","Other Taxes","Horse Race Admissions",2018,36000,248.126,44915
+"488","Taxes","Other Taxes","Conveyance of Real Property",2018,1426869000,248.126,1780210658
+"489","Taxes","Other Taxes","Beer and Liquor Excise",2018,24400000,248.126,30442276
+"490","Taxes","Other Taxes","Taxi Medallion Transfer",2018,502000,248.126,626312
+"491","Taxes","Other Taxes","Off-Track Betting Surtax",2018,631000,248.126,787257
+"492","Taxes","Other Taxes","Surcharge on Liquor Licenses",2018,7173000,248.126,8949281
+"493","Taxes","Other Taxes","Coin-operated Amusement Devices",2018,0,248.126,0
+"494","Taxes","Other Taxes","Refunds of Other Taxes",2018,-112843000,248.126,-140786794
+"495","Taxes","Other Taxes","Other",2018,136000,248.126,169678
+"496","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2018,59526000,248.126,74266677
+"497","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2018,-3162000,248.126,-3945020
+"498","Federal Grants and Contracts--Categorical","General Government","General Government",2018,1225029000,248.126,1528388158
+"499","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2018,341350000,248.126,425879957
+"500","Federal Grants and Contracts--Categorical","Education","Education",2018,1785725000,248.126,2227931700
+"501","Federal Grants and Contracts--Categorical","Social Services","Social Services",2018,3437321000,248.126,4288519464
+"502","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2018,4782000,248.126,5966187
+"503","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2018,100661000,248.126,125588113
+"504","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2018,928000,248.126,1157805
+"505","Federal Grants and Contracts--Categorical","Housing","Housing",2018,523393000,248.126,653003042
+"506","Federal Grants and Contracts--Categorical","Health","Health",2018,348442000,248.126,434728179
+"507","Federal Grants and Contracts--Categorical","Libraries","Libraries",2018,0,248.126,0
+"508","Federal Grants and Contracts--Categorical","City University","City University",2018,0,248.126,0
+"509","State Grants and Contracts--Categorical","General Government","General Government",2018,944486000,248.126,1178373098
+"510","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2018,124955000,248.126,155898140
+"511","State Grants and Contracts--Categorical","Education","Education",2018,10709714000,248.126,13361806170
+"512","State Grants and Contracts--Categorical","Social Services","Social Services",2018,1652486000,248.126,2061698158
+"513","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2018,10882000,248.126,13576756
+"514","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2018,219065000,248.126,273313001
+"515","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2018,1394000,248.126,1739202
+"516","State Grants and Contracts--Categorical","Housing","Housing",2018,795000,248.126,991869
+"517","State Grants and Contracts--Categorical","Health","Health",2018,534843000,248.126,667288454
+"518","State Grants and Contracts--Categorical","City University","City University",2018,254513000,248.126,317539140
+"519","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2018,0,248.126,0
+"520","Non-Governmental Grants","General Government","General Government",2018,547890000,248.126,683566338
+"521","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2018,225917000,248.126,281861791
+"522","Non-Governmental Grants","Education","Education",2018,193276000,248.126,241137760
+"523","Non-Governmental Grants","Social Services","Social Services",2018,1351000,248.126,1685554
+"524","Non-Governmental Grants","Environmental Protection","Environmental Protection",2018,7451000,248.126,9296123
+"525","Non-Governmental Grants","Transportation Services","Transportation Services",2018,3923000,248.126,4894469
+"526","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2018,12965000,248.126,16175578
+"527","Non-Governmental Grants","Housing","Housing",2018,29162000,248.126,36383510
+"528","Non-Governmental Grants","Health","Health",2018,65869000,248.126,82180421
+"529","Non-Governmental Grants","Libraries","Libraries",2018,0,248.126,0
+"530","Non-Governmental Grants","City University","City University",2018,17243000,248.126,21512958
+"531","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2018,139428000,248.126,173955151
+"532","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2018,0,248.126,0
+"533","Charges for Services","General Government Charges","General Government Charges",2018,1026587000,248.126,1280805119
+"534","Charges for Services","Water and Sewer","Water and Sewer",2018,1389954000,248.126,1734154239
+"535","Charges for Services","Housing","Housing",2018,34652000,248.126,43233023
+"536","Charges for Services","Rental Income","Rental Income",2018,260504000,248.126,325013717
+"537","Investment Income","Investment Income","Investment Income",2018,125353000,248.126,156394698
+"538","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2018,91433000,248.126,114074944
+"539","Licenses, Permits, Privileges and Franchises","Permits","Permits",2018,310314000,248.126,387158380
+"540","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2018,373795000,248.126,466359451
+"541","Fines and Forfeitures","Fines","Fines",2018,1025910000,248.126,1279960470
+"542","Fines and Forfeitures","Forfeitures","Forfeitures",2018,1547000,248.126,1930090
+"543","Miscellaneous","Miscellaneous","Miscellaneous",2018,270345000,248.126,337291686
+"544","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2018,149891000,248.126,187009148
+"545","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2018,81810000,248.126,102068959
+"546","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2018,225114000,248.126,280859940
+"547","Taxes","Real Estate Taxes","Real Estate Taxes",2017,24679412000,242.6565,31484909378
+"548","Taxes","Sales and Use Taxes","General Sales",2017,7034094000,242.6565,8973788036
+"549","Taxes","Sales and Use Taxes","Cigarette",2017,37212000,242.6565,47473434
+"550","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2017,76667000,242.6565,97808390
+"551","Taxes","Sales and Use Taxes","Mortgage",2017,1117760000,242.6565,1425989092
+"552","Taxes","Sales and Use Taxes","Stock Transfer",2017,0,242.6565,0
+"553","Taxes","Sales and Use Taxes","Auto Use",2017,30703000,242.6565,39169538
+"554","Taxes","Sales and Use Taxes","Other",2017,0,242.6565,0
+"555","Taxes","Personal Income Taxes","Personal Income Taxes",2017,11257809000,242.6565,14362218037
+"556","Taxes","Income Taxes, Other","General Corporation",2017,4045398000,242.6565,5160941007
+"557","Taxes","Income Taxes, Other","Financial Corporation",2017,435658000,242.6565,555793333
+"558","Taxes","Income Taxes, Other","Unincorporated Business",2017,2079048000,242.6565,2652358082
+"559","Taxes","Income Taxes, Other","Pass-through Entity Tax",2017,0,242.6565,0
+"560","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2017,161775000,242.6565,206385436
+"561","Taxes","Income Taxes, Other","Utility",2017,398742000,242.6565,508697522
+"562","Taxes","Other Taxes","Payments in Lieu of Taxes",2017,351438000,242.6565,448349158
+"563","Taxes","Other Taxes","Hotel Room Occupancy",2017,582481000,242.6565,743103665
+"564","Taxes","Other Taxes","Commercial Rents",2017,921373000,242.6565,1175447187
+"565","Taxes","Other Taxes","Horse Race Admissions",2017,43000,242.6565,54858
+"566","Taxes","Other Taxes","Conveyance of Real Property",2017,1418683000,242.6565,1809893432
+"567","Taxes","Other Taxes","Beer and Liquor Excise",2017,25814000,242.6565,32932367
+"568","Taxes","Other Taxes","Taxi Medallion Transfer",2017,1539000,242.6565,1963389
+"569","Taxes","Other Taxes","Off-Track Betting Surtax",2017,928000,242.6565,1183902
+"570","Taxes","Other Taxes","Surcharge on Liquor Licenses",2017,6347000,242.6565,8097224
+"571","Taxes","Other Taxes","Coin-operated Amusement Devices",2017,0,242.6565,0
+"572","Taxes","Other Taxes","Refunds of Other Taxes",2017,-53703000,242.6565,-68511928
+"573","Taxes","Other Taxes","Other",2017,48000,242.6565,61236
+"574","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2017,58812000,242.6565,75029765
+"575","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2017,-5676000,242.6565,-7241191
+"576","Federal Grants and Contracts--Categorical","General Government","General Government",2017,1284309000,242.6565,1638464988
+"577","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2017,320868000,242.6565,409349295
+"578","Federal Grants and Contracts--Categorical","Education","Education",2017,1708568000,242.6565,2179715977
+"579","Federal Grants and Contracts--Categorical","Social Services","Social Services",2017,3531602000,242.6565,4505462648
+"580","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2017,1335000,242.6565,1703134
+"581","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2017,56063000,242.6565,71522712
+"582","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2017,-5832000,242.6565,-7440209
+"583","Federal Grants and Contracts--Categorical","Housing","Housing",2017,521755000,242.6565,665632102
+"584","Federal Grants and Contracts--Categorical","Health","Health",2017,311032000,242.6565,396800958
+"585","Federal Grants and Contracts--Categorical","Libraries","Libraries",2017,0,242.6565,0
+"586","Federal Grants and Contracts--Categorical","City University","City University",2017,-1630000,242.6565,-2079482
+"587","State Grants and Contracts--Categorical","General Government","General Government",2017,705576000,242.6565,900142857
+"588","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2017,125739000,242.6565,160412291
+"589","State Grants and Contracts--Categorical","Education","Education",2017,10250072000,242.6565,13076591454
+"590","State Grants and Contracts--Categorical","Social Services","Social Services",2017,1751993000,242.6565,2235115684
+"591","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2017,649000,242.6565,827966
+"592","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2017,332716000,242.6565,424464453
+"593","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2017,1083000,242.6565,1381644
+"594","State Grants and Contracts--Categorical","Housing","Housing",2017,784000,242.6565,1000193
+"595","State Grants and Contracts--Categorical","Health","Health",2017,573166000,242.6565,731219997
+"596","State Grants and Contracts--Categorical","City University","City University",2017,248267000,242.6565,316728129
+"597","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2017,0,242.6565,0
+"598","Non-Governmental Grants","General Government","General Government",2017,594600000,242.6565,758564552
+"599","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2017,214833000,242.6565,274074501
+"600","Non-Governmental Grants","Education","Education",2017,175892000,242.6565,224395285
+"601","Non-Governmental Grants","Social Services","Social Services",2017,3131000,242.6565,3994392
+"602","Non-Governmental Grants","Environmental Protection","Environmental Protection",2017,12207000,242.6565,15573154
+"603","Non-Governmental Grants","Transportation Services","Transportation Services",2017,4774000,242.6565,6090459
+"604","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2017,13186000,242.6565,16822119
+"605","Non-Governmental Grants","Housing","Housing",2017,15816000,242.6565,20177358
+"606","Non-Governmental Grants","Health","Health",2017,20373000,242.6565,25990978
+"607","Non-Governmental Grants","Libraries","Libraries",2017,0,242.6565,0
+"608","Non-Governmental Grants","City University","City University",2017,13891000,242.6565,17721527
+"609","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2017,557638000,242.6565,711410057
+"610","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2017,59058000,242.6565,75343601
+"611","Charges for Services","General Government Charges","General Government Charges",2017,1032731000,242.6565,1317512830
+"612","Charges for Services","Water and Sewer","Water and Sewer",2017,1385446000,242.6565,1767491128
+"613","Charges for Services","Housing","Housing",2017,40384000,242.6565,51520133
+"614","Charges for Services","Rental Income","Rental Income",2017,252867000,242.6565,322596607
+"615","Investment Income","Investment Income","Investment Income",2017,73125000,242.6565,93289662
+"616","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2017,102915000,242.6565,131294435
+"617","Licenses, Permits, Privileges and Franchises","Permits","Permits",2017,288628000,242.6565,368218920
+"618","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2017,378638000,242.6565,483049722
+"619","Fines and Forfeitures","Fines","Fines",2017,983551000,242.6565,1254771147
+"620","Fines and Forfeitures","Forfeitures","Forfeitures",2017,1305000,242.6565,1664862
+"621","Miscellaneous","Miscellaneous","Miscellaneous",2017,424218000,242.6565,541198684
+"622","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2017,139513000,242.6565,177984555
+"623","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2017,82067000,242.6565,104697472
+"624","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2017,217051000,242.6565,276904128
+"625","Taxes","Real Estate Taxes","Real Estate Taxes",2016,23180583000,238.2735,30116755198
+"626","Taxes","Sales and Use Taxes","General Sales",2016,7166843000,238.2735,9311329925
+"627","Taxes","Sales and Use Taxes","Cigarette",2016,44849000,238.2735,58268869
+"628","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2016,64897000,238.2735,84315699
+"629","Taxes","Sales and Use Taxes","Mortgage",2016,1233736000,238.2735,1602898645
+"630","Taxes","Sales and Use Taxes","Stock Transfer",2016,0,238.2735,0
+"631","Taxes","Sales and Use Taxes","Auto Use",2016,29829000,238.2735,38754534
+"632","Taxes","Sales and Use Taxes","Other",2016,0,238.2735,0
+"633","Taxes","Personal Income Taxes","Personal Income Taxes",2016,11392473000,238.2735,14801367180
+"634","Taxes","Income Taxes, Other","General Corporation",2016,3631441000,238.2735,4718053019
+"635","Taxes","Income Taxes, Other","Financial Corporation",2016,689535000,238.2735,895859987
+"636","Taxes","Income Taxes, Other","Unincorporated Business",2016,2111644000,238.2735,2743497237
+"637","Taxes","Income Taxes, Other","Pass-through Entity Tax",2016,0,238.2735,0
+"638","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2016,153793000,238.2735,199811460
+"639","Taxes","Income Taxes, Other","Utility",2016,361201000,238.2735,469280781
+"640","Taxes","Other Taxes","Payments in Lieu of Taxes",2016,320634000,238.2735,416575186
+"641","Taxes","Other Taxes","Hotel Room Occupancy",2016,568069000,238.2735,738048521
+"642","Taxes","Other Taxes","Commercial Rents",2016,836816000,238.2735,1087210905
+"643","Taxes","Other Taxes","Horse Race Admissions",2016,42000,238.2735,54567
+"644","Taxes","Other Taxes","Conveyance of Real Property",2016,1788182000,238.2735,2323247847
+"645","Taxes","Other Taxes","Beer and Liquor Excise",2016,25350000,238.2735,32935312
+"646","Taxes","Other Taxes","Taxi Medallion Transfer",2016,1437000,238.2735,1866984
+"647","Taxes","Other Taxes","Off-Track Betting Surtax",2016,913000,238.2735,1186191
+"648","Taxes","Other Taxes","Surcharge on Liquor Licenses",2016,6504000,238.2735,8450149
+"649","Taxes","Other Taxes","Coin-operated Amusement Devices",2016,0,238.2735,0
+"650","Taxes","Other Taxes","Refunds of Other Taxes",2016,-45447000,238.2735,-59045805
+"651","Taxes","Other Taxes","Other",2016,0,238.2735,0
+"652","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2016,62312000,238.2735,80957207
+"653","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2016,-4987000,238.2735,-6479227
+"654","Federal Grants and Contracts--Categorical","General Government","General Government",2016,929766000,238.2735,1207973717
+"655","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2016,359385000,238.2735,466921391
+"656","Federal Grants and Contracts--Categorical","Education","Education",2016,1698350000,238.2735,2206536013
+"657","Federal Grants and Contracts--Categorical","Social Services","Social Services",2016,3296021000,238.2735,4282267516
+"658","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2016,1554000,238.2735,2018993
+"659","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2016,61657000,238.2735,80106215
+"660","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2016,-6993000,238.2735,-9085469
+"661","Federal Grants and Contracts--Categorical","Housing","Housing",2016,501775000,238.2735,651917807
+"662","Federal Grants and Contracts--Categorical","Health","Health",2016,353139000,238.2735,458806442
+"663","Federal Grants and Contracts--Categorical","Libraries","Libraries",2016,0,238.2735,0
+"664","Federal Grants and Contracts--Categorical","City University","City University",2016,444000,238.2735,576855
+"665","State Grants and Contracts--Categorical","General Government","General Government",2016,798438000,238.2735,1037349310
+"666","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2016,118435000,238.2735,153873520
+"667","State Grants and Contracts--Categorical","Education","Education",2016,9612191000,238.2735,12488383198
+"668","State Grants and Contracts--Categorical","Social Services","Social Services",2016,1533403000,238.2735,1992233015
+"669","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2016,506000,238.2735,657407
+"670","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2016,163311000,238.2735,212177468
+"671","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2016,875000,238.2735,1136820
+"672","State Grants and Contracts--Categorical","Housing","Housing",2016,867000,238.2735,1126427
+"673","State Grants and Contracts--Categorical","Health","Health",2016,534486000,238.2735,694416703
+"674","State Grants and Contracts--Categorical","City University","City University",2016,239245000,238.2735,310832696
+"675","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2016,0,238.2735,0
+"676","Non-Governmental Grants","General Government","General Government",2016,322643000,238.2735,419185326
+"677","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2016,212186000,238.2735,275677010
+"678","Non-Governmental Grants","Education","Education",2016,125011000,238.2735,162417213
+"679","Non-Governmental Grants","Social Services","Social Services",2016,3039000,238.2735,3948340
+"680","Non-Governmental Grants","Environmental Protection","Environmental Protection",2016,6506000,238.2735,8452747
+"681","Non-Governmental Grants","Transportation Services","Transportation Services",2016,1890000,238.2735,2455532
+"682","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2016,16056000,238.2735,20860330
+"683","Non-Governmental Grants","Housing","Housing",2016,2304000,238.2735,2993411
+"684","Non-Governmental Grants","Health","Health",2016,2773000,238.2735,3602746
+"685","Non-Governmental Grants","Libraries","Libraries",2016,0,238.2735,0
+"686","Non-Governmental Grants","City University","City University",2016,9100000,238.2735,11822933
+"687","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2016,-772000,238.2735,-1003000
+"688","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2016,6168000,238.2735,8013610
+"689","Charges for Services","General Government Charges","General Government Charges",2016,1000531000,238.2735,1299913259
+"690","Charges for Services","Water and Sewer","Water and Sewer",2016,1297294000,238.2735,1685474684
+"691","Charges for Services","Housing","Housing",2016,47413000,238.2735,61600078
+"692","Charges for Services","Rental Income","Rental Income",2016,279119000,238.2735,362637928
+"693","Investment Income","Investment Income","Investment Income",2016,78791000,238.2735,102367109
+"694","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2016,90592000,238.2735,117699244
+"695","Licenses, Permits, Privileges and Franchises","Permits","Permits",2016,285909000,238.2735,371459655
+"696","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2016,352041000,238.2735,457379895
+"697","Fines and Forfeitures","Fines","Fines",2016,992714000,238.2735,1289757230
+"698","Fines and Forfeitures","Forfeitures","Forfeitures",2016,1859000,238.2735,2415256
+"699","Miscellaneous","Miscellaneous","Miscellaneous",2016,448835000,238.2735,583136922
+"700","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2016,159154000,238.2735,206776596
+"701","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2016,82047000,238.2735,106597380
+"702","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2016,345777000,238.2735,449241560
+"703","Taxes","Real Estate Taxes","Real Estate Taxes",2015,21517932000,236.6765,28145240310
+"704","Taxes","Sales and Use Taxes","General Sales",2015,6755971000,236.6765,8836742644
+"705","Taxes","Sales and Use Taxes","Cigarette",2015,49897000,236.6765,65264778
+"706","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2015,60757000,236.6765,79469550
+"707","Taxes","Sales and Use Taxes","Mortgage",2015,1154627000,236.6765,1510240593
+"708","Taxes","Sales and Use Taxes","Stock Transfer",2015,0,236.6765,0
+"709","Taxes","Sales and Use Taxes","Auto Use",2015,29680000,236.6765,38821144
+"710","Taxes","Sales and Use Taxes","Other",2015,0,236.6765,0
+"711","Taxes","Personal Income Taxes","Personal Income Taxes",2015,11294669000,236.6765,14773314333
+"712","Taxes","Income Taxes, Other","General Corporation",2015,3335917000,236.6765,4363346144
+"713","Taxes","Income Taxes, Other","Financial Corporation",2015,1658179000,236.6765,2168881584
+"714","Taxes","Income Taxes, Other","Unincorporated Business",2015,2064596000,236.6765,2700470964
+"715","Taxes","Income Taxes, Other","Pass-through Entity Tax",2015,0,236.6765,0
+"716","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2015,145436000,236.6765,190228837
+"717","Taxes","Income Taxes, Other","Utility",2015,397914000,236.6765,520467541
+"718","Taxes","Other Taxes","Payments in Lieu of Taxes",2015,304585000,236.6765,398394140
+"719","Taxes","Other Taxes","Hotel Room Occupancy",2015,559846000,236.6765,732272981
+"720","Taxes","Other Taxes","Commercial Rents",2015,787035000,236.6765,1029433925
+"721","Taxes","Other Taxes","Horse Race Admissions",2015,38000,236.6765,49704
+"722","Taxes","Other Taxes","Conveyance of Real Property",2015,1772193000,236.6765,2318010758
+"723","Taxes","Other Taxes","Beer and Liquor Excise",2015,24585000,236.6765,32156935
+"724","Taxes","Other Taxes","Taxi Medallion Transfer",2015,3401000,236.6765,4448474
+"725","Taxes","Other Taxes","Off-Track Betting Surtax",2015,1028000,236.6765,1344614
+"726","Taxes","Other Taxes","Surcharge on Liquor Licenses",2015,6176000,236.6765,8078146
+"727","Taxes","Other Taxes","Coin-operated Amusement Devices",2015,0,236.6765,0
+"728","Taxes","Other Taxes","Refunds of Other Taxes",2015,-33654000,236.6765,-44019096
+"729","Taxes","Other Taxes","Other",2015,0,236.6765,0
+"730","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2015,56594000,236.6765,74024387
+"731","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2015,-6061000,236.6765,-7927728
+"732","Federal Grants and Contracts--Categorical","General Government","General Government",2015,697636000,236.6765,912500926
+"733","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2015,374406000,236.6765,489719311
+"734","Federal Grants and Contracts--Categorical","Education","Education",2015,1676898000,236.6765,2193365849
+"735","Federal Grants and Contracts--Categorical","Social Services","Social Services",2015,3140540000,236.6765,4107794978
+"736","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2015,6502000,236.6765,8504551
+"737","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2015,86336000,236.6765,112926626
+"738","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2015,1342000,236.6765,1755323
+"739","Federal Grants and Contracts--Categorical","Housing","Housing",2015,478273000,236.6765,625576311
+"740","Federal Grants and Contracts--Categorical","Health","Health",2015,320211000,236.6765,418832792
+"741","Federal Grants and Contracts--Categorical","Libraries","Libraries",2015,0,236.6765,0
+"742","Federal Grants and Contracts--Categorical","City University","City University",2015,1892000,236.6765,2474717
+"743","State Grants and Contracts--Categorical","General Government","General Government",2015,671196000,236.6765,877917670
+"744","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2015,84679000,236.6765,110759287
+"745","State Grants and Contracts--Categorical","Education","Education",2015,9131458000,236.6765,11943855933
+"746","State Grants and Contracts--Categorical","Social Services","Social Services",2015,1450044000,236.6765,1896643081
+"747","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2015,877000,236.6765,1147107
+"748","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2015,165084000,236.6765,215928224
+"749","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2015,2250000,236.6765,2942978
+"750","State Grants and Contracts--Categorical","Housing","Housing",2015,683000,236.6765,893357
+"751","State Grants and Contracts--Categorical","Health","Health",2015,363987000,236.6765,476091363
+"752","State Grants and Contracts--Categorical","City University","City University",2015,226761000,236.6765,296601125
+"753","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2015,0,236.6765,0
+"754","Non-Governmental Grants","General Government","General Government",2015,270342000,236.6765,353604638
+"755","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2015,190415000,236.6765,249060920
+"756","Non-Governmental Grants","Education","Education",2015,151461000,236.6765,198109476
+"757","Non-Governmental Grants","Social Services","Social Services",2015,3e+06,236.6765,3923970
+"758","Non-Governmental Grants","Environmental Protection","Environmental Protection",2015,17714000,236.6765,23169735
+"759","Non-Governmental Grants","Transportation Services","Transportation Services",2015,2026000,236.6765,2649988
+"760","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2015,14839000,236.6765,19409264
+"761","Non-Governmental Grants","Housing","Housing",2015,6812000,236.6765,8910028
+"762","Non-Governmental Grants","Health","Health",2015,1144000,236.6765,1496341
+"763","Non-Governmental Grants","Libraries","Libraries",2015,0,236.6765,0
+"764","Non-Governmental Grants","City University","City University",2015,8906000,236.6765,11648959
+"765","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2015,-109972000,236.6765,-143842278
+"766","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2015,409000,236.6765,534968
+"767","Charges for Services","General Government Charges","General Government Charges",2015,973756000,236.6765,1273663130
+"768","Charges for Services","Water and Sewer","Water and Sewer",2015,1439415000,236.6765,1882740455
+"769","Charges for Services","Housing","Housing",2015,48131000,236.6765,62954868
+"770","Charges for Services","Rental Income","Rental Income",2015,283835000,236.6765,371253347
+"771","Investment Income","Investment Income","Investment Income",2015,29889000,236.6765,39094514
+"772","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2015,81458000,236.6765,106546251
+"773","Licenses, Permits, Privileges and Franchises","Permits","Permits",2015,277378000,236.6765,362807656
+"774","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2015,344172000,236.6765,450173541
+"775","Fines and Forfeitures","Fines","Fines",2015,957006000,236.6765,1251754297
+"776","Fines and Forfeitures","Forfeitures","Forfeitures",2015,2279000,236.6765,2980909
+"777","Miscellaneous","Miscellaneous","Miscellaneous",2015,1665640000,236.6765,2178640497
+"778","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2015,241126000,236.6765,315390402
+"779","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2015,81786000,236.6765,106975272
+"780","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2015,229949000,236.6765,300770997
+"781","Taxes","Real Estate Taxes","Real Estate Taxes",2014,20202022000,234.966,26616404295
+"782","Taxes","Sales and Use Taxes","General Sales",2014,6508814000,234.966,8575439870
+"783","Taxes","Sales and Use Taxes","Cigarette",2014,55123000,234.966,72625208
+"784","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2014,50299000,234.966,66269531
+"785","Taxes","Sales and Use Taxes","Mortgage",2014,960852000,234.966,1265933940
+"786","Taxes","Sales and Use Taxes","Stock Transfer",2014,0,234.966,0
+"787","Taxes","Sales and Use Taxes","Auto Use",2014,28898000,234.966,38073459
+"788","Taxes","Sales and Use Taxes","Other",2014,0,234.966,0
+"789","Taxes","Personal Income Taxes","Personal Income Taxes",2014,10173614000,234.966,13403857464
+"790","Taxes","Income Taxes, Other","General Corporation",2014,3367328000,234.966,4436494696
+"791","Taxes","Income Taxes, Other","Financial Corporation",2014,1352349000,234.966,1781735894
+"792","Taxes","Income Taxes, Other","Unincorporated Business",2014,1954138000,234.966,2574600060
+"793","Taxes","Income Taxes, Other","Pass-through Entity Tax",2014,0,234.966,0
+"794","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2014,130688000,234.966,172182995
+"795","Taxes","Income Taxes, Other","Utility",2014,410342000,234.966,540630466
+"796","Taxes","Other Taxes","Payments in Lieu of Taxes",2014,270131000,234.966,355900806
+"797","Taxes","Other Taxes","Hotel Room Occupancy",2014,541293000,234.966,713159966
+"798","Taxes","Other Taxes","Commercial Rents",2014,771186000,234.966,1016046729
+"799","Taxes","Other Taxes","Horse Race Admissions",2014,20000,234.966,26350
+"800","Taxes","Other Taxes","Conveyance of Real Property",2014,1530167000,234.966,2016013224
+"801","Taxes","Other Taxes","Beer and Liquor Excise",2014,22604000,234.966,29781039
+"802","Taxes","Other Taxes","Taxi Medallion Transfer",2014,5735000,234.966,7555931
+"803","Taxes","Other Taxes","Off-Track Betting Surtax",2014,1241000,234.966,1635032
+"804","Taxes","Other Taxes","Surcharge on Liquor Licenses",2014,6309000,234.966,8312183
+"805","Taxes","Other Taxes","Coin-operated Amusement Devices",2014,0,234.966,0
+"806","Taxes","Other Taxes","Refunds of Other Taxes",2014,-28608000,234.966,-37691380
+"807","Taxes","Other Taxes","Other",2014,0,234.966,0
+"808","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2014,64231000,234.966,84625107
+"809","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2014,-3364000,234.966,-4432110
+"810","Federal Grants and Contracts--Categorical","General Government","General Government",2014,487580000,234.966,642392450
+"811","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2014,404044000,234.966,532332776
+"812","Federal Grants and Contracts--Categorical","Education","Education",2014,1672473000,234.966,2203503072
+"813","Federal Grants and Contracts--Categorical","Social Services","Social Services",2014,3274678000,234.966,4314427218
+"814","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2014,28267000,234.966,37242109
+"815","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2014,86934000,234.966,114536579
+"816","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2014,10278000,234.966,13541387
+"817","Federal Grants and Contracts--Categorical","Housing","Housing",2014,472450000,234.966,622458495
+"818","Federal Grants and Contracts--Categorical","Health","Health",2014,332299000,234.966,437807885
+"819","Federal Grants and Contracts--Categorical","Libraries","Libraries",2014,0,234.966,0
+"820","Federal Grants and Contracts--Categorical","City University","City University",2014,-1941000,234.966,-2557291
+"821","State Grants and Contracts--Categorical","General Government","General Government",2014,642319000,234.966,846262923
+"822","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2014,79452000,234.966,104678955
+"823","State Grants and Contracts--Categorical","Education","Education",2014,7907175000,234.966,10417797121
+"824","State Grants and Contracts--Categorical","Social Services","Social Services",2014,1452253000,234.966,1913360603
+"825","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2014,162000,234.966,213437
+"826","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2014,158183000,234.966,208407984
+"827","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2014,1362000,234.966,1794451
+"828","State Grants and Contracts--Categorical","Housing","Housing",2014,649000,234.966,855065
+"829","State Grants and Contracts--Categorical","Health","Health",2014,453532000,234.966,597533805
+"830","State Grants and Contracts--Categorical","City University","City University",2014,221004000,234.966,291175399
+"831","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2014,0,234.966,0
+"832","Non-Governmental Grants","General Government","General Government",2014,296578000,234.966,390745043
+"833","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2014,222536000,234.966,293193827
+"834","Non-Governmental Grants","Education","Education",2014,153342000,234.966,202029909
+"835","Non-Governmental Grants","Social Services","Social Services",2014,44000,234.966,57971
+"836","Non-Governmental Grants","Environmental Protection","Environmental Protection",2014,23331000,234.966,30738870
+"837","Non-Governmental Grants","Transportation Services","Transportation Services",2014,1916000,234.966,2524353
+"838","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2014,14270000,234.966,18800895
+"839","Non-Governmental Grants","Housing","Housing",2014,13014000,234.966,17146100
+"840","Non-Governmental Grants","Health","Health",2014,-3059000,234.966,-4030269
+"841","Non-Governmental Grants","Libraries","Libraries",2014,0,234.966,0
+"842","Non-Governmental Grants","City University","City University",2014,8669000,234.966,11421511
+"843","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2014,-18556000,234.966,-24447751
+"844","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2014,0,234.966,0
+"845","Charges for Services","General Government Charges","General Government Charges",2014,950834000,234.966,1252735105
+"846","Charges for Services","Water and Sewer","Water and Sewer",2014,1490550000,234.966,1963817356
+"847","Charges for Services","Housing","Housing",2014,33635000,234.966,44314513
+"848","Charges for Services","Rental Income","Rental Income",2014,311441000,234.966,410327222
+"849","Investment Income","Investment Income","Investment Income",2014,15985000,234.966,21060428
+"850","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2014,80082000,234.966,105508988
+"851","Licenses, Permits, Privileges and Franchises","Permits","Permits",2014,233044000,234.966,307038242
+"852","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2014,334707000,234.966,440980454
+"853","Fines and Forfeitures","Fines","Fines",2014,890356000,234.966,1173054621
+"854","Fines and Forfeitures","Forfeitures","Forfeitures",2014,1826000,234.966,2405777
+"855","Miscellaneous","Miscellaneous","Miscellaneous",2014,1146660000,234.966,1510738190
+"856","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2014,293586000,234.966,386803047
+"857","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2014,81474000,234.966,107342964
+"858","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2014,245700000,234.966,323712673
+"859","Taxes","Real Estate Taxes","Real Estate Taxes",2013,18969610000,230.608,25464995371
+"860","Taxes","Sales and Use Taxes","General Sales",2013,6149880000,230.608,8255660803
+"861","Taxes","Sales and Use Taxes","Cigarette",2013,61071000,230.608,81982325
+"862","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2013,48247000,230.608,64767258
+"863","Taxes","Sales and Use Taxes","Mortgage",2013,742086000,230.608,996183715
+"864","Taxes","Sales and Use Taxes","Stock Transfer",2013,28225000,230.608,37889524
+"865","Taxes","Sales and Use Taxes","Auto Use",2013,2750000,230.608,3691628
+"866","Taxes","Sales and Use Taxes","Other",2013,0,230.608,0
+"867","Taxes","Personal Income Taxes","Personal Income Taxes",2013,9814898000,230.608,13175617851
+"868","Taxes","Income Taxes, Other","General Corporation",2013,3348349000,230.608,4494857395
+"869","Taxes","Income Taxes, Other","Financial Corporation",2013,1467473000,230.608,1969950524
+"870","Taxes","Income Taxes, Other","Unincorporated Business",2013,1894021000,230.608,2542552852
+"871","Taxes","Income Taxes, Other","Pass-through Entity Tax",2013,0,230.608,0
+"872","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2013,128664000,230.608,172719848
+"873","Taxes","Income Taxes, Other","Utility",2013,410126000,230.608,550557270
+"874","Taxes","Other Taxes","Payments in Lieu of Taxes",2013,265164000,230.608,355958822
+"875","Taxes","Other Taxes","Hotel Room Occupancy",2013,512342000,230.608,687773057
+"876","Taxes","Other Taxes","Commercial Rents",2013,721213000,230.608,968163589
+"877","Taxes","Other Taxes","Horse Race Admissions",2013,22000,230.608,29533
+"878","Taxes","Other Taxes","Conveyance of Real Property",2013,1096432000,230.608,1471861351
+"879","Taxes","Other Taxes","Beer and Liquor Excise",2013,24038000,230.608,32268853
+"880","Taxes","Other Taxes","Taxi Medallion Transfer",2013,9757000,230.608,13097895
+"881","Taxes","Other Taxes","Off-Track Betting Surtax",2013,1405000,230.608,1886086
+"882","Taxes","Other Taxes","Surcharge on Liquor Licenses",2013,5772000,230.608,7748391
+"883","Taxes","Other Taxes","Coin-operated Amusement Devices",2013,0,230.608,0
+"884","Taxes","Other Taxes","Refunds of Other Taxes",2013,-33985000,230.608,-45621806
+"885","Taxes","Other Taxes","Other",2013,0,230.608,0
+"886","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2013,54569000,230.608,73253975
+"887","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2013,-346000,230.608,-464474
+"888","Federal Grants and Contracts--Categorical","General Government","General Government",2013,843974000,230.608,1132959191
+"889","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2013,488961000,230.608,656386167
+"890","Federal Grants and Contracts--Categorical","Education","Education",2013,1872591000,230.608,2513785004
+"891","Federal Grants and Contracts--Categorical","Social Services","Social Services",2013,3392702000,230.608,4554397308
+"892","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2013,694502000,230.608,932306474
+"893","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2013,133872000,230.608,179711120
+"894","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2013,63031000,230.608,84613449
+"895","Federal Grants and Contracts--Categorical","Housing","Housing",2013,506463000,230.608,679881028
+"896","Federal Grants and Contracts--Categorical","Health","Health",2013,422472000,230.608,567130664
+"897","Federal Grants and Contracts--Categorical","Libraries","Libraries",2013,156000,230.608,209416
+"898","Federal Grants and Contracts--Categorical","City University","City University",2013,2306000,230.608,3095598
+"899","State Grants and Contracts--Categorical","General Government","General Government",2013,480178000,230.608,644595780
+"900","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2013,71952000,230.608,96589089
+"901","State Grants and Contracts--Categorical","Education","Education",2013,7933480000,230.608,10649983393
+"902","State Grants and Contracts--Categorical","Social Services","Social Services",2013,1546463000,230.608,2075987495
+"903","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2013,1859000,230.608,2495540
+"904","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2013,150030000,230.608,201401782
+"905","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2013,1895000,230.608,2543867
+"906","State Grants and Contracts--Categorical","Housing","Housing",2013,2820000,230.608,3785596
+"907","State Grants and Contracts--Categorical","Health","Health",2013,494823000,230.608,664255375
+"908","State Grants and Contracts--Categorical","City University","City University",2013,200461000,230.608,269100864
+"909","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2013,1.43e+08,230.608,191964639
+"910","Non-Governmental Grants","General Government","General Government",2013,426223000,230.608,572166045
+"911","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2013,283613000,230.608,380724945
+"912","Non-Governmental Grants","Education","Education",2013,121244000,230.608,162759166
+"913","Non-Governmental Grants","Social Services","Social Services",2013,206000,230.608,276536
+"914","Non-Governmental Grants","Environmental Protection","Environmental Protection",2013,11088000,230.608,14884643
+"915","Non-Governmental Grants","Transportation Services","Transportation Services",2013,1339000,230.608,1797487
+"916","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2013,11683000,230.608,15683377
+"917","Non-Governmental Grants","Housing","Housing",2013,5450000,230.608,7316135
+"918","Non-Governmental Grants","Health","Health",2013,1668000,230.608,2239140
+"919","Non-Governmental Grants","Libraries","Libraries",2013,0,230.608,0
+"920","Non-Governmental Grants","City University","City University",2013,8411000,230.608,11291011
+"921","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2013,-59202000,230.608,-79473361
+"922","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2013,0,230.608,0
+"923","Charges for Services","General Government Charges","General Government Charges",2013,871676000,230.608,1170146635
+"924","Charges for Services","Water and Sewer","Water and Sewer",2013,1361055000,230.608,1827093929
+"925","Charges for Services","Housing","Housing",2013,42280000,230.608,56757097
+"926","Charges for Services","Rental Income","Rental Income",2013,296753000,230.608,398364214
+"927","Investment Income","Investment Income","Investment Income",2013,16196000,230.608,21741673
+"928","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2013,64696000,230.608,86848561
+"929","Licenses, Permits, Privileges and Franchises","Permits","Permits",2013,204191000,230.608,274108053
+"930","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2013,323703000,230.608,434542165
+"931","Fines and Forfeitures","Fines","Fines",2013,811355000,230.608,1089171117
+"932","Fines and Forfeitures","Forfeitures","Forfeitures",2013,3372000,230.608,4526607
+"933","Miscellaneous","Miscellaneous","Miscellaneous",2013,545253000,230.608,731953115
+"934","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2013,191547000,230.608,257134620
+"935","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2013,86115000,230.608,115601643
+"936","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2013,229538000,230.608,308134121
+"937","Taxes","Real Estate Taxes","Real Estate Taxes",2012,18157722000,226.596,24806682723
+"938","Taxes","Sales and Use Taxes","General Sales",2012,5826046000,226.596,7959416641
+"939","Taxes","Sales and Use Taxes","Cigarette",2012,67561000,226.596,92300361
+"940","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2012,53675000,226.596,73329611
+"941","Taxes","Sales and Use Taxes","Mortgage",2012,536737000,226.596,733278352
+"942","Taxes","Sales and Use Taxes","Stock Transfer",2012,0,226.596,0
+"943","Taxes","Sales and Use Taxes","Auto Use",2012,28088000,226.596,38373211
+"944","Taxes","Sales and Use Taxes","Other",2012,0,226.596,0
+"945","Taxes","Personal Income Taxes","Personal Income Taxes",2012,8557002000,226.596,11690389008
+"946","Taxes","Income Taxes, Other","General Corporation",2012,2845794000,226.596,3887861531
+"947","Taxes","Income Taxes, Other","Financial Corporation",2012,1421401000,226.596,1941886963
+"948","Taxes","Income Taxes, Other","Unincorporated Business",2012,1688318000,226.596,2306543131
+"949","Taxes","Income Taxes, Other","Pass-through Entity Tax",2012,0,226.596,0
+"950","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2012,123792000,226.596,169121923
+"951","Taxes","Income Taxes, Other","Utility",2012,419576000,226.596,573215556
+"952","Taxes","Other Taxes","Payments in Lieu of Taxes",2012,261128000,226.596,356747363
+"953","Taxes","Other Taxes","Hotel Room Occupancy",2012,485258000,226.596,662948868
+"954","Taxes","Other Taxes","Commercial Rents",2012,673326000,226.596,919883257
+"955","Taxes","Other Taxes","Horse Race Admissions",2012,22000,226.596,30056
+"956","Taxes","Other Taxes","Conveyance of Real Property",2012,917652000,226.596,1253676095
+"957","Taxes","Other Taxes","Beer and Liquor Excise",2012,22733000,226.596,31057327
+"958","Taxes","Other Taxes","Taxi Medallion Transfer",2012,8003000,226.596,10933524
+"959","Taxes","Other Taxes","Off-Track Betting Surtax",2012,1128000,226.596,1541049
+"960","Taxes","Other Taxes","Surcharge on Liquor Licenses",2012,5759000,226.596,7867820
+"961","Taxes","Other Taxes","Coin-operated Amusement Devices",2012,0,226.596,0
+"962","Taxes","Other Taxes","Refunds of Other Taxes",2012,-31422000,226.596,-42928049
+"963","Taxes","Other Taxes","Other",2012,0,226.596,0
+"964","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2012,42494000,226.596,58054374
+"965","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2012,-407000,226.596,-556034
+"966","Federal Grants and Contracts--Categorical","General Government","General Government",2012,411744000,226.596,562515649
+"967","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2012,291806000,226.596,398658976
+"968","Federal Grants and Contracts--Categorical","Education","Education",2012,1860509000,226.596,2541786710
+"969","Federal Grants and Contracts--Categorical","Social Services","Social Services",2012,3362564000,226.596,4593861404
+"970","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2012,26945000,226.596,36811670
+"971","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2012,87728000,226.596,119852075
+"972","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2012,13046000,226.596,17823160
+"973","Federal Grants and Contracts--Categorical","Housing","Housing",2012,522728000,226.596,714139563
+"974","Federal Grants and Contracts--Categorical","Health","Health",2012,420758000,226.596,574830378
+"975","Federal Grants and Contracts--Categorical","Libraries","Libraries",2012,0,226.596,0
+"976","Federal Grants and Contracts--Categorical","City University","City University",2012,0,226.596,0
+"977","State Grants and Contracts--Categorical","General Government","General Government",2012,351598000,226.596,480345499
+"978","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2012,70658000,226.596,96531414
+"979","State Grants and Contracts--Categorical","Education","Education",2012,8011639000,226.596,10945326003
+"980","State Grants and Contracts--Categorical","Social Services","Social Services",2012,1568400000,226.596,2142713782
+"981","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2012,4941000,226.596,6750286
+"982","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2012,167427000,226.596,228735106
+"983","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2012,1296000,226.596,1770567
+"984","State Grants and Contracts--Categorical","Housing","Housing",2012,3708000,226.596,5065789
+"985","State Grants and Contracts--Categorical","Health","Health",2012,535597000,226.596,731720909
+"986","State Grants and Contracts--Categorical","City University","City University",2012,178590000,226.596,243985753
+"987","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2012,219921000,226.596,300451261
+"988","Non-Governmental Grants","General Government","General Government",2012,455264000,226.596,621971721
+"989","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2012,314376000,226.596,429493616
+"990","Non-Governmental Grants","Education","Education",2012,80973000,226.596,110623542
+"991","Non-Governmental Grants","Social Services","Social Services",2012,6000,226.596,8197
+"992","Non-Governmental Grants","Environmental Protection","Environmental Protection",2012,24667000,226.596,33699516
+"993","Non-Governmental Grants","Transportation Services","Transportation Services",2012,1256000,226.596,1715920
+"994","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2012,11900000,226.596,16257520
+"995","Non-Governmental Grants","Housing","Housing",2012,31079000,226.596,42459450
+"996","Non-Governmental Grants","Health","Health",2012,9588000,226.596,13098916
+"997","Non-Governmental Grants","Libraries","Libraries",2012,0,226.596,0
+"998","Non-Governmental Grants","City University","City University",2012,9605000,226.596,13122141
+"999","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2012,166018000,226.596,226810161
+"1000","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2012,2.5e+07,226.596,34154453
+"1001","Charges for Services","General Government Charges","General Government Charges",2012,850005000,226.596,1161258243
+"1002","Charges for Services","Water and Sewer","Water and Sewer",2012,1373038000,226.596,1875814490
+"1003","Charges for Services","Housing","Housing",2012,24201000,226.596,33062877
+"1004","Charges for Services","Rental Income","Rental Income",2012,291225000,226.596,397865226
+"1005","Investment Income","Investment Income","Investment Income",2012,16221000,226.596,22160775
+"1006","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2012,64116000,226.596,87593877
+"1007","Licenses, Permits, Privileges and Franchises","Permits","Permits",2012,190358000,226.596,260062937
+"1008","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2012,328780000,226.596,449172046
+"1009","Fines and Forfeitures","Fines","Fines",2012,854677000,226.596,1167641027
+"1010","Fines and Forfeitures","Forfeitures","Forfeitures",2012,3885000,226.596,5307602
+"1011","Miscellaneous","Miscellaneous","Miscellaneous",2012,1133029000,226.596,1547919443
+"1012","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2012,201830000,226.596,275735732
+"1013","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2012,88133000,226.596,120405377
+"1014","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2012,209446000,226.596,286140545
+"1015","Taxes","Real Estate Taxes","Real Estate Taxes",2011,17086484000,221.237,23908620145
+"1016","Taxes","Sales and Use Taxes","General Sales",2011,5610243000,221.237,7850249871
+"1017","Taxes","Sales and Use Taxes","Cigarette",2011,69795000,221.237,97662114
+"1018","Taxes","Sales and Use Taxes","Commercial Motor Vehicle",2011,47720000,221.237,66773208
+"1019","Taxes","Sales and Use Taxes","Mortgage",2011,434418000,221.237,607868473
+"1020","Taxes","Sales and Use Taxes","Stock Transfer",2011,0,221.237,0
+"1021","Taxes","Sales and Use Taxes","Auto Use",2011,28039000,221.237,39234157
+"1022","Taxes","Sales and Use Taxes","Other",2011,0,221.237,0
+"1023","Taxes","Personal Income Taxes","Personal Income Taxes",2011,8165972000,221.237,11426407134
+"1024","Taxes","Income Taxes, Other","General Corporation",2011,2898760000,221.237,4056150565
+"1025","Taxes","Income Taxes, Other","Financial Corporation",2011,1519450000,221.237,2126122196
+"1026","Taxes","Income Taxes, Other","Unincorporated Business",2011,1733426000,221.237,2425532590
+"1027","Taxes","Income Taxes, Other","Pass-through Entity Tax",2011,0,221.237,0
+"1028","Taxes","Income Taxes, Other","Personal Income- (Non-Resident City Employees)",2011,120192000,221.237,168181170
+"1029","Taxes","Income Taxes, Other","Utility",2011,433471000,221.237,606543364
+"1030","Taxes","Other Taxes","Payments in Lieu of Taxes",2011,276082000,221.237,386313513
+"1031","Taxes","Other Taxes","Hotel Room Occupancy",2011,431980000,221.237,604457051
+"1032","Taxes","Other Taxes","Commercial Rents",2011,630670000,221.237,882478190
+"1033","Taxes","Other Taxes","Horse Race Admissions",2011,20000,221.237,27985
+"1034","Taxes","Other Taxes","Conveyance of Real Property",2011,798977000,221.237,1117985280
+"1035","Taxes","Other Taxes","Beer and Liquor Excise",2011,23617000,221.237,33046581
+"1036","Taxes","Other Taxes","Taxi Medallion Transfer",2011,11009000,221.237,15404574
+"1037","Taxes","Other Taxes","Off-Track Betting Surtax",2011,1272000,221.237,1779873
+"1038","Taxes","Other Taxes","Surcharge on Liquor Licenses",2011,5487000,221.237,7677800
+"1039","Taxes","Other Taxes","Coin-operated Amusement Devices",2011,0,221.237,0
+"1040","Taxes","Other Taxes","Refunds of Other Taxes",2011,-23366000,221.237,-32695364
+"1041","Taxes","Other Taxes","Other",2011,0,221.237,0
+"1042","Taxes","Penalties and Interest on Delinquent Taxes","Penalties and Interest on Real Estate Taxes",2011,46857000,221.237,65565637
+"1043","Taxes","Penalties and Interest on Delinquent Taxes","Refunds--Penalties and Interest on Other Taxes",2011,-771000,221.237,-1078838
+"1044","Federal Grants and Contracts--Categorical","General Government","General Government",2011,461414000,221.237,645643191
+"1045","Federal Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2011,299543000,221.237,419141808
+"1046","Federal Grants and Contracts--Categorical","Education","Education",2011,2761498000,221.237,3864083840
+"1047","Federal Grants and Contracts--Categorical","Social Services","Social Services",2011,3290895000,221.237,4604853666
+"1048","Federal Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2011,7833000,221.237,10960489
+"1049","Federal Grants and Contracts--Categorical","Transportation Services","Transportation Services",2011,102798000,221.237,143842252
+"1050","Federal Grants and Contracts--Categorical","Parks, Recreation, and Cultural Activities","Parks, Recreation, and Cultural Activities",2011,1442000,221.237,2017749
+"1051","Federal Grants and Contracts--Categorical","Housing","Housing",2011,483787000,221.237,676949079
+"1052","Federal Grants and Contracts--Categorical","Health","Health",2011,304615000,221.237,426238911
+"1053","Federal Grants and Contracts--Categorical","Libraries","Libraries",2011,0,221.237,0
+"1054","Federal Grants and Contracts--Categorical","City University","City University",2011,32836000,221.237,45946460
+"1055","State Grants and Contracts--Categorical","General Government","General Government",2011,518005000,221.237,724829332
+"1056","State Grants and Contracts--Categorical","Public Safety and Judicial","Public Safety and Judicial",2011,130013000,221.237,181923410
+"1057","State Grants and Contracts--Categorical","Education","Education",2011,8110198000,221.237,11348364197
+"1058","State Grants and Contracts--Categorical","Social Services","Social Services",2011,1780578000,221.237,2491511012
+"1059","State Grants and Contracts--Categorical","Environmental Protection","Environmental Protection",2011,10215000,221.237,14293552
+"1060","State Grants and Contracts--Categorical","Transportation Services","Transportation Services",2011,152532000,221.237,213433592
+"1061","State Grants and Contracts--Categorical","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2011,1064000,221.237,1488824
+"1062","State Grants and Contracts--Categorical","Housing","Housing",2011,1718000,221.237,2403947
+"1063","State Grants and Contracts--Categorical","Health","Health",2011,397240000,221.237,555846379
+"1064","State Grants and Contracts--Categorical","City University","City University",2011,153802000,221.237,215210666
+"1065","State Grants and Contracts--Categorical","General Debt Service Fund","General Debt Service Fund",2011,0,221.237,0
+"1066","Non-Governmental Grants","General Government","General Government",2011,505560000,221.237,707415405
+"1067","Non-Governmental Grants","Public Safety and Judicial","Public Safety and Judicial",2011,301750000,221.237,422229999
+"1068","Non-Governmental Grants","Education","Education",2011,106145000,221.237,148525612
+"1069","Non-Governmental Grants","Social Services","Social Services",2011,199000,221.237,278455
+"1070","Non-Governmental Grants","Environmental Protection","Environmental Protection",2011,20952000,221.237,29317524
+"1071","Non-Governmental Grants","Transportation Services","Transportation Services",2011,1853000,221.237,2592849
+"1072","Non-Governmental Grants","Parks, Recreation and Cultural Activities","Parks, Recreation and Cultural Activities",2011,14354000,221.237,20085135
+"1073","Non-Governmental Grants","Housing","Housing",2011,9293000,221.237,13003425
+"1074","Non-Governmental Grants","Health","Health",2011,284969000,221.237,398748834
+"1075","Non-Governmental Grants","Libraries","Libraries",2011,0,221.237,0
+"1076","Non-Governmental Grants","City University","City University",2011,9820000,221.237,13740840
+"1077","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid","Provision for Disallowances Federal, State and Other Aid",2011,-111659000,221.237,-156241191
+"1078","Unrestricted Federal and State Aid","Intergovernmental Aid","Intergovernmental Aid",2011,38997000,221.237,54567368
+"1079","Charges for Services","General Government Charges","General Government Charges",2011,776041000,221.237,1085891602
+"1080","Charges for Services","Water and Sewer","Water and Sewer",2011,1294533000,221.237,1811402379
+"1081","Charges for Services","Housing","Housing",2011,20705000,221.237,28971904
+"1082","Charges for Services","Rental Income","Rental Income",2011,253403000,221.237,354579448
+"1083","Investment Income","Investment Income","Investment Income",2011,20786000,221.237,29085245
+"1084","Licenses, Permits, Privileges and Franchises","Licenses","Licenses",2011,57027000,221.237,79796223
+"1085","Licenses, Permits, Privileges and Franchises","Permits","Permits",2011,160422000,221.237,224473839
+"1086","Licenses, Permits, Privileges and Franchises","Privileges and Franchises","Privileges and Franchises",2011,307221000,221.237,429885411
+"1087","Fines and Forfeitures","Fines","Fines",2011,816664000,221.237,1142734185
+"1088","Fines and Forfeitures","Forfeitures","Forfeitures",2011,3431000,221.237,4800899
+"1089","Miscellaneous","Miscellaneous","Miscellaneous",2011,562542000,221.237,787148661
+"1090","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales","Pollution Remediation-Bond Sales",2011,267801000,221.237,374726151
+"1091","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund","Transfer from General Debt Service Fund",2011,67503000,221.237,94454985
+"1092","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund","Transfer from Nonmajor Debt Service Fund",2011,177755000,221.237,248727402

@@ -1,0 +1,1253 @@
+"","year","agency","funding_class","sum_rev","agency_total_budget","proportion"
+"1",2011,"Administration for Children's Services","FEDERAL - OTHER",1355797068.93,2760802936.08,0.49
+"2",2011,"Administration for Children's Services","STATE",994666072.12,2760802936.08,0.36
+"3",2011,"Board of Elections","FEDERAL - OTHER",77336,102874348.64,0
+"4",2011,"Board of Elections","STATE",1326990.85,102874348.64,0.01
+"5",2011,"Borough President - Brooklyn","FEDERAL - OTHER",566695.41,5373561.34,0.11
+"6",2011,"Borough President - Brooklyn","STATE",313281.41,5373561.34,0.06
+"7",2011,"Borough President - Manhattan","FEDERAL - OTHER",733832.91,4353335.44,0.17
+"8",2011,"Borough President - Manhattan","STATE",11393,4353335.44,0
+"9",2011,"Borough President - Queens","FEDERAL - OTHER",469051.25,4700505.76,0.1
+"10",2011,"Bronx Community Board #12","STATE",10000,208287.88,0.05
+"11",2011,"Business Integrity Commission","FEDERAL - OTHER",8016.92,6851325.97,0
+"12",2011,"Business Integrity Commission","STATE",0,6851325.97,0
+"13",2011,"City University of New York","FEDERAL - OTHER",32835655.7,777116992.07,0.04
+"14",2011,"City University of New York","STATE",153802162,777116992.07,0.2
+"15",2011,"Commission on Human Rights","FEDERAL - OTHER",156675.05,6135629.93,0.03
+"16",2011,"Debt Service","FEDERAL - OTHER",130368046.28,5255121447.49,0.02
+"17",2011,"Department for the Aging","FEDERAL - OTHER",81449634.0300001,263711206.36,0.31
+"18",2011,"Department for the Aging","STATE",37979338.98,263711206.36,0.14
+"19",2011,"Department of City Planning","FEDERAL - OTHER",2976741.7,23662108.93,0.13
+"20",2011,"Department of City Planning","STATE",249466.02,23662108.93,0.01
+"21",2011,"Department of Citywide Administrative Services","FEDERAL - OTHER",27931408.7,1117608462.81,0.02
+"22",2011,"Department of Citywide Administrative Services","STATE",82851130.06,1117608462.81,0.07
+"23",2011,"Department of Consumer Affairs","STATE",3351238.24,21827517.21,0.15
+"24",2011,"Department of Correction","FEDERAL - OTHER",18357122.78,1045113075.44,0.02
+"25",2011,"Department of Correction","STATE",1270768.69,1045113075.44,0
+"26",2011,"Department of Cultural Affairs","STATE",601889.73,144050223.31,0
+"27",2011,"Department of Education","FEDERAL - OTHER",2788357965.09,18938899076.9,0.15
+"28",2011,"Department of Education","STATE",8156265811.72999,18938899076.9,0.43
+"29",2011,"Department of Emergency Management","FEDERAL - OTHER",33774279.89,33825809.77,1
+"30",2011,"Department of Emergency Management","STATE",92031.49,33825809.77,0
+"31",2011,"Department of Environmental Protection","FEDERAL - OTHER",8374874.78,1021577378.75,0.01
+"32",2011,"Department of Environmental Protection","STATE",139610.53,1021577378.75,0
+"33",2011,"Department of Finance","STATE",511675,219736919.38,0
+"34",2011,"Department of Health and Mental Hygiene","FEDERAL - OTHER",330682155.130001,1626906080.58,0.2
+"35",2011,"Department of Health and Mental Hygiene","STATE",563309783.959999,1626906080.58,0.35
+"36",2011,"Department of Homeless Services","FEDERAL - OTHER",474554539.53,1019182778.69,0.47
+"37",2011,"Department of Homeless Services","STATE",249134928.22,1019182778.69,0.24
+"38",2011,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",9666027.62,415382258.76,0.02
+"39",2011,"Department of Information Technology and Telecommunications","STATE",30087,415382258.76,0
+"40",2011,"Department of Investigation","FEDERAL - OTHER",6500,21736911.13,0
+"41",2011,"Department of Investigation","STATE",29300,21736911.13,0
+"42",2011,"Department of Juvenile Justice","FEDERAL - OTHER",501567,203356949.93,0
+"43",2011,"Department of Juvenile Justice","STATE",45601493.84,203356949.93,0.22
+"44",2011,"Department of Parks and Recreation","FEDERAL - OTHER",1503219.93,393740150.569999,0
+"45",2011,"Department of Parks and Recreation","STATE",2180287.50999999,393740150.569999,0.01
+"46",2011,"Department of Probation","FEDERAL - OTHER",4290779.5,81889613.0700001,0.05
+"47",2011,"Department of Probation","STATE",14214429.24,81889613.0700001,0.17
+"48",2011,"Department of Records and Information Services","STATE",224138,5178781.44,0.04
+"49",2011,"Department of Sanitation","FEDERAL - OTHER",222.86,1408382614.38,0
+"50",2011,"Department of Sanitation","STATE",10130982.15,1408382614.38,0.01
+"51",2011,"Department of Small Business Services","FEDERAL - OTHER",64225901.9100001,148745809.8,0.43
+"52",2011,"Department of Small Business Services","STATE",917040.75000001,148745809.8,0.01
+"53",2011,"Department of Social Services","FEDERAL - OTHER",1653334038.37,8068753247.88001,0.2
+"54",2011,"Department of Social Services","STATE",1036645267.23,8068753247.88001,0.13
+"55",2011,"Department of Transportation","FEDERAL - OTHER",103033937.3,864912858.900001,0.12
+"56",2011,"Department of Transportation","STATE",234890147.48,864912858.900001,0.27
+"57",2011,"Department of Youth and Community Development","FEDERAL - OTHER",86462109.89,350263152.11,0.25
+"58",2011,"Department of Youth and Community Development","STATE",8250819,350263152.11,0.02
+"59",2011,"District Attorney - Bronx County","FEDERAL - OTHER",1433895.55,51067717.01,0.03
+"60",2011,"District Attorney - Bronx County","STATE",4117552.66,51067717.01,0.08
+"61",2011,"District Attorney - New York County","FEDERAL - OTHER",2064914.79,104689619.47,0.02
+"62",2011,"District Attorney - New York County","STATE",9007263.65,104689619.47,0.09
+"63",2011,"District Attorney - Queens County","FEDERAL - OTHER",1305284,48035748.83,0.03
+"64",2011,"District Attorney - Queens County","STATE",3897243.71,48035748.83,0.08
+"65",2011,"District Attorney -Kings County","FEDERAL - OTHER",2739814.39,84986657,0.03
+"66",2011,"District Attorney -Kings County","STATE",7469506.06,84986657,0.09
+"67",2011,"District Attorney -Richmond County","FEDERAL - OTHER",528040.32,8610718.79,0.06
+"68",2011,"District Attorney -Richmond County","STATE",695205.31,8610718.79,0.08
+"69",2011,"Fire Department","FEDERAL - OTHER",65465207.4099999,1733601337.17,0.04
+"70",2011,"Fire Department","STATE",24323082.91,1733601337.17,0.01
+"71",2011,"Housing Preservation and Development","FEDERAL - OTHER",541650310.019999,705427154.34,0.77
+"72",2011,"Housing Preservation and Development","STATE",2828547.30000001,705427154.34,0
+"73",2011,"Law Department","FEDERAL - OTHER",141688.23,135032600.01,0
+"74",2011,"Law Department","STATE",71550,135032600.01,0
+"75",2011,"Mayoralty","FEDERAL - OTHER",16093240.5800001,94883917.7599999,0.17
+"76",2011,"Mayoralty","STATE",3715492.59,94883917.7599999,0.04
+"77",2011,"Miscellaneous","FEDERAL - OTHER",14175775.86,6025252217.32,0
+"78",2011,"Miscellaneous","STATE",463970814.28,6025252217.32,0.08
+"79",2011,"Office of Payroll Administration","STATE",30066,57618637.23,0
+"80",2011,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",771468.53,17897741.68,0.04
+"81",2011,"Office of Prosecution - Special Narcotics","STATE",1148934,17897741.68,0.06
+"82",2011,"Police Department","FEDERAL - OTHER",180823776.7,4804760396.19,0.04
+"83",2011,"Police Department","STATE",26556599.4,4804760396.19,0.01
+"84",2012,"Administration for Children's Services","FEDERAL - OTHER",1347877392.06,2854525550.31001,0.47
+"85",2012,"Administration for Children's Services","STATE",708816776.729999,2854525550.31001,0.25
+"86",2012,"Board of Elections","FEDERAL - OTHER",72005.23,109838524.7,0
+"87",2012,"Board of Elections","STATE",390874.38,109838524.7,0
+"88",2012,"Borough President - Bronx","FEDERAL - OTHER",291612.39,4867591.55,0.06
+"89",2012,"Borough President - Brooklyn","FEDERAL - OTHER",648275.19,5139671.54,0.13
+"90",2012,"Borough President - Brooklyn","STATE",5222.96,5139671.54,0
+"91",2012,"Borough President - Manhattan","STATE",0,4541046.53,0
+"92",2012,"Borough President - Queens","FEDERAL - OTHER",431684.1,4587110.91,0.09
+"93",2012,"Business Integrity Commission","FEDERAL - OTHER",201503.14,6794205.71,0.03
+"94",2012,"City Clerk","STATE",51972,4410463.75,0.01
+"95",2012,"City University of New York","FEDERAL - OTHER",0,791320454.83,0
+"96",2012,"City University of New York","STATE",178591878,791320454.83,0.23
+"97",2012,"Commission on Human Rights","FEDERAL - OTHER",119400,6033433.62,0.02
+"98",2012,"Debt Service","FEDERAL - OTHER",180412364.59,4256603202.29,0.04
+"99",2012,"Debt Service","STATE",219921278.89,4256603202.29,0.05
+"100",2012,"Department for the Aging","FEDERAL - OTHER",72649392.86,257781009.96,0.28
+"101",2012,"Department for the Aging","STATE",35732735.83,257781009.96,0.14
+"102",2012,"Department of City Planning","FEDERAL - OTHER",2381096,22831837.11,0.1
+"103",2012,"Department of City Planning","STATE",165796,22831837.11,0.01
+"104",2012,"Department of Citywide Administrative Services","FEDERAL - OTHER",76168629.4399999,1091244708.68,0.07
+"105",2012,"Department of Citywide Administrative Services","STATE",103456631.09,1091244708.68,0.09
+"106",2012,"Department of Consumer Affairs","STATE",2451124.15,26263930.59,0.09
+"107",2012,"Department of Correction","FEDERAL - OTHER",13631071.87,1078788923.12,0.01
+"108",2012,"Department of Correction","STATE",1330197.48,1078788923.12,0
+"109",2012,"Department of Cultural Affairs","FEDERAL - OTHER",116485.65,147748790.85,0
+"110",2012,"Department of Cultural Affairs","STATE",7.27595761418343e-12,147748790.85,0
+"111",2012,"Department of Design and Construction","FEDERAL - OTHER",542592.1,127276449.87,0
+"112",2012,"Department of Education","FEDERAL - OTHER",1911695246.14,19283255938.65,0.1
+"113",2012,"Department of Education","STATE",8067496730.20001,19283255938.65,0.42
+"114",2012,"Department of Emergency Management","FEDERAL - OTHER",20361390.7,23382692.89,0.87
+"115",2012,"Department of Emergency Management","STATE",9120.99999999999,23382692.89,0
+"116",2012,"Department of Environmental Protection","FEDERAL - OTHER",19888530.67,1059047714.01,0.02
+"117",2012,"Department of Environmental Protection","STATE",230948.57,1059047714.01,0
+"118",2012,"Department of Finance","STATE",75000,221346281.43,0
+"119",2012,"Department of Health and Mental Hygiene","FEDERAL - OTHER",427355061.890001,1569568965.85,0.27
+"120",2012,"Department of Health and Mental Hygiene","STATE",645847387.250003,1569568965.85,0.41
+"121",2012,"Department of Homeless Services","FEDERAL - OTHER",167147457.77,900520778.109999,0.19
+"122",2012,"Department of Homeless Services","STATE",9713526.77999997,900520778.109999,0.01
+"123",2012,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",24130009.73,452499406.34,0.05
+"124",2012,"Department of Information Technology and Telecommunications","STATE",62500,452499406.34,0
+"125",2012,"Department of Investigation","STATE",0,21288345.72,0
+"126",2012,"Department of Juvenile Justice","FEDERAL - OTHER",0,0,NA
+"127",2012,"Department of Juvenile Justice","STATE",0,0,NA
+"128",2012,"Department of Parks and Recreation","FEDERAL - OTHER",12947837.49,361329055.18,0.04
+"129",2012,"Department of Parks and Recreation","STATE",1648331.43,361329055.18,0
+"130",2012,"Department of Probation","FEDERAL - OTHER",250595.14,79679106.93,0
+"131",2012,"Department of Probation","STATE",13217704.19,79679106.93,0.17
+"132",2012,"Department of Records and Information Services","FEDERAL - OTHER",213914,5191372.92,0.04
+"133",2012,"Department of Records and Information Services","STATE",352918,5191372.92,0.07
+"134",2012,"Department of Sanitation","FEDERAL - OTHER",7710557.64,1281217750.8,0.01
+"135",2012,"Department of Sanitation","STATE",4845814.68,1281217750.8,0
+"136",2012,"Department of Small Business Services","FEDERAL - OTHER",44038806.4300001,137632959.09,0.32
+"137",2012,"Department of Small Business Services","STATE",1261797.93999946,137632959.09,0.01
+"138",2012,"Department of Social Services","FEDERAL - OTHER",1672887166.92,9391226679.85,0.18
+"139",2012,"Department of Social Services","STATE",863184466.770001,9391226679.85,0.09
+"140",2012,"Department of Transportation","FEDERAL - OTHER",87744784.55,839794909.379996,0.1
+"141",2012,"Department of Transportation","STATE",288249394.35,839794909.379996,0.34
+"142",2012,"Department of Youth and Community Development","FEDERAL - OTHER",69345011.59,325033650.61,0.21
+"143",2012,"Department of Youth and Community Development","STATE",14082170.01,325033650.61,0.04
+"144",2012,"District Attorney - Bronx County","FEDERAL - OTHER",1329774.42,50167145.93,0.03
+"145",2012,"District Attorney - Bronx County","STATE",3781688.62,50167145.93,0.08
+"146",2012,"District Attorney - New York County","FEDERAL - OTHER",1416328.27,105204879.25,0.01
+"147",2012,"District Attorney - New York County","STATE",8406379.97,105204879.25,0.08
+"148",2012,"District Attorney - Queens County","FEDERAL - OTHER",1540543,49347374.98,0.03
+"149",2012,"District Attorney - Queens County","STATE",4279030.02,49347374.98,0.09
+"150",2012,"District Attorney -Kings County","FEDERAL - OTHER",2096548.17,87341364.29,0.02
+"151",2012,"District Attorney -Kings County","STATE",3360110.49,87341364.29,0.04
+"152",2012,"District Attorney -Richmond County","FEDERAL - OTHER",506491.42,8689970.33,0.06
+"153",2012,"District Attorney -Richmond County","STATE",537282,8689970.33,0.06
+"154",2012,"Fire Department","FEDERAL - OTHER",68461152.49,1757227791.2,0.04
+"155",2012,"Fire Department","STATE",24486550.8,1757227791.2,0.01
+"156",2012,"Health and Hospitals Corporation","FEDERAL - OTHER",2749953.28,207543578.65,0.01
+"157",2012,"Housing Preservation and Development","FEDERAL - OTHER",571005616.24,731342996.860001,0.78
+"158",2012,"Housing Preservation and Development","STATE",3786894.88999999,731342996.860001,0.01
+"159",2012,"Law Department","FEDERAL - OTHER",191329.9,137434888,0
+"160",2012,"Law Department","STATE",0,137434888,0
+"161",2012,"Mayoralty","FEDERAL - OTHER",10632216.7199995,93346417.97,0.11
+"162",2012,"Mayoralty","STATE",3476328.56,93346417.97,0.04
+"163",2012,"Miscellaneous","FEDERAL - OTHER",2522405.28,6137515964.9,0
+"164",2012,"Miscellaneous","STATE",261424899.72,6137515964.9,0.04
+"165",2012,"Office of Payroll Administration","STATE",0,14226606.59,0
+"166",2012,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",913274.28,17829560.29,0.05
+"167",2012,"Office of Prosecution - Special Narcotics","STATE",1089364.89,17829560.29,0.06
+"168",2012,"Police Department","FEDERAL - OTHER",183906308.19,4867891492.55,0.04
+"169",2012,"Police Department","STATE",28381940.44,4867891492.55,0.01
+"170",2013,"Administration for Children's Services","FEDERAL - OTHER",1291520929.92,2805021494.22,0.46
+"171",2013,"Administration for Children's Services","STATE",702139140.73,2805021494.22,0.25
+"172",2013,"Board of Elections","FEDERAL - OTHER",5735691.08,107472655.22,0.05
+"173",2013,"Board of Elections","STATE",1157306.32,107472655.22,0.01
+"174",2013,"Borough President - Bronx","FEDERAL - OTHER",492537.73,4982004.77,0.1
+"175",2013,"Borough President - Bronx","STATE",79052.99,4982004.77,0.02
+"176",2013,"Borough President - Brooklyn","FEDERAL - OTHER",480051.85,5210421.77,0.09
+"177",2013,"Borough President - Brooklyn","STATE",114708.59,5210421.77,0.02
+"178",2013,"Borough President - Queens","FEDERAL - OTHER",451128.89,4602232.81,0.1
+"179",2013,"Business Integrity Commission","FEDERAL - OTHER",975.569999999745,6995341.24,0
+"180",2013,"Business Integrity Commission","STATE",74998,6995341.24,0.01
+"181",2013,"City Clerk","STATE",34422,4406672.95,0.01
+"182",2013,"City Council","FEDERAL - OTHER",-1.81898940354586e-12,51590697.19,0
+"183",2013,"City University of New York","FEDERAL - OTHER",2305574.42,838709852.150001,0
+"184",2013,"City University of New York","STATE",200463178.81,838709852.150001,0.24
+"185",2013,"Civilian Complaint Review Board","FEDERAL - OTHER",201227.5,10608389.38,0.02
+"186",2013,"Commission on Human Rights","FEDERAL - OTHER",148300,6131374.84,0.02
+"187",2013,"Debt Service","FEDERAL - OTHER",198561148.68,6332881216.84,0.03
+"188",2013,"Debt Service","STATE",143000000.02,6332881216.84,0.02
+"189",2013,"Department for the Aging","FEDERAL - OTHER",80754989.5600001,262151977.55,0.31
+"190",2013,"Department for the Aging","STATE",37669400.71,262151977.55,0.14
+"191",2013,"Department of Buildings","FEDERAL - OTHER",4536420,102454746.35,0.04
+"192",2013,"Department of City Planning","FEDERAL - OTHER",2461031.3,20928021.31,0.12
+"193",2013,"Department of City Planning","STATE",174100,20928021.31,0.01
+"194",2013,"Department of Citywide Administrative Services","FEDERAL - OTHER",58075929.47,1177552275.31,0.05
+"195",2013,"Department of Citywide Administrative Services","STATE",2080201.22000001,1177552275.31,0
+"196",2013,"Department of Consumer Affairs","FEDERAL - OTHER",19781.1,27285501.64,0
+"197",2013,"Department of Consumer Affairs","STATE",2188017.39,27285501.64,0.08
+"198",2013,"Department of Correction","FEDERAL - OTHER",22914043.23,1090909336.95,0.02
+"199",2013,"Department of Correction","STATE",998205.099999997,1090909336.95,0
+"200",2013,"Department of Cultural Affairs","FEDERAL - OTHER",478839.54,146482046.04,0
+"201",2013,"Department of Cultural Affairs","STATE",7.27595761418343e-12,146482046.04,0
+"202",2013,"Department of Design and Construction","FEDERAL - OTHER",10027583.88,138142161.89,0.07
+"203",2013,"Department of Education","FEDERAL - OTHER",1876918777.86,19232416908.44,0.1
+"204",2013,"Department of Education","STATE",7978086486.41996,19232416908.44,0.41
+"205",2013,"Department of Emergency Management","FEDERAL - OTHER",26672887.78,41539093.2,0.64
+"206",2013,"Department of Emergency Management","STATE",35625,41539093.2,0
+"207",2013,"Department of Environmental Protection","FEDERAL - OTHER",566881169.42,1727258641.93,0.33
+"208",2013,"Department of Environmental Protection","STATE",2001668.2,1727258641.93,0
+"209",2013,"Department of Finance","FEDERAL - OTHER",244658.33,222290453.87,0
+"210",2013,"Department of Finance","STATE",447150,222290453.87,0
+"211",2013,"Department of Health and Mental Hygiene","FEDERAL - OTHER",412857886.31,1505969932.14,0.27
+"212",2013,"Department of Health and Mental Hygiene","STATE",584044146.639999,1505969932.14,0.39
+"213",2013,"Department of Homeless Services","FEDERAL - OTHER",392296942.33,984266656.039998,0.4
+"214",2013,"Department of Homeless Services","STATE",107094670.85,984266656.039998,0.11
+"215",2013,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",20831586.83,431624256.67,0.05
+"216",2013,"Department of Information Technology and Telecommunications","STATE",4180867,431624256.67,0.01
+"217",2013,"Department of Investigation","FEDERAL - OTHER",13350896.64,36370825.26,0.37
+"218",2013,"Department of Juvenile Justice","STATE",0,0,NA
+"219",2013,"Department of Parks and Recreation","FEDERAL - OTHER",62566649.13,426327968.42,0.15
+"220",2013,"Department of Parks and Recreation","STATE",6226535.96,426327968.42,0.01
+"221",2013,"Department of Probation","FEDERAL - OTHER",356766.099999999,81715959.2599999,0
+"222",2013,"Department of Probation","STATE",13391677.83,81715959.2599999,0.16
+"223",2013,"Department of Records and Information Services","FEDERAL - OTHER",20649.8,5469697.46,0
+"224",2013,"Department of Records and Information Services","STATE",413499,5469697.46,0.08
+"225",2013,"Department of Sanitation","FEDERAL - OTHER",127860119.83,1369767873.23,0.09
+"226",2013,"Department of Sanitation","STATE",120225.37,1369767873.23,0
+"227",2013,"Department of Small Business Services","FEDERAL - OTHER",73901353.47,150340042.46,0.49
+"228",2013,"Department of Small Business Services","STATE",5090227.77000003,150340042.46,0.03
+"229",2013,"Department of Social Services","FEDERAL - OTHER",1698738213.76,9513689609.49002,0.18
+"230",2013,"Department of Social Services","STATE",740426798.900001,9513689609.49002,0.08
+"231",2013,"Department of Transportation","FEDERAL - OTHER",136085808.69,833339536.75,0.16
+"232",2013,"Department of Transportation","STATE",89481859.6699998,833339536.75,0.11
+"233",2013,"Department of Youth and Community Development","FEDERAL - OTHER",51478539.8800001,345896262.66,0.15
+"234",2013,"Department of Youth and Community Development","STATE",18393054.34,345896262.66,0.05
+"235",2013,"District Attorney - Bronx County","FEDERAL - OTHER",1308386.31,52873443.9,0.02
+"236",2013,"District Attorney - Bronx County","STATE",4026481.13,52873443.9,0.08
+"237",2013,"District Attorney - New York County","FEDERAL - OTHER",1738637.92,104551107.09,0.02
+"238",2013,"District Attorney - New York County","STATE",9254684.44000001,104551107.09,0.09
+"239",2013,"District Attorney - Queens County","FEDERAL - OTHER",927290.71,50497380.71,0.02
+"240",2013,"District Attorney - Queens County","STATE",4145135.76,50497380.71,0.08
+"241",2013,"District Attorney -Kings County","FEDERAL - OTHER",1508959.96,88348062.51,0.02
+"242",2013,"District Attorney -Kings County","STATE",4891480.5800001,88348062.51,0.06
+"243",2013,"District Attorney -Richmond County","FEDERAL - OTHER",327292.27,8943120.41,0.04
+"244",2013,"District Attorney -Richmond County","STATE",609154,8943120.41,0.07
+"245",2013,"Financial Information Services Agency","FEDERAL - OTHER",62049.38,83052731.31,0
+"246",2013,"Fire Department","FEDERAL - OTHER",102529925.32,1833309111.59,0.06
+"247",2013,"Fire Department","STATE",24741573.37,1833309111.59,0.01
+"248",2013,"Health and Hospitals Corporation","FEDERAL - OTHER",80799919.75,507226292.59,0.16
+"249",2013,"Housing Preservation and Development","FEDERAL - OTHER",497525702.749997,675259772.45,0.74
+"250",2013,"Housing Preservation and Development","STATE",2457264.17000002,675259772.45,0
+"251",2013,"Landmarks Preservation Commission","STATE",13465,4451842.42,0
+"252",2013,"Law Department","FEDERAL - OTHER",262728.71,143851577.41,0
+"253",2013,"Mayoralty","FEDERAL - OTHER",14181392.8000004,93177180.4299998,0.15
+"254",2013,"Mayoralty","STATE",3430297.75,93177180.4299998,0.04
+"255",2013,"Miscellaneous","FEDERAL - OTHER",-208202.05,6316891953.18,0
+"256",2013,"Miscellaneous","STATE",380828782.7,6316891953.18,0.06
+"257",2013,"NYC Taxi and Limousine Commission","FEDERAL - OTHER",231149.45,36743007.12,0.01
+"258",2013,"New York Public Library","FEDERAL - OTHER",156000,113166194.27,0
+"259",2013,"Office of Administrative Trials & Hearings","FEDERAL - OTHER",36725.47,30725783.96,0
+"260",2013,"Office of Administrative Trials and Hearings","FEDERAL - OTHER",1,NA,NA
+"261",2013,"Office of Collective Bargaining","FEDERAL - OTHER",5426.95,2105541.6,0
+"262",2013,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",680453.07,18145713.81,0.04
+"263",2013,"Office of Prosecution - Special Narcotics","STATE",1084617,18145713.81,0.06
+"264",2013,"Police Department","FEDERAL - OTHER",326661417.37,4892569498.43,0.07
+"265",2013,"Police Department","STATE",21004634.2,4892569498.43,0
+"266",2013,"Public Advocate","FEDERAL - OTHER",1002.17,2242956.13,0
+"267",2014,"Administration for Children's Services","FEDERAL - OTHER",1284962459.71,2785452949.01,0.46
+"268",2014,"Administration for Children's Services","STATE",753077861.09,2785452949.01,0.27
+"269",2014,"Board of Elections","FEDERAL - OTHER",402603.76,116162965.96,0
+"270",2014,"Board of Elections","STATE",236984.74,116162965.96,0
+"271",2014,"Borough President - Bronx","FEDERAL - OTHER",153137.93,4901011.8,0.03
+"272",2014,"Borough President - Bronx","STATE",1e+05,4901011.8,0.02
+"273",2014,"Borough President - Brooklyn","FEDERAL - OTHER",650332.08,5088756.23,0.13
+"274",2014,"Borough President - Brooklyn","STATE",83000,5088756.23,0.02
+"275",2014,"Borough President - Queens","FEDERAL - OTHER",629463.05,4985408.61,0.13
+"276",2014,"Brooklyn Community Board # 6","STATE",29250,4483.81,6.52
+"277",2014,"Business Integrity Commission","FEDERAL - OTHER",452730.889999999,7259451.22,0.06
+"278",2014,"Business Integrity Commission","STATE",42129,7259451.22,0.01
+"279",2014,"Campaign Finance Board","FEDERAL - OTHER",54629.91,53530621.79,0
+"280",2014,"City Clerk","STATE",0,4753224.22,0
+"281",2014,"City Council","FEDERAL - OTHER",11760.59,51540901.65,0
+"282",2014,"City University of New York","FEDERAL - OTHER",14384.2899999999,891856651.23,0
+"283",2014,"City University of New York","STATE",221002879.19,891856651.23,0.25
+"284",2014,"Civilian Complaint Review Board","FEDERAL - OTHER",7.27595761418343e-12,11202272.16,0
+"285",2014,"Commission on Human Rights","FEDERAL - OTHER",54300,5582147.67,0.01
+"286",2014,"Debt Service","FEDERAL - OTHER",194708724.59,4797630447.29,0.04
+"287",2014,"Debt Service","STATE",-1.19209289550781e-07,4797630447.29,0
+"288",2014,"Department for the Aging","FEDERAL - OTHER",69956995.57,263876140.65,0.27
+"289",2014,"Department for the Aging","STATE",37310569.92,263876140.65,0.14
+"290",2014,"Department of Buildings","FEDERAL - OTHER",-5.82076609134674e-11,98678600.57,0
+"291",2014,"Department of City Planning","FEDERAL - OTHER",2237467.54,20556153.51,0.11
+"292",2014,"Department of City Planning","STATE",49364.4,20556153.51,0
+"293",2014,"Department of Citywide Administrative Services","FEDERAL - OTHER",7892391.14000001,1201703718.01,0.01
+"294",2014,"Department of Citywide Administrative Services","STATE",87136502.9400001,1201703718.01,0.07
+"295",2014,"Department of Consumer Affairs","FEDERAL - OTHER",0,32474088.52,0
+"296",2014,"Department of Consumer Affairs","STATE",2568001.01,32474088.52,0.08
+"297",2014,"Department of Correction","FEDERAL - OTHER",8257903.77,1103097246.83,0.01
+"298",2014,"Department of Correction","STATE",1152812.99,1103097246.83,0
+"299",2014,"Department of Cultural Affairs","FEDERAL - OTHER",818021.81,156509000.66,0.01
+"300",2014,"Department of Cultural Affairs","STATE",0,156509000.66,0
+"301",2014,"Department of Design and Construction","FEDERAL - OTHER",1082473.22,127267498.7,0.01
+"302",2014,"Department of Education","FEDERAL - OTHER",1710789830.39,20085287439.5,0.09
+"303",2014,"Department of Education","STATE",8485032583.20997,20085287439.5,0.42
+"304",2014,"Department of Emergency Management","FEDERAL - OTHER",36545627.65,34552165.97,1.06
+"305",2014,"Department of Emergency Management","STATE",0,34552165.97,0
+"306",2014,"Department of Environmental Protection","FEDERAL - OTHER",61519576.8000001,1192580843.62,0.05
+"307",2014,"Department of Environmental Protection","STATE",159002.13,1192580843.62,0
+"308",2014,"Department of Finance","STATE",65350,240288938.17,0
+"309",2014,"Department of Health and Mental Hygiene","FEDERAL - OTHER",309510123.290001,1423185133.86,0.22
+"310",2014,"Department of Health and Mental Hygiene","STATE",520954906.74,1423185133.86,0.37
+"311",2014,"Department of Homeless Services","FEDERAL - OTHER",416652028,1043282390.09,0.4
+"312",2014,"Department of Homeless Services","STATE",138427215.34,1043282390.09,0.13
+"313",2014,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",10135664.33,467486468.73,0.02
+"314",2014,"Department of Information Technology and Telecommunications","STATE",26535,467486468.73,0
+"315",2014,"Department of Investigation","FEDERAL - OTHER",4997874.52,29030335.96,0.17
+"316",2014,"Department of Investigation","STATE",74840,29030335.96,0
+"317",2014,"Department of Parks and Recreation","FEDERAL - OTHER",9487873.70000001,413278056.65,0.02
+"318",2014,"Department of Parks and Recreation","STATE",15928425.95,413278056.65,0.04
+"319",2014,"Department of Probation","FEDERAL - OTHER",196090.86,83180631.7599999,0
+"320",2014,"Department of Probation","STATE",13298487.43,83180631.7599999,0.16
+"321",2014,"Department of Records and Information Services","FEDERAL - OTHER",115649,5609640.52,0.02
+"322",2014,"Department of Records and Information Services","STATE",252461,5609640.52,0.05
+"323",2014,"Department of Sanitation","FEDERAL - OTHER",699615,1414222208.07,0
+"324",2014,"Department of Sanitation","STATE",25000,1414222208.07,0
+"325",2014,"Department of Small Business Services","FEDERAL - OTHER",67726049.94,202310218.35,0.33
+"326",2014,"Department of Small Business Services","STATE",2853952.03999997,202310218.35,0.01
+"327",2014,"Department of Social Services","FEDERAL - OTHER",1662886050.46001,9531094453.57,0.17
+"328",2014,"Department of Social Services","STATE",636826324.2,9531094453.57,0.07
+"329",2014,"Department of Transportation","FEDERAL - OTHER",109798761.14,860606361.57,0.13
+"330",2014,"Department of Transportation","STATE",175664253.210001,860606361.57,0.2
+"331",2014,"Department of Youth and Community Development","FEDERAL - OTHER",75854693.6799999,404446427.38,0.19
+"332",2014,"Department of Youth and Community Development","STATE",4721712.45,404446427.38,0.01
+"333",2014,"District Attorney - Bronx County","FEDERAL - OTHER",1252866.56,55675152.57,0.02
+"334",2014,"District Attorney - Bronx County","STATE",3799494.23,55675152.57,0.07
+"335",2014,"District Attorney - New York County","FEDERAL - OTHER",1640539.18,97595328.0499999,0.02
+"336",2014,"District Attorney - New York County","STATE",8853835.27,97595328.0499999,0.09
+"337",2014,"District Attorney - Queens County","FEDERAL - OTHER",817890.84,53112892.31,0.02
+"338",2014,"District Attorney - Queens County","STATE",4323872.71,53112892.31,0.08
+"339",2014,"District Attorney -Kings County","FEDERAL - OTHER",810995.56,87843714.89,0.01
+"340",2014,"District Attorney -Kings County","STATE",3656086.11,87843714.89,0.04
+"341",2014,"District Attorney -Richmond County","FEDERAL - OTHER",236742.95,9294166.81,0.03
+"342",2014,"District Attorney -Richmond County","STATE",612812,9294166.81,0.07
+"343",2014,"Financial Information Services Agency","FEDERAL - OTHER",10260.25,82449304.53,0
+"344",2014,"Fire Department","FEDERAL - OTHER",97412201.61,1879465098.1,0.05
+"345",2014,"Fire Department","STATE",22992192.48,1879465098.1,0.01
+"346",2014,"Health and Hospitals Corporation","FEDERAL - OTHER",19319264.12,337074423.93,0.06
+"347",2014,"Housing Preservation and Development","FEDERAL - OTHER",530625415.290001,689971770.97,0.77
+"348",2014,"Housing Preservation and Development","STATE",1734032.35000002,689971770.97,0
+"349",2014,"Landmarks Preservation Commission","STATE",0,4743220.27,0
+"350",2014,"Law Department","FEDERAL - OTHER",53365,162707045.55,0
+"351",2014,"Mayoralty","FEDERAL - OTHER",18257436.1399996,95787011.16,0.19
+"352",2014,"Mayoralty","STATE",2885712,95787011.16,0.03
+"353",2014,"Miscellaneous","FEDERAL - OTHER",913518.42,10522241812.59,0
+"354",2014,"Miscellaneous","STATE",573469654.83,10522241812.59,0.05
+"355",2014,"NYC Taxi and Limousine Commission","FEDERAL - OTHER",0,46393533.68,0
+"356",2014,"Office of Administrative Trials and Hearings","FEDERAL - OTHER",3.63797880709171e-12,NA,NA
+"357",2014,"Office of Collective Bargaining","FEDERAL - OTHER",0,2100679.66,0
+"358",2014,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",548224.74,18195589.85,0.03
+"359",2014,"Office of Prosecution - Special Narcotics","STATE",1082292,18195589.85,0.06
+"360",2014,"Police Department","FEDERAL - OTHER",266737154.21,4912272109.17999,0.05
+"361",2014,"Police Department","STATE",28865227.94,4912272109.17999,0.01
+"362",2015,"Administration for Children's Services","FEDERAL - OTHER",1324822329.96,2826693882.51,0.47
+"363",2015,"Administration for Children's Services","STATE",618220984.69,2826693882.51,0.22
+"364",2015,"Board of Elections","FEDERAL - OTHER",144189.93,106755130.75,0
+"365",2015,"Board of Elections","STATE",103360.45,106755130.75,0
+"366",2015,"Borough President - Bronx","FEDERAL - OTHER",162628.17,5286568.57,0.03
+"367",2015,"Borough President - Bronx","STATE",100400.53,5286568.57,0.02
+"368",2015,"Borough President - Brooklyn","FEDERAL - OTHER",299723.32,5855866.54,0.05
+"369",2015,"Borough President - Brooklyn","STATE",434500,5855866.54,0.07
+"370",2015,"Borough President - Queens","FEDERAL - OTHER",594248.52,4754844.96,0.12
+"371",2015,"Borough President - Queens","STATE",45951.39,4754844.96,0.01
+"372",2015,"Brooklyn Community Board # 6","STATE",0,232803.83,0
+"373",2015,"Brooklyn Public Library","FEDERAL - OTHER",50892.57,91560193.94,0
+"374",2015,"Business Integrity Commission","FEDERAL - OTHER",1382959.03,8065395.91,0.17
+"375",2015,"Business Integrity Commission","STATE",0,8065395.91,0
+"376",2015,"City Clerk","STATE",65206,5586787.76,0.01
+"377",2015,"City Council","FEDERAL - OTHER",0,56911423.1,0
+"378",2015,"City University of New York","FEDERAL - OTHER",1892055.13,955125291.319999,0
+"379",2015,"City University of New York","STATE",226757938,955125291.319999,0.24
+"380",2015,"Commission on Human Rights","FEDERAL - OTHER",144950,5795280.41,0.03
+"381",2015,"Debt Service","FEDERAL - OTHER",198373248.01,7420909532.12,0.03
+"382",2015,"Department for the Aging","FEDERAL - OTHER",65524615.76,285235602.64,0.23
+"383",2015,"Department for the Aging","STATE",39727686.36,285235602.64,0.14
+"384",2015,"Department of Buildings","FEDERAL - OTHER",0,108673407.9,0
+"385",2015,"Department of City Planning","FEDERAL - OTHER",1988755.45,24717460.03,0.08
+"386",2015,"Department of City Planning","STATE",204151.69,24717460.03,0.01
+"387",2015,"Department of Citywide Administrative Services","FEDERAL - OTHER",4844237.97999999,1157782468.1,0
+"388",2015,"Department of Citywide Administrative Services","STATE",45070619.34,1157782468.1,0.04
+"389",2015,"Department of Consumer Affairs","STATE",2668262.7,37434657.9,0.07
+"390",2015,"Department of Correction","FEDERAL - OTHER",7776810.65,1162121013.3,0.01
+"391",2015,"Department of Correction","STATE",974354.7,1162121013.3,0
+"392",2015,"Department of Cultural Affairs","FEDERAL - OTHER",7833.92,163688389.33,0
+"393",2015,"Department of Cultural Affairs","STATE",0,163688389.33,0
+"394",2015,"Department of Design and Construction","FEDERAL - OTHER",2215852,160278578.27,0.01
+"395",2015,"Department of Education","FEDERAL - OTHER",1708910537.26,20999365395.32,0.08
+"396",2015,"Department of Education","STATE",9221176066.33998,20999365395.32,0.44
+"397",2015,"Department of Emergency Management","FEDERAL - OTHER",22693812.6,35038336.77,0.65
+"398",2015,"Department of Environmental Protection","FEDERAL - OTHER",5157163.96000002,1216053865.15,0
+"399",2015,"Department of Environmental Protection","STATE",366390.95,1216053865.15,0
+"400",2015,"Department of Finance","STATE",0,251755300.03,0
+"401",2015,"Department of Health and Mental Hygiene","FEDERAL - OTHER",290336007.860001,1495546820.01001,0.19
+"402",2015,"Department of Health and Mental Hygiene","STATE",290201216.009999,1495546820.01001,0.19
+"403",2015,"Department of Homeless Services","FEDERAL - OTHER",323244635.88,1169825774.32,0.28
+"404",2015,"Department of Homeless Services","STATE",158494517.2,1169825774.32,0.14
+"405",2015,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",-1682606.72,491715920.59,0
+"406",2015,"Department of Information Technology and Telecommunications","STATE",28750,491715920.59,0
+"407",2015,"Department of Investigation","FEDERAL - OTHER",4716473.77,34983461.56,0.13
+"408",2015,"Department of Investigation","STATE",0,34983461.56,0
+"409",2015,"Department of Parks and Recreation","FEDERAL - OTHER",1953795.06,496268451.580001,0
+"410",2015,"Department of Parks and Recreation","STATE",-14032003.39,496268451.580001,-0.03
+"411",2015,"Department of Probation","FEDERAL - OTHER",34684.92,89942351.2599999,0
+"412",2015,"Department of Probation","STATE",13264431.57,89942351.2599999,0.15
+"413",2015,"Department of Records and Information Services","STATE",303584,6251824.99,0.05
+"414",2015,"Department of Sanitation","FEDERAL - OTHER",1760105.44,1477411612.86,0
+"415",2015,"Department of Sanitation","STATE",817109.37,1477411612.86,0
+"416",2015,"Department of Small Business Services","FEDERAL - OTHER",58558545.5,273458447.57,0.21
+"417",2015,"Department of Small Business Services","STATE",-2602595.03999998,273458447.57,-0.01
+"418",2015,"Department of Social Services","FEDERAL - OTHER",1590150473.05,9771189864.71,0.16
+"419",2015,"Department of Social Services","STATE",615456630.79,9771189864.71,0.06
+"420",2015,"Department of Transportation","FEDERAL - OTHER",93715460.7200001,884995907.580002,0.11
+"421",2015,"Department of Transportation","STATE",219560437.21,884995907.580002,0.25
+"422",2015,"Department of Youth and Community Development","FEDERAL - OTHER",49307694.9899999,581885353.68,0.08
+"423",2015,"Department of Youth and Community Development","STATE",11008624,581885353.68,0.02
+"424",2015,"District Attorney - Bronx County","FEDERAL - OTHER",1084246.09,60988815.1,0.02
+"425",2015,"District Attorney - Bronx County","STATE",3774524.58,60988815.1,0.06
+"426",2015,"District Attorney - New York County","FEDERAL - OTHER",1657643.19,107621144.65,0.02
+"427",2015,"District Attorney - New York County","STATE",9922452.12,107621144.65,0.09
+"428",2015,"District Attorney - Queens County","FEDERAL - OTHER",636107.79,56952974.08,0.01
+"429",2015,"District Attorney - Queens County","STATE",4656701.16,56952974.08,0.08
+"430",2015,"District Attorney -Kings County","FEDERAL - OTHER",968611.37,94065236.2500001,0.01
+"431",2015,"District Attorney -Kings County","STATE",4297051.15,94065236.2500001,0.05
+"432",2015,"District Attorney -Richmond County","FEDERAL - OTHER",208710.29,10301776.58,0.02
+"433",2015,"District Attorney -Richmond County","STATE",754043.3,10301776.58,0.07
+"434",2015,"Financial Information Services Agency","FEDERAL - OTHER",32304.87,83122122.7,0
+"435",2015,"Fire Department","FEDERAL - OTHER",85975677.95,1893651214.38,0.05
+"436",2015,"Fire Department","STATE",36078982.14,1893651214.38,0.02
+"437",2015,"Health and Hospitals Corporation","FEDERAL - OTHER",14064783.49,335141349.68,0.04
+"438",2015,"Housing Preservation and Development","FEDERAL - OTHER",458945478.809997,718403415.229998,0.64
+"439",2015,"Housing Preservation and Development","STATE",-537738.69,718403415.229998,0
+"440",2015,"Landmarks Preservation Commission","STATE",9956,4781545.25,0
+"441",2015,"Law Department","FEDERAL - OTHER",40931,175589641.28,0
+"442",2015,"Mayoralty","FEDERAL - OTHER",24091579.9500001,101721588.29,0.24
+"443",2015,"Mayoralty","STATE",3482936.88999998,101721588.29,0.03
+"444",2015,"Miscellaneous","FEDERAL - OTHER",6576522.06,9644714627.55,0
+"445",2015,"Miscellaneous","STATE",606024022.720001,9644714627.55,0.06
+"446",2015,"NYC Taxi and Limousine Commission","FEDERAL - OTHER",0,52445521.49,0
+"447",2015,"New York Public Library","FEDERAL - OTHER",0,120179397.11,0
+"448",2015,"Office of Administrative Trials and Hearings","FEDERAL - OTHER",0,NA,NA
+"449",2015,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",173117.14,19206111.66,0.01
+"450",2015,"Office of Prosecution - Special Narcotics","STATE",1000636,19206111.66,0.05
+"451",2015,"Police Department","FEDERAL - OTHER",241461020.44,5151559325.04998,0.05
+"452",2015,"Police Department","STATE",15470986.8,5151559325.04998,0
+"453",2016,"Administration for Children's Services","FEDERAL - OTHER",1292082582.4,2875119714.35,0.45
+"454",2016,"Administration for Children's Services","STATE",677578855.43,2875119714.35,0.24
+"455",2016,"Board of Elections","FEDERAL - OTHER",172421.6,116672118.9,0
+"456",2016,"Board of Elections","STATE",0,116672118.9,0
+"457",2016,"Borough President - Bronx","FEDERAL - OTHER",287576.5,5063903.51,0.06
+"458",2016,"Borough President - Bronx","STATE",0,5063903.51,0
+"459",2016,"Borough President - Brooklyn","FEDERAL - OTHER",559505.64,6369279.06,0.09
+"460",2016,"Borough President - Brooklyn","STATE",433500,6369279.06,0.07
+"461",2016,"Borough President - Queens","FEDERAL - OTHER",413744.94,5093621.69,0.08
+"462",2016,"Borough President - Queens","STATE",23660.05,5093621.69,0
+"463",2016,"Brooklyn Public Library","FEDERAL - OTHER",0,102041492.18,0
+"464",2016,"Business Integrity Commission","FEDERAL - OTHER",712347.370000001,8091767.94,0.09
+"465",2016,"City Clerk","STATE",58775,5548318.76,0.01
+"466",2016,"City University of New York","FEDERAL - OTHER",443600,1018697111.58,0
+"467",2016,"City University of New York","STATE",239244797,1018697111.58,0.23
+"468",2016,"Civilian Complaint Review Board","FEDERAL - OTHER",0,14077028.6,0
+"469",2016,"Commission on Human Rights","FEDERAL - OTHER",215200,8841874.60000001,0.02
+"470",2016,"Debt Service","FEDERAL - OTHER",198798281.42,5873841924.27,0.03
+"471",2016,"Department for the Aging","FEDERAL - OTHER",69601162.2600001,305379093.68,0.23
+"472",2016,"Department for the Aging","STATE",52864266.59,305379093.68,0.17
+"473",2016,"Department of City Planning","FEDERAL - OTHER",1889626.94,31230976.57,0.06
+"474",2016,"Department of City Planning","STATE",77018.81,31230976.57,0
+"475",2016,"Department of Citywide Administrative Services","FEDERAL - OTHER",953502.449999999,1117777960.8,0
+"476",2016,"Department of Citywide Administrative Services","STATE",71156205.14,1117777960.8,0.06
+"477",2016,"Department of Consumer Affairs","STATE",2086543.72,36210856.34,0.06
+"478",2016,"Department of Correction","FEDERAL - OTHER",9252204.26999999,1307632540.77,0.01
+"479",2016,"Department of Correction","STATE",779413.95,1307632540.77,0
+"480",2016,"Department of Cultural Affairs","FEDERAL - OTHER",41833.98,163106130.12,0
+"481",2016,"Department of Cultural Affairs","STATE",0,163106130.12,0
+"482",2016,"Department of Design and Construction","FEDERAL - OTHER",336556,399286740.62,0
+"483",2016,"Department of Education","FEDERAL - OTHER",1737501625.43,22421559952.92,0.08
+"484",2016,"Department of Education","STATE",9732572303.27998,22421559952.92,0.43
+"485",2016,"Department of Emergency Management","FEDERAL - OTHER",37620226.37,35671146.12,1.05
+"486",2016,"Department of Environmental Protection","FEDERAL - OTHER",3426891.72,1267157438.69,0
+"487",2016,"Department of Environmental Protection","STATE",14719.1300000004,1267157438.69,0
+"488",2016,"Department of Finance","FEDERAL - OTHER",77724.64,258847965.91,0
+"489",2016,"Department of Health and Mental Hygiene","FEDERAL - OTHER",361094654.94,1450674032.3,0.25
+"490",2016,"Department of Health and Mental Hygiene","STATE",699470272.239999,1450674032.3,0.48
+"491",2016,"Department of Homeless Services","FEDERAL - OTHER",445584005.53,1400629029.58,0.32
+"492",2016,"Department of Homeless Services","STATE",178802971.38,1400629029.58,0.13
+"493",2016,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",2475676.36,587009881.160001,0
+"494",2016,"Department of Information Technology and Telecommunications","STATE",5000,587009881.160001,0
+"495",2016,"Department of Investigation","FEDERAL - OTHER",6734532.06,38368084.7,0.18
+"496",2016,"Department of Investigation","STATE",81647.32,38368084.7,0
+"497",2016,"Department of Juvenile Justice","STATE",-3601993.39,0,-Inf
+"498",2016,"Department of Parks and Recreation","FEDERAL - OTHER",1869191.14,476104469.85,0
+"499",2016,"Department of Parks and Recreation","STATE",319261.070000001,476104469.85,0
+"500",2016,"Department of Probation","STATE",13237546,89048506.01,0.15
+"501",2016,"Department of Records and Information Services","STATE",296403,7731168.99,0.04
+"502",2016,"Department of Sanitation","FEDERAL - OTHER",76493.1600000003,1500676304.81,0
+"503",2016,"Department of Sanitation","STATE",9.09494701772928e-12,1500676304.81,0
+"504",2016,"Department of Small Business Services","FEDERAL - OTHER",48892049.1199999,282466121.68,0.17
+"505",2016,"Department of Small Business Services","STATE",2953676.63,282466121.68,0.01
+"506",2016,"Department of Social Services","FEDERAL - OTHER",1588760869.93,9397989716.65002,0.17
+"507",2016,"Department of Social Services","STATE",711869662.940002,9397989716.65002,0.08
+"508",2016,"Department of Transportation","FEDERAL - OTHER",90639495.5800003,910278138.65,0.1
+"509",2016,"Department of Transportation","STATE",182539439.71,910278138.65,0.2
+"510",2016,"Department of Youth and Community Development","FEDERAL - OTHER",76487854.71,664715211.31,0.12
+"511",2016,"Department of Youth and Community Development","STATE",1912547,664715211.31,0
+"512",2016,"District Attorney - Bronx County","FEDERAL - OTHER",989516.9,61574883.6,0.02
+"513",2016,"District Attorney - Bronx County","STATE",4475001.06,61574883.6,0.07
+"514",2016,"District Attorney - New York County","FEDERAL - OTHER",3152500.6,109625885.61,0.03
+"515",2016,"District Attorney - New York County","STATE",10048392.31,109625885.61,0.09
+"516",2016,"District Attorney - Queens County","FEDERAL - OTHER",605484.31,59264873.21,0.01
+"517",2016,"District Attorney - Queens County","STATE",4245767.51,59264873.21,0.07
+"518",2016,"District Attorney -Kings County","FEDERAL - OTHER",1125332.15,97046948.58,0.01
+"519",2016,"District Attorney -Kings County","STATE",5129978.87,97046948.58,0.05
+"520",2016,"District Attorney -Richmond County","FEDERAL - OTHER",196253.45,10705468.57,0.02
+"521",2016,"District Attorney -Richmond County","STATE",518000.63,10705468.57,0.05
+"522",2016,"Financial Information Services Agency","FEDERAL - OTHER",0,91389695.5400001,0
+"523",2016,"Fire Department","FEDERAL - OTHER",96017723.22,1974516787,0.05
+"524",2016,"Fire Department","STATE",9741307.65,1974516787,0
+"525",2016,"Health and Hospitals Corporation","FEDERAL - OTHER",45167272.73,1359134845.87,0.03
+"526",2016,"Housing Preservation and Development","FEDERAL - OTHER",509706302.950001,850031763.570001,0.6
+"527",2016,"Housing Preservation and Development","STATE",2669021.69,850031763.570001,0
+"528",2016,"Landmarks Preservation Commission","STATE",0,5250878.51,0
+"529",2016,"Law Department","FEDERAL - OTHER",3.63797880709171e-12,194351031.56,0
+"530",2016,"Mayoralty","FEDERAL - OTHER",73590446.7399989,109532565.6,0.67
+"531",2016,"Mayoralty","STATE",2755352.22,109532565.6,0.03
+"532",2016,"Miscellaneous","FEDERAL - OTHER",95154.4700000044,8721487897.73,0
+"533",2016,"Miscellaneous","STATE",718384646.25,8721487897.73,0.08
+"534",2016,"NYC Taxi and Limousine Commission","FEDERAL - OTHER",0,47930627.71,0
+"535",2016,"Office of Administrative Trials and Hearings","FEDERAL - OTHER",0,NA,NA
+"536",2016,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",275019.22,21600453.51,0.01
+"537",2016,"Office of Prosecution - Special Narcotics","STATE",825000,21600453.51,0.04
+"538",2016,"Police Department","FEDERAL - OTHER",210947305.66,5328651320.06,0.04
+"539",2016,"Police Department","STATE",63481218.4100001,5328651320.06,0.01
+"540",2016,"Public Advocate","STATE",22986,3312440.2,0.01
+"541",2017,"Administration for Children's Services","FEDERAL - OTHER",1434243959.9,2974092573.95,0.48
+"542",2017,"Administration for Children's Services","STATE",934871744.09,2974092573.95,0.31
+"543",2017,"Board of Elections","FEDERAL - OTHER",0,121618090.51,0
+"544",2017,"Board of Elections","STATE",0,121618090.51,0
+"545",2017,"Borough President - Bronx","FEDERAL - OTHER",340578.74,4971026.05,0.07
+"546",2017,"Borough President - Brooklyn","FEDERAL - OTHER",526432.65,6099174.01,0.09
+"547",2017,"Borough President - Brooklyn","STATE",164000,6099174.01,0.03
+"548",2017,"Borough President - Queens","FEDERAL - OTHER",26911.41,5172433.04,0.01
+"549",2017,"Brooklyn Community Board # 6","STATE",0,231273.15,0
+"550",2017,"Business Integrity Commission","FEDERAL - OTHER",127529.45,9559298.56999999,0.01
+"551",2017,"City Clerk","STATE",74775,5913746.28,0.01
+"552",2017,"City University of New York","FEDERAL - OTHER",0,1158486715.28,0
+"553",2017,"City University of New York","STATE",248266500,1158486715.28,0.21
+"554",2017,"Commission on Human Rights","FEDERAL - OTHER",221250,10427309.95,0.02
+"555",2017,"Commission on Human Rights","STATE",24996,10427309.95,0
+"556",2017,"DEPARTMENT OF VETERANS' SERVICES","STATE",322922,2468463.52,0.13
+"557",2017,"Debt Service","FEDERAL - OTHER",198818153.12,5889830210.19,0.03
+"558",2017,"Department for the Aging","FEDERAL - OTHER",75460450.1,333482536.48,0.23
+"559",2017,"Department for the Aging","STATE",33925295.38,333482536.48,0.1
+"560",2017,"Department of City Planning","FEDERAL - OTHER",1622991.74,36312458.73,0.04
+"561",2017,"Department of City Planning","STATE",112803.16,36312458.73,0
+"562",2017,"Department of Citywide Administrative Services","FEDERAL - OTHER",617928.65,1165865954.93,0
+"563",2017,"Department of Citywide Administrative Services","STATE",119009935.64,1165865954.93,0.1
+"564",2017,"Department of Consumer Affairs","STATE",2088470.59,36104545.8,0.06
+"565",2017,"Department of Correction","FEDERAL - OTHER",11931443.59,1368640687.3,0.01
+"566",2017,"Department of Correction","STATE",702629.93,1368640687.3,0
+"567",2017,"Department of Cultural Affairs","FEDERAL - OTHER",0,182592556.37,0
+"568",2017,"Department of Design and Construction","FEDERAL - OTHER",0,505553995.3,0
+"569",2017,"Department of Education","FEDERAL - OTHER",1762714856.36,23508038000.6901,0.07
+"570",2017,"Department of Education","STATE",10242916766.83,23508038000.6901,0.44
+"571",2017,"Department of Emergency Management","FEDERAL - OTHER",27903408.13,47395113.27,0.59
+"572",2017,"Department of Environmental Protection","FEDERAL - OTHER",2397254.11,1435894188.09,0
+"573",2017,"Department of Environmental Protection","STATE",670169.36,1435894188.09,0
+"574",2017,"Department of Finance","STATE",0,266622724.41,0
+"575",2017,"Department of Health and Mental Hygiene","FEDERAL - OTHER",322462625.479999,1622379721.01,0.2
+"576",2017,"Department of Health and Mental Hygiene","STATE",630949846.820001,1622379721.01,0.39
+"577",2017,"Department of Homeless Services","FEDERAL - OTHER",524682310.05,1823696387.18,0.29
+"578",2017,"Department of Homeless Services","STATE",188103365.93,1823696387.18,0.1
+"579",2017,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",2550996.56,637604247.710001,0
+"580",2017,"Department of Information Technology and Telecommunications","STATE",165471,637604247.710001,0
+"581",2017,"Department of Investigation","FEDERAL - OTHER",5254782.68,45278084.63,0.12
+"582",2017,"Department of Investigation","STATE",387409.52,45278084.63,0.01
+"583",2017,"Department of Parks and Recreation","FEDERAL - OTHER",856451.360000002,532557082.000001,0
+"584",2017,"Department of Parks and Recreation","STATE",2912023.54,532557082.000001,0.01
+"585",2017,"Department of Probation","STATE",9890697,94498543.5,0.1
+"586",2017,"Department of Records and Information Services","FEDERAL - OTHER",92771,7726349.67,0.01
+"587",2017,"Department of Records and Information Services","STATE",334919,7726349.67,0.04
+"588",2017,"Department of Sanitation","FEDERAL - OTHER",4.65661287307739e-10,1601317444.34,0
+"589",2017,"Department of Sanitation","STATE",0,1601317444.34,0
+"590",2017,"Department of Small Business Services","FEDERAL - OTHER",47593850.41,259982160.7,0.18
+"591",2017,"Department of Small Business Services","STATE",451868.20000001,259982160.7,0
+"592",2017,"Department of Social Services","FEDERAL - OTHER",1477492920.58,9563423590.26997,0.15
+"593",2017,"Department of Social Services","STATE",507024453.220002,9563423590.26997,0.05
+"594",2017,"Department of Transportation","FEDERAL - OTHER",61380489.1299999,957884651.030004,0.06
+"595",2017,"Department of Transportation","STATE",187848347.78,957884651.030004,0.2
+"596",2017,"Department of Youth and Community Development","FEDERAL - OTHER",96930098.8100001,719232470.57,0.13
+"597",2017,"Department of Youth and Community Development","STATE",7694743.06,719232470.57,0.01
+"598",2017,"District Attorney - Bronx County","FEDERAL - OTHER",991200.480000001,73639081.8999999,0.01
+"599",2017,"District Attorney - Bronx County","STATE",3825175.14,73639081.8999999,0.05
+"600",2017,"District Attorney - New York County","FEDERAL - OTHER",2050182.68,116910751.61,0.02
+"601",2017,"District Attorney - New York County","STATE",13313811.3,116910751.61,0.11
+"602",2017,"District Attorney - Queens County","FEDERAL - OTHER",967235.41,62820376.93,0.02
+"603",2017,"District Attorney - Queens County","STATE",4499116.91,62820376.93,0.07
+"604",2017,"District Attorney -Kings County","FEDERAL - OTHER",1207817.24,98215684.02,0.01
+"605",2017,"District Attorney -Kings County","STATE",4651380.24,98215684.02,0.05
+"606",2017,"District Attorney -Richmond County","FEDERAL - OTHER",491829.86,14573843.64,0.03
+"607",2017,"District Attorney -Richmond County","STATE",399268.58,14573843.64,0.03
+"608",2017,"Financial Information Services Agency","FEDERAL - OTHER",0,99856205.67,0
+"609",2017,"Fire Department","FEDERAL - OTHER",73680030.3400001,2037656046.27,0.04
+"610",2017,"Fire Department","STATE",22014224.49,2037656046.27,0.01
+"611",2017,"Health and Hospitals Corporation","FEDERAL - OTHER",16581670.06,783446904.3,0.02
+"612",2017,"Housing Preservation and Development","FEDERAL - OTHER",542755259.919999,1026604021.25,0.53
+"613",2017,"Housing Preservation and Development","STATE",1204791.75,1026604021.25,0
+"614",2017,"Mayoralty","FEDERAL - OTHER",66043754.0600003,121263295.79,0.54
+"615",2017,"Mayoralty","STATE",1841427.7,121263295.79,0.02
+"616",2017,"Miscellaneous","FEDERAL - OTHER",2749279.64,9169411400.28,0
+"617",2017,"Miscellaneous","STATE",670798755.4,9169411400.28,0.07
+"618",2017,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",256681.62,22078072.78,0.01
+"619",2017,"Office of Prosecution - Special Narcotics","STATE",814479.45,22078072.78,0.04
+"620",2017,"Police Department","FEDERAL - OTHER",244038791.42,5583994407.12999,0.04
+"621",2017,"Police Department","STATE",65807592.97,5583994407.12999,0.01
+"622",2017,"Public Advocate","STATE",0,3525226.86,0
+"623",2018,"Administration for Children's Services","FEDERAL - OTHER",1156322711.96,2976779882.50001,0.39
+"624",2018,"Administration for Children's Services","STATE",757292164.15,2976779882.50001,0.25
+"625",2018,"Board of Elections","FEDERAL - OTHER",0,129316442.83,0
+"626",2018,"Borough President - Bronx","FEDERAL - OTHER",104793,4902090.89,0.02
+"627",2018,"Borough President - Brooklyn","FEDERAL - OTHER",559931.21,6252788.85,0.09
+"628",2018,"Borough President - Brooklyn","STATE",0,6252788.85,0
+"629",2018,"Borough President - Queens","FEDERAL - OTHER",214735.2,5752139.42,0.04
+"630",2018,"Business Integrity Commission","FEDERAL - OTHER",3479.61000000002,8782525.15,0
+"631",2018,"Campaign Finance Board","FEDERAL - OTHER",0,32989420.49,0
+"632",2018,"City Clerk","STATE",0,5304515.45,0
+"633",2018,"City University of New York","STATE",254513245,1199135191.11,0.21
+"634",2018,"Civilian Complaint Review Board","FEDERAL - OTHER",0,16405577.44,0
+"635",2018,"Commission on Human Rights","FEDERAL - OTHER",444755.97,12758464.82,0.03
+"636",2018,"Commission on Human Rights","STATE",38462.99,12758464.82,0
+"637",2018,"DEPARTMENT OF VETERANS' SERVICES","STATE",-1.45519152283669e-11,3572505.08,0
+"638",2018,"Debt Service","FEDERAL - OTHER",198229504.38,6693636472.43,0.03
+"639",2018,"Department for the Aging","FEDERAL - OTHER",75159844.94,366105667.56,0.21
+"640",2018,"Department for the Aging","STATE",51440237.93,366105667.56,0.14
+"641",2018,"Department of Buildings","FEDERAL - OTHER",0,159725643.65,0
+"642",2018,"Department of City Planning","FEDERAL - OTHER",1569686.49,36105569.92,0.04
+"643",2018,"Department of City Planning","STATE",37207.56,36105569.92,0
+"644",2018,"Department of Citywide Administrative Services","FEDERAL - OTHER",655537.819999999,1245105997.2,0
+"645",2018,"Department of Citywide Administrative Services","STATE",67997556.03,1245105997.2,0.05
+"646",2018,"Department of Consumer Affairs","FEDERAL - OTHER",0,39567337.05,0
+"647",2018,"Department of Consumer Affairs","STATE",1577154.13,39567337.05,0.04
+"648",2018,"Department of Correction","FEDERAL - OTHER",861742.78,1400208158.58,0
+"649",2018,"Department of Correction","STATE",1002993.79,1400208158.58,0
+"650",2018,"Department of Cultural Affairs","FEDERAL - OTHER",35558,192497483.95,0
+"651",2018,"Department of Design and Construction","FEDERAL - OTHER",44224.29,550866679.989999,0
+"652",2018,"Department of Education","FEDERAL - OTHER",1826808770.76,25144008626.78,0.07
+"653",2018,"Department of Education","STATE",10728687195.16,25144008626.78,0.43
+"654",2018,"Department of Emergency Management","FEDERAL - OTHER",36297962.02,58888100.86,0.62
+"655",2018,"Department of Environmental Protection","FEDERAL - OTHER",2669161.09,1432081179.33,0
+"656",2018,"Department of Environmental Protection","STATE",2029500.4,1432081179.33,0
+"657",2018,"Department of Health and Mental Hygiene","FEDERAL - OTHER",362649542.530001,1699409030.63,0.21
+"658",2018,"Department of Health and Mental Hygiene","STATE",541495666.589999,1699409030.63,0.32
+"659",2018,"Department of Homeless Services","FEDERAL - OTHER",693809893.66,2146016707.95,0.32
+"660",2018,"Department of Homeless Services","STATE",168447182.93,2146016707.95,0.08
+"661",2018,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",1837405.4,657914101.780001,0
+"662",2018,"Department of Information Technology and Telecommunications","STATE",0,657914101.780001,0
+"663",2018,"Department of Investigation","FEDERAL - OTHER",6378858.18,41979968.65,0.15
+"664",2018,"Department of Investigation","STATE",27745.89,41979968.65,0
+"665",2018,"Department of Parks and Recreation","FEDERAL - OTHER",1653438.48,545283611.52,0
+"666",2018,"Department of Parks and Recreation","STATE",1626335.87,545283611.52,0
+"667",2018,"Department of Probation","FEDERAL - OTHER",329162.93,103147840.64,0
+"668",2018,"Department of Probation","STATE",13687948,103147840.64,0.13
+"669",2018,"Department of Records and Information Services","FEDERAL - OTHER",0,8011604.17,0
+"670",2018,"Department of Records and Information Services","STATE",452030,8011604.17,0.06
+"671",2018,"Department of Sanitation","FEDERAL - OTHER",2113849.41,1718962838.12,0
+"672",2018,"Department of Sanitation","STATE",40292.28,1718962838.12,0
+"673",2018,"Department of Small Business Services","FEDERAL - OTHER",47129846.4600001,267161240.9,0.18
+"674",2018,"Department of Small Business Services","STATE",445148.109999962,267161240.9,0
+"675",2018,"Department of Social Services","FEDERAL - OTHER",1617271315.06,9904012592.93,0.16
+"676",2018,"Department of Social Services","STATE",696150496.000001,9904012592.93,0.07
+"677",2018,"Department of Transportation","FEDERAL - OTHER",99769196.72,983688561.250004,0.1
+"678",2018,"Department of Transportation","STATE",206045389.23,983688561.250004,0.21
+"679",2018,"Department of Youth and Community Development","FEDERAL - OTHER",56895847.47,809309862.68,0.07
+"680",2018,"Department of Youth and Community Development","STATE",6931832.04,809309862.68,0.01
+"681",2018,"District Attorney - Bronx County","FEDERAL - OTHER",737977.46,75537363.9999999,0.01
+"682",2018,"District Attorney - Bronx County","STATE",3506970.86,75537363.9999999,0.05
+"683",2018,"District Attorney - New York County","FEDERAL - OTHER",759714.19,113422988.46,0.01
+"684",2018,"District Attorney - New York County","STATE",10066682.89,113422988.46,0.09
+"685",2018,"District Attorney - Queens County","FEDERAL - OTHER",30643.93,62421168.9,0
+"686",2018,"District Attorney - Queens County","STATE",4228393.56,62421168.9,0.07
+"687",2018,"District Attorney -Kings County","FEDERAL - OTHER",969497.27,98925357.0999999,0.01
+"688",2018,"District Attorney -Kings County","STATE",4712304.62,98925357.0999999,0.05
+"689",2018,"District Attorney -Richmond County","FEDERAL - OTHER",710022.65,15433418.64,0.05
+"690",2018,"District Attorney -Richmond County","STATE",577009.01,15433418.64,0.04
+"691",2018,"Fire Department","FEDERAL - OTHER",69819607.2300001,2091634155.39,0.03
+"692",2018,"Fire Department","STATE",22202640,2091634155.39,0.01
+"693",2018,"Health and Hospitals Corporation","FEDERAL - OTHER",11416736.05,872023822.75,0.01
+"694",2018,"Housing Preservation and Development","FEDERAL - OTHER",493117531.700002,1000774167.38,0.49
+"695",2018,"Housing Preservation and Development","STATE",-1270709.15,1000774167.38,0
+"696",2018,"Law Department","FEDERAL - OTHER",0,227205501.44,0
+"697",2018,"Mayoralty","FEDERAL - OTHER",110864114.58,128782651.62,0.86
+"698",2018,"Mayoralty","STATE",4625481.75,128782651.62,0.04
+"699",2018,"Miscellaneous","FEDERAL - OTHER",221563.69,9302680572.38,0
+"700",2018,"Miscellaneous","STATE",795405547.899999,9302680572.38,0.09
+"701",2018,"NYC Taxi and Limousine Commission","FEDERAL - OTHER",-1.13686837721616e-13,45734510.56,0
+"702",2018,"Office of Administrative Trials and Hearings","FEDERAL - OTHER",0,NA,NA
+"703",2018,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",103532.85,22184198.42,0
+"704",2018,"Office of Prosecution - Special Narcotics","STATE",835520.55,22184198.42,0.04
+"705",2018,"Police Department","FEDERAL - OTHER",251238690.22,5788377457.44,0.04
+"706",2018,"Police Department","STATE",64171333.61,5788377457.44,0.01
+"707",2019,"Administration for Children's Services","FEDERAL - OTHER",1439645384.64,3149237864.53999,0.46
+"708",2019,"Administration for Children's Services","STATE",1166844519.64,3149237864.53999,0.37
+"709",2019,"Board of Elections","FEDERAL - OTHER",0,172927232.12,0
+"710",2019,"Borough President - Bronx","FEDERAL - OTHER",150607.38,4986726.58,0.03
+"711",2019,"Borough President - Brooklyn","FEDERAL - OTHER",-3.63797880709171e-12,6383534.81,0
+"712",2019,"Borough President - Brooklyn","STATE",163013.79,6383534.81,0.03
+"713",2019,"Borough President - Queens","FEDERAL - OTHER",149168.03,5716842.49,0.03
+"714",2019,"Business Integrity Commission","FEDERAL - OTHER",183629.64,8770708.34,0.02
+"715",2019,"Campaign Finance Board","FEDERAL - OTHER",0,25395088.2,0
+"716",2019,"City Clerk","STATE",0,5577040.35,0
+"717",2019,"City University of New York","STATE",263316567,1252097241.33,0.21
+"718",2019,"Civilian Complaint Review Board","FEDERAL - OTHER",0,18458685.53,0
+"719",2019,"Commission on Human Rights","FEDERAL - OTHER",286500,13257184.18,0.02
+"720",2019,"Commission on Human Rights","STATE",0,13257184.18,0
+"721",2019,"DEPARTMENT OF VETERANS' SERVICES","STATE",327442,4141990.74,0.08
+"722",2019,"Debt Service","FEDERAL - OTHER",197160189.55,6373133327.49,0.03
+"723",2019,"Department for the Aging","FEDERAL - OTHER",70647626.26,388223559.58,0.18
+"724",2019,"Department for the Aging","STATE",42683033.09,388223559.58,0.11
+"725",2019,"Department of Buildings","FEDERAL - OTHER",0,173247280.39,0
+"726",2019,"Department of City Planning","FEDERAL - OTHER",1656811.87,40072536.1999999,0.04
+"727",2019,"Department of City Planning","STATE",187611.11,40072536.1999999,0
+"728",2019,"Department of Citywide Administrative Services","FEDERAL - OTHER",519478.03,1280021933.82,0
+"729",2019,"Department of Citywide Administrative Services","STATE",4008805.77999999,1280021933.82,0
+"730",2019,"Department of Consumer Affairs","FEDERAL - OTHER",0,42274824.13,0
+"731",2019,"Department of Consumer Affairs","STATE",1919463,42274824.13,0.05
+"732",2019,"Department of Correction","FEDERAL - OTHER",459449.22,1374536728.09,0
+"733",2019,"Department of Correction","STATE",1094253.07,1374536728.09,0
+"734",2019,"Department of Cultural Affairs","STATE",216044.51,205087286.3,0
+"735",2019,"Department of Design and Construction","FEDERAL - OTHER",46308.55,286806783.68,0
+"736",2019,"Department of Education","FEDERAL - OTHER",2190042983.56,27066849185.89,0.08
+"737",2019,"Department of Education","STATE",11633142504.62,27066849185.89,0.43
+"738",2019,"Department of Emergency Management","FEDERAL - OTHER",35290852.54,58965461.44,0.6
+"739",2019,"Department of Environmental Protection","FEDERAL - OTHER",3354667.17,1433007394.89,0
+"740",2019,"Department of Environmental Protection","STATE",742081.97,1433007394.89,0
+"741",2019,"Department of Health and Mental Hygiene","FEDERAL - OTHER",271890034.199999,1782768852.84,0.15
+"742",2019,"Department of Health and Mental Hygiene","STATE",563849037.92,1782768852.84,0.32
+"743",2019,"Department of Homeless Services","FEDERAL - OTHER",626114434.22,2184141576.24,0.29
+"744",2019,"Department of Homeless Services","STATE",156928379.37,2184141576.24,0.07
+"745",2019,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",1811350.65,675510818.350001,0
+"746",2019,"Department of Information Technology and Telecommunications","STATE",858944.52,675510818.350001,0
+"747",2019,"Department of Investigation","FEDERAL - OTHER",5462352.24,49120137.79,0.11
+"748",2019,"Department of Parks and Recreation","FEDERAL - OTHER",410988.800000001,563626608.599999,0
+"749",2019,"Department of Parks and Recreation","STATE",3053241.43,563626608.599999,0.01
+"750",2019,"Department of Probation","FEDERAL - OTHER",606977.44,114159216.4,0.01
+"751",2019,"Department of Probation","STATE",13533191.55,114159216.4,0.12
+"752",2019,"Department of Records and Information Services","STATE",12900,9785771.68,0
+"753",2019,"Department of Sanitation","FEDERAL - OTHER",564909,1762369192.24,0
+"754",2019,"Department of Sanitation","STATE",967526.17,1762369192.24,0
+"755",2019,"Department of Small Business Services","FEDERAL - OTHER",52927949.87,244549085.57,0.22
+"756",2019,"Department of Small Business Services","STATE",3333665.49,244549085.57,0.01
+"757",2019,"Department of Social Services","FEDERAL - OTHER",1642854070.63,10243106826.41,0.16
+"758",2019,"Department of Social Services","STATE",629754861.13,10243106826.41,0.06
+"759",2019,"Department of Transportation","FEDERAL - OTHER",75578125.5900001,1040372690.92,0.07
+"760",2019,"Department of Transportation","STATE",177117471.63,1040372690.92,0.17
+"761",2019,"Department of Youth and Community Development","FEDERAL - OTHER",76568009.8900001,872002513.85,0.09
+"762",2019,"Department of Youth and Community Development","STATE",9079877,872002513.85,0.01
+"763",2019,"District Attorney - Bronx County","FEDERAL - OTHER",762626.57,83443348.7499999,0.01
+"764",2019,"District Attorney - Bronx County","STATE",3648266.49,83443348.7499999,0.04
+"765",2019,"District Attorney - New York County","FEDERAL - OTHER",1196689.44,119111014.46,0.01
+"766",2019,"District Attorney - New York County","STATE",9014284.73,119111014.46,0.08
+"767",2019,"District Attorney - Queens County","FEDERAL - OTHER",430047.860000001,70018759.04,0.01
+"768",2019,"District Attorney - Queens County","STATE",3928690.72,70018759.04,0.06
+"769",2019,"District Attorney -Kings County","FEDERAL - OTHER",561174.76,110501539.3,0.01
+"770",2019,"District Attorney -Kings County","STATE",3041525.14,110501539.3,0.03
+"771",2019,"District Attorney -Richmond County","FEDERAL - OTHER",303653.54,16936329.69,0.02
+"772",2019,"District Attorney -Richmond County","STATE",846115.26,16936329.69,0.05
+"773",2019,"Financial Information Services Agency","FEDERAL - OTHER",0,111255665.16,0
+"774",2019,"Fire Department","FEDERAL - OTHER",79634294.2800002,2114027839.78,0.04
+"775",2019,"Fire Department","STATE",22141439.42,2114027839.78,0.01
+"776",2019,"Health and Hospitals Corporation","FEDERAL - OTHER",1030523.11,1034600578.91,0
+"777",2019,"Housing Preservation and Development","FEDERAL - OTHER",586088036.910002,1090448943.47,0.54
+"778",2019,"Housing Preservation and Development","STATE",1532964.89,1090448943.47,0
+"779",2019,"Landmarks Preservation Commission","STATE",48750,6220772.08,0.01
+"780",2019,"Law Department","FEDERAL - OTHER",0,254074666.18,0
+"781",2019,"Mayoralty","FEDERAL - OTHER",123487442.23,146581000.48,0.84
+"782",2019,"Mayoralty","STATE",5937227.96,146581000.48,0.04
+"783",2019,"Miscellaneous","FEDERAL - OTHER",-3971537.56,9927454170.15,0
+"784",2019,"Miscellaneous","STATE",851420281.56,9927454170.15,0.09
+"785",2019,"NYC Taxi and Limousine Commission","FEDERAL - OTHER",0,47896912.94,0
+"786",2019,"Office of Administrative Trials and Hearings","FEDERAL - OTHER",0,NA,NA
+"787",2019,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",84982.03,23292327.35,0
+"788",2019,"Office of Prosecution - Special Narcotics","STATE",825000,23292327.35,0.04
+"789",2019,"Police Department","FEDERAL - OTHER",197137409.569999,5976818446.84001,0.03
+"790",2019,"Police Department","STATE",66974641.18,5976818446.84001,0.01
+"791",2019,"Public Advocate","STATE",0,3021848.55,0
+"792",2020,"Administration for Children's Services","FEDERAL - OTHER",1025331760.04,2646360346.93001,0.39
+"793",2020,"Administration for Children's Services","STATE",706846053.44,2646360346.93001,0.27
+"794",2020,"Board of Elections","STATE",10315791.64,222093280.55,0.05
+"795",2020,"Borough President - Bronx","FEDERAL - OTHER",310764.59,5154037.73,0.06
+"796",2020,"Borough President - Brooklyn","FEDERAL - OTHER",0,6677904.28,0
+"797",2020,"Borough President - Brooklyn","STATE",219500,6677904.28,0.03
+"798",2020,"Borough President - Queens","FEDERAL - OTHER",378552.69,5687421.25,0.07
+"799",2020,"Business Integrity Commission","FEDERAL - OTHER",50868.4,8809434.01999999,0.01
+"800",2020,"City Clerk","STATE",0,5506511.38,0
+"801",2020,"City University of New York","STATE",245899457,1255110554.05,0.2
+"802",2020,"Commission on Human Rights","FEDERAL - OTHER",320700,12155372.63,0.03
+"803",2020,"Commission on Human Rights","STATE",0,12155372.63,0
+"804",2020,"Debt Service","FEDERAL - OTHER",186332717.79,6553573987.1,0.03
+"805",2020,"Department for the Aging","FEDERAL - OTHER",101020622.37,423982105.73,0.24
+"806",2020,"Department for the Aging","STATE",44449888.9500001,423982105.73,0.1
+"807",2020,"Department of City Planning","FEDERAL - OTHER",1801443.62,43014007.3600001,0.04
+"808",2020,"Department of City Planning","STATE",168398.28,43014007.3600001,0
+"809",2020,"Department of Citywide Administrative Services","FEDERAL - OTHER",423839.74,1839808788.29,0
+"810",2020,"Department of Citywide Administrative Services","STATE",70389361.78,1839808788.29,0.04
+"811",2020,"Department of Consumer Affairs","STATE",1346925.53,41536924.86,0.03
+"812",2020,"Department of Correction","FEDERAL - OTHER",274151.08,1287216511.6,0
+"813",2020,"Department of Correction","STATE",479875.840000001,1287216511.6,0
+"814",2020,"Department of Cultural Affairs","STATE",0,209860485.68,0
+"815",2020,"Department of Design and Construction","FEDERAL - OTHER",68925.85,347151679.62,0
+"816",2020,"Department of Education","FEDERAL - OTHER",1732157699.08,28066521893.77,0.06
+"817",2020,"Department of Education","STATE",11572325680.7401,28066521893.77,0.41
+"818",2020,"Department of Emergency Management","FEDERAL - OTHER",26126051.52,257893413.63,0.1
+"819",2020,"Department of Environmental Protection","FEDERAL - OTHER",4584077.88,1382811429.78,0
+"820",2020,"Department of Environmental Protection","STATE",811330.31,1382811429.78,0
+"821",2020,"Department of Finance","STATE",0,310094306.32,0
+"822",2020,"Department of Health and Mental Hygiene","FEDERAL - OTHER",356883697.379999,1860295037.49,0.19
+"823",2020,"Department of Health and Mental Hygiene","STATE",307701508.259999,1860295037.49,0.17
+"824",2020,"Department of Homeless Services","FEDERAL - OTHER",550779162.479999,2369186743.74999,0.23
+"825",2020,"Department of Homeless Services","STATE",220761141.34,2369186743.74999,0.09
+"826",2020,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",1455205.57,821682858.6,0
+"827",2020,"Department of Information Technology and Telecommunications","STATE",2524679,821682858.6,0
+"828",2020,"Department of Investigation","FEDERAL - OTHER",13492187.68,53174828.2200001,0.25
+"829",2020,"Department of Investigation","STATE",134756.91,53174828.2200001,0
+"830",2020,"Department of Parks and Recreation","FEDERAL - OTHER",524041.639999999,567210123.72,0
+"831",2020,"Department of Parks and Recreation","STATE",2546601.97,567210123.72,0
+"832",2020,"Department of Probation","FEDERAL - OTHER",88911.34,114276373.8,0
+"833",2020,"Department of Probation","STATE",13505733.48,114276373.8,0.12
+"834",2020,"Department of Records and Information Services","FEDERAL - OTHER",107215,9600548.01,0.01
+"835",2020,"Department of Records and Information Services","STATE",528067,9600548.01,0.06
+"836",2020,"Department of Sanitation","FEDERAL - OTHER",31907837.49,2103204201.94,0.02
+"837",2020,"Department of Sanitation","STATE",3076084.12,2103204201.94,0
+"838",2020,"Department of Small Business Services","FEDERAL - OTHER",39784160.86,340110216.080001,0.12
+"839",2020,"Department of Small Business Services","STATE",-5602378.15,340110216.080001,-0.02
+"840",2020,"Department of Social Services","FEDERAL - OTHER",1493409834.39,10555945920.39,0.14
+"841",2020,"Department of Social Services","STATE",720665646.589999,10555945920.39,0.07
+"842",2020,"Department of Transportation","FEDERAL - OTHER",104665593.21,1094126482.22,0.1
+"843",2020,"Department of Transportation","STATE",230124487.63,1094126482.22,0.21
+"844",2020,"Department of Veterans' Services","STATE",412000,NA,NA
+"845",2020,"Department of Youth and Community Development","FEDERAL - OTHER",105950875.31,955158081.349999,0.11
+"846",2020,"Department of Youth and Community Development","STATE",7014617,955158081.349999,0.01
+"847",2020,"District Attorney - Bronx County","FEDERAL - OTHER",1395001.54,86241628.22,0.02
+"848",2020,"District Attorney - Bronx County","STATE",3496384.53,86241628.22,0.04
+"849",2020,"District Attorney - New York County","FEDERAL - OTHER",1718731.28,141082620.35,0.01
+"850",2020,"District Attorney - New York County","STATE",15458741.38,141082620.35,0.11
+"851",2020,"District Attorney - Queens County","FEDERAL - OTHER",1137124.79,72993217.04,0.02
+"852",2020,"District Attorney - Queens County","STATE",5395109.19,72993217.04,0.07
+"853",2020,"District Attorney -Kings County","FEDERAL - OTHER",993499.69,117154986.7,0.01
+"854",2020,"District Attorney -Kings County","STATE",4551974.43,117154986.7,0.04
+"855",2020,"District Attorney -Richmond County","FEDERAL - OTHER",-1053290.41,18584285,-0.06
+"856",2020,"District Attorney -Richmond County","STATE",831003.49,18584285,0.04
+"857",2020,"Fire Department","FEDERAL - OTHER",80861880.8799998,2174496782.94999,0.04
+"858",2020,"Fire Department","STATE",20916331.21,2174496782.94999,0.01
+"859",2020,"Health and Hospitals Corporation","FEDERAL - OTHER",7640009.59,830222105.64,0.01
+"860",2020,"Housing Preservation and Development","FEDERAL - OTHER",451645163.729999,1129780678.6,0.4
+"861",2020,"Housing Preservation and Development","STATE",1730866.04,1129780678.6,0
+"862",2020,"Landmarks Preservation Commission","STATE",30000,6443032.81,0
+"863",2020,"Mayoralty","FEDERAL - OTHER",2783950582.53,166829921.5,16.69
+"864",2020,"Mayoralty","STATE",2754234.45,166829921.5,0.02
+"865",2020,"Miscellaneous","FEDERAL - OTHER",195364,10644399005.15,0
+"866",2020,"Miscellaneous","STATE",916424959.409999,10644399005.15,0.09
+"867",2020,"Office of Administrative Trials and Hearings","FEDERAL - OTHER",0,NA,NA
+"868",2020,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",166842.37,23725514.75,0.01
+"869",2020,"Office of Prosecution - Special Narcotics","STATE",825000,23725514.75,0.03
+"870",2020,"Police Department","FEDERAL - OTHER",237331962.22,6086159937.39002,0.04
+"871",2020,"Police Department","STATE",65703144.64,6086159937.39002,0.01
+"872",2021,"Administration for Children's Services","FEDERAL - OTHER",1129019264,2534107165.17001,0.45
+"873",2021,"Administration for Children's Services","STATE",1434473149.75,2534107165.17001,0.57
+"874",2021,"Board of Elections","FEDERAL - OTHER",-86210.8,230856908.56,0
+"875",2021,"Board of Elections","STATE",5131606.99,230856908.56,0.02
+"876",2021,"Borough President - Bronx","FEDERAL - OTHER",270790.91,4882388.27,0.06
+"877",2021,"Borough President - Brooklyn","FEDERAL - OTHER",-1.09139364212751e-11,6669105.94,0
+"878",2021,"Borough President - Brooklyn","STATE",163500,6669105.94,0.02
+"879",2021,"Borough President - Queens","FEDERAL - OTHER",-105222.17,5916863.9,-0.02
+"880",2021,"Business Integrity Commission","FEDERAL - OTHER",104169.67,8886497.67,0.01
+"881",2021,"City University of New York","FEDERAL - OTHER",31164309.23,1159433541.02,0.03
+"882",2021,"City University of New York","STATE",231044074,1159433541.02,0.2
+"883",2021,"Commission on Human Rights","FEDERAL - OTHER",403000,11850909.85,0.03
+"884",2021,"Commission on Human Rights","STATE",46687,11850909.85,0
+"885",2021,"DEPT OF CONSUMER & WORKER PROTECTION","STATE",584169.2,5262.1,111.01
+"886",2021,"Debt Service","FEDERAL - OTHER",180658292.61,8193149665,0.02
+"887",2021,"Department for the Aging","FEDERAL - OTHER",69003559.56,355609624.53,0.19
+"888",2021,"Department for the Aging","STATE",46385709.3599999,355609624.53,0.13
+"889",2021,"Department of City Planning","FEDERAL - OTHER",2019516.48,38721183.3,0.05
+"890",2021,"Department of City Planning","STATE",138591.32,38721183.3,0
+"891",2021,"Department of Citywide Administrative Services","FEDERAL - OTHER",89225.66,1667487599.66,0
+"892",2021,"Department of Citywide Administrative Services","STATE",70728184.31,1667487599.66,0.04
+"893",2021,"Department of Consumer Affairs","STATE",1411368.09,42511190,0.03
+"894",2021,"Department of Correction","FEDERAL - OTHER",134551.99,1259316506.15,0
+"895",2021,"Department of Correction","STATE",3119636.3,1259316506.15,0
+"896",2021,"Department of Education","FEDERAL - OTHER",2546805553.29,28542045211.87,0.09
+"897",2021,"Department of Education","STATE",10665740021.2101,28542045211.87,0.37
+"898",2021,"Department of Emergency Management","FEDERAL - OTHER",22648444.49,290910459.67,0.08
+"899",2021,"Department of Emergency Management","STATE",20000,290910459.67,0
+"900",2021,"Department of Environmental Protection","FEDERAL - OTHER",3930104.31,1411263670.66,0
+"901",2021,"Department of Environmental Protection","STATE",865147.73,1411263670.66,0
+"902",2021,"Department of Finance","STATE",75000,301066002.76,0
+"903",2021,"Department of Health and Mental Hygiene","FEDERAL - OTHER",1143676038.09,2181317580.09999,0.52
+"904",2021,"Department of Health and Mental Hygiene","STATE",651332393.18,2181317580.09999,0.3
+"905",2021,"Department of Homeless Services","FEDERAL - OTHER",694194538.52,3044488823.95,0.23
+"906",2021,"Department of Homeless Services","STATE",122367836.7,3044488823.95,0.04
+"907",2021,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",1370244.22,970734324.73,0
+"908",2021,"Department of Information Technology and Telecommunications","STATE",1521124.46,970734324.73,0
+"909",2021,"Department of Parks and Recreation","FEDERAL - OTHER",266224.67,526873150.269999,0
+"910",2021,"Department of Parks and Recreation","STATE",11689837.43,526873150.269999,0.02
+"911",2021,"Department of Probation","FEDERAL - OTHER",17241.94,117492464.47,0
+"912",2021,"Department of Probation","STATE",13410794.54,117492464.47,0.11
+"913",2021,"Department of Records and Information Services","STATE",-120832,10986752.44,-0.01
+"914",2021,"Department of Sanitation","FEDERAL - OTHER",225160,2378701805.28001,0
+"915",2021,"Department of Sanitation","STATE",1394003.92,2378701805.28001,0
+"916",2021,"Department of Small Business Services","FEDERAL - OTHER",43531509.85,227009746.45,0.19
+"917",2021,"Department of Small Business Services","STATE",207360.25999999,227009746.45,0
+"918",2021,"Department of Social Services","FEDERAL - OTHER",1577469744.2,10093484333.51,0.16
+"919",2021,"Department of Social Services","STATE",746734837.88,10093484333.51,0.07
+"920",2021,"Department of Transportation","FEDERAL - OTHER",79985602.04,1142413359.97001,0.07
+"921",2021,"Department of Transportation","STATE",236167608.89,1142413359.97001,0.21
+"922",2021,"Department of Veterans' Services","STATE",415000,NA,NA
+"923",2021,"Department of Youth and Community Development","FEDERAL - OTHER",121376350.58,859388494.42,0.14
+"924",2021,"Department of Youth and Community Development","STATE",6766580,859388494.42,0.01
+"925",2021,"District Attorney - Bronx County","FEDERAL - OTHER",836738.18,92023311.96,0.01
+"926",2021,"District Attorney - Bronx County","STATE",3953076.15,92023311.96,0.04
+"927",2021,"District Attorney - New York County","FEDERAL - OTHER",865611.150000001,134995628.34,0.01
+"928",2021,"District Attorney - New York County","STATE",11643283.95,134995628.34,0.09
+"929",2021,"District Attorney - Queens County","FEDERAL - OTHER",1300695.76,75505034.17,0.02
+"930",2021,"District Attorney - Queens County","STATE",4676548.84,75505034.17,0.06
+"931",2021,"District Attorney -Kings County","FEDERAL - OTHER",2615715.42,121692646.42,0.02
+"932",2021,"District Attorney -Kings County","STATE",3456975.4,121692646.42,0.03
+"933",2021,"District Attorney -Richmond County","FEDERAL - OTHER",700029.53,19233771.72,0.04
+"934",2021,"District Attorney -Richmond County","STATE",857934.7,19233771.72,0.04
+"935",2021,"Fire Department","FEDERAL - OTHER",76520594.22,2235371940.83,0.03
+"936",2021,"Fire Department","STATE",20115026.59,2235371940.83,0.01
+"937",2021,"Health and Hospitals Corporation","FEDERAL - OTHER",173861.82,2522746531.17,0
+"938",2021,"Housing Preservation and Development","FEDERAL - OTHER",655406273.320001,1129903291.16,0.58
+"939",2021,"Housing Preservation and Development","STATE",2282550.28,1129903291.16,0
+"940",2021,"Mayoralty","FEDERAL - OTHER",6609867294.06,149519901.98,44.21
+"941",2021,"Mayoralty","STATE",3472266.02,149519901.98,0.02
+"942",2021,"Miscellaneous","FEDERAL - OTHER",-902594.68,12281134765.7,0
+"943",2021,"Miscellaneous","STATE",1011690643.84,12281134765.7,0.08
+"944",2021,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",227864.94,25334300.32,0.01
+"945",2021,"Office of Prosecution - Special Narcotics","STATE",788975.13,25334300.32,0.03
+"946",2021,"Police Department","FEDERAL - OTHER",137319582.08,5547505265.52001,0.02
+"947",2021,"Police Department","STATE",29874174.73,5547505265.52001,0.01
+"948",2022,"Administration for Children's Services","FEDERAL - OTHER",977960819.230001,2646831899.58,0.37
+"949",2022,"Administration for Children's Services","STATE",583392606.78,2646831899.58,0.22
+"950",2022,"Borough President - Bronx","FEDERAL - OTHER",109209.94,5378196.81,0.02
+"951",2022,"Borough President - Brooklyn","STATE",147400,8595518.00999999,0.02
+"952",2022,"Borough President - Queens","FEDERAL - OTHER",104081,7076115.1,0.01
+"953",2022,"Business Integrity Commission","FEDERAL - OTHER",4773.21000000002,8739046.92,0
+"954",2022,"City Council","STATE",33057,73954289.51,0
+"955",2022,"City University of New York","FEDERAL - OTHER",111358845.3,1231721427.05,0.09
+"956",2022,"City University of New York","STATE",238055361,1231721427.05,0.19
+"957",2022,"Commission on Human Rights","FEDERAL - OTHER",310600,11212638.89,0.03
+"958",2022,"Commission on Human Rights","STATE",0,11212638.89,0
+"959",2022,"DEPT OF CONSUMER & WORKER PROTECTION","STATE",1810149.7,59423394.06,0.03
+"960",2022,"Debt Service","FEDERAL - OTHER",154546170.61,6295006129.59,0.02
+"961",2022,"Department for the Aging","FEDERAL - OTHER",64516139.11,502583897.27,0.13
+"962",2022,"Department for the Aging","STATE",47811361.15,502583897.27,0.1
+"963",2022,"Department of City Planning","FEDERAL - OTHER",1765012.11,36445939.0399999,0.05
+"964",2022,"Department of City Planning","STATE",229537.76,36445939.0399999,0.01
+"965",2022,"Department of Citywide Administrative Services","FEDERAL - OTHER",129896.25,1532712083.22,0
+"966",2022,"Department of Citywide Administrative Services","STATE",68881642.38,1532712083.22,0.04
+"967",2022,"Department of Correction","FEDERAL - OTHER",144614.16,1391827960.99,0
+"968",2022,"Department of Correction","STATE",3375938.43999999,1391827960.99,0
+"969",2022,"Department of Design and Construction","FEDERAL - OTHER",15130863,201550635.000001,0.08
+"970",2022,"Department of Education","FEDERAL - OTHER",4934931251.44,31558010299.61,0.16
+"971",2022,"Department of Education","STATE",11986733496.47,31558010299.61,0.38
+"972",2022,"Department of Emergency Management","FEDERAL - OTHER",22744702.62,675329142.74,0.03
+"973",2022,"Department of Environmental Protection","FEDERAL - OTHER",3964237.27,1449906688.92,0
+"974",2022,"Department of Environmental Protection","STATE",6583747.23,1449906688.92,0
+"975",2022,"Department of Finance","STATE",0,301212859.09,0
+"976",2022,"Department of Health and Mental Hygiene","FEDERAL - OTHER",735494536.929997,2613153773.15001,0.28
+"977",2022,"Department of Health and Mental Hygiene","STATE",561724082.190001,2613153773.15001,0.21
+"978",2022,"Department of Homeless Services","FEDERAL - OTHER",374037250.64,2732768473.2,0.14
+"979",2022,"Department of Homeless Services","STATE",147376681.75,2732768473.2,0.05
+"980",2022,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",2690685.76,924479355.020001,0
+"981",2022,"Department of Information Technology and Telecommunications","STATE",450197.44,924479355.020001,0
+"982",2022,"Department of Investigation","FEDERAL - OTHER",1030548.75,49884135.77,0.02
+"983",2022,"Department of Investigation","STATE",7424,49884135.77,0
+"984",2022,"Department of Parks and Recreation","FEDERAL - OTHER",76399.61,588191443.779998,0
+"985",2022,"Department of Parks and Recreation","STATE",-8822652.73,588191443.779998,-0.01
+"986",2022,"Department of Probation","FEDERAL - OTHER",35787.71,113064208.11,0
+"987",2022,"Department of Probation","STATE",13490146,113064208.11,0.12
+"988",2022,"Department of Records and Information Services","FEDERAL - OTHER",0,12439326.22,0
+"989",2022,"Department of Records and Information Services","STATE",120363,12439326.22,0.01
+"990",2022,"Department of Sanitation","FEDERAL - OTHER",43633,2040331129.58,0
+"991",2022,"Department of Sanitation","STATE",12198710.02,2040331129.58,0.01
+"992",2022,"Department of Small Business Services","FEDERAL - OTHER",41430753.29,513199818.6,0.08
+"993",2022,"Department of Small Business Services","STATE",-367179.669999976,513199818.6,0
+"994",2022,"Department of Social Services","FEDERAL - OTHER",1298453920.88,10964992633.26,0.12
+"995",2022,"Department of Social Services","STATE",701009902.870001,10964992633.26,0.06
+"996",2022,"Department of Transportation","FEDERAL - OTHER",126934848.38,1235380909.34,0.1
+"997",2022,"Department of Transportation","STATE",240200519.41,1235380909.34,0.19
+"998",2022,"Department of Veterans' Services","STATE",0,NA,NA
+"999",2022,"Department of Youth and Community Development","FEDERAL - OTHER",94888419.1700001,971567974.42,0.1
+"1000",2022,"Department of Youth and Community Development","STATE",7071699,971567974.42,0.01
+"1001",2022,"District Attorney - Bronx County","FEDERAL - OTHER",672827.99,97709663.33,0.01
+"1002",2022,"District Attorney - Bronx County","STATE",3947248.07,97709663.33,0.04
+"1003",2022,"District Attorney - New York County","FEDERAL - OTHER",1207895.18,152670563.8,0.01
+"1004",2022,"District Attorney - New York County","STATE",8028541.13,152670563.8,0.05
+"1005",2022,"District Attorney - Queens County","FEDERAL - OTHER",1530315.4,84283210.22,0.02
+"1006",2022,"District Attorney - Queens County","STATE",939671.32,84283210.22,0.01
+"1007",2022,"District Attorney -Kings County","FEDERAL - OTHER",1216350.38,124676677.91,0.01
+"1008",2022,"District Attorney -Kings County","STATE",3848492.66,124676677.91,0.03
+"1009",2022,"District Attorney -Richmond County","FEDERAL - OTHER",608844.99,21844800.43,0.03
+"1010",2022,"District Attorney -Richmond County","STATE",1058218.5,21844800.43,0.05
+"1011",2022,"Fire Department","FEDERAL - OTHER",75181925.54,2486019325.92,0.03
+"1012",2022,"Fire Department","STATE",20202630.9,2486019325.92,0.01
+"1013",2022,"Health and Hospitals Corporation","FEDERAL - OTHER",18175267.8,2269646553.69,0.01
+"1014",2022,"Housing Preservation and Development","FEDERAL - OTHER",627452990.61,1194413950.64,0.53
+"1015",2022,"Housing Preservation and Development","STATE",1189323.7,1194413950.64,0
+"1016",2022,"Landmarks Preservation Commission","STATE",44406,6546020.13,0.01
+"1017",2022,"Law Department","STATE",3845,264644717.96,0
+"1018",2022,"Mayoralty","FEDERAL - OTHER",4044078652.38998,167096960.23,24.2
+"1019",2022,"Mayoralty","STATE",4904085.44,167096960.23,0.03
+"1020",2022,"Miscellaneous","FEDERAL - OTHER",2019213,14667947392.09,0
+"1021",2022,"Miscellaneous","STATE",1130028886.83,14667947392.09,0.08
+"1022",2022,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",72978.64,25802166.65,0
+"1023",2022,"Office of Prosecution - Special Narcotics","STATE",783524.87,25802166.65,0.03
+"1024",2022,"Police Department","FEDERAL - OTHER",185796960.519999,5881306127.82001,0.03
+"1025",2022,"Police Department","STATE",27307215.91,5881306127.82001,0
+"1026",2022,"Queens Borough Public Library","FEDERAL - OTHER",23774.39,122091321,0
+"1027",2023,"Administration for Children's Services","FEDERAL - OTHER",1120941848.2,2988303983.69001,0.38
+"1028",2023,"Administration for Children's Services","STATE",1239403746.56,2988303983.69001,0.41
+"1029",2023,"Board of Elections","FEDERAL - OTHER",0,258013996.42,0
+"1030",2023,"Board of Elections","STATE",12181197.76,258013996.42,0.05
+"1031",2023,"Borough President - Bronx","FEDERAL - OTHER",194567.68,6303805.16,0.03
+"1032",2023,"Borough President - Brooklyn","STATE",178600,7773937.4,0.02
+"1033",2023,"Borough President - Queens","FEDERAL - OTHER",4222.50000000003,6712391.12,0
+"1034",2023,"Business Integrity Commission","FEDERAL - OTHER",7121.88999999996,8976817.53,0
+"1035",2023,"Business Integrity Commission","STATE",25738,8976817.53,0
+"1036",2023,"City Council","STATE",15124,84763709.53,0
+"1037",2023,"City University of New York","FEDERAL - OTHER",77196156,1269748098.49,0.06
+"1038",2023,"City University of New York","STATE",245099773,1269748098.49,0.19
+"1039",2023,"Commission on Human Rights","FEDERAL - OTHER",208750,11129552.34,0.02
+"1040",2023,"DEPT OF CONSUMER & WORKER PROTECTION","STATE",446599.16,67906144.77,0.01
+"1041",2023,"Debt Service","FEDERAL - OTHER",164915780.73,7117957757.01,0.02
+"1042",2023,"Department for the Aging","FEDERAL - OTHER",80137830.0799999,494741370.31,0.16
+"1043",2023,"Department for the Aging","STATE",83181226.58,494741370.31,0.17
+"1044",2023,"Department of Buildings","FEDERAL - OTHER",0,192133910.95,0
+"1045",2023,"Department of City Planning","FEDERAL - OTHER",1661418.07,39705900.11,0.04
+"1046",2023,"Department of City Planning","STATE",47653,39705900.11,0
+"1047",2023,"Department of Citywide Administrative Services","FEDERAL - OTHER",174487.54,1623651260.27,0
+"1048",2023,"Department of Citywide Administrative Services","STATE",70747420.04,1623651260.27,0.04
+"1049",2023,"Department of Consumer & Worker Protection","STATE",1606252.26,NA,NA
+"1050",2023,"Department of Correction","FEDERAL - OTHER",186089,1357412390.26,0
+"1051",2023,"Department of Correction","STATE",1795775.53,1357412390.26,0
+"1052",2023,"Department of Cultural Affairs","FEDERAL - OTHER",0,245009182.64,0
+"1053",2023,"Department of Design and Construction","FEDERAL - OTHER",0,228405883.64,0
+"1054",2023,"Department of Education","FEDERAL - OTHER",4071520328.71,31505483971.52,0.13
+"1055",2023,"Department of Education","STATE",12486443834.95,31505483971.52,0.4
+"1056",2023,"Department of Emergency Management","FEDERAL - OTHER",32000659.5,186238436.82,0.17
+"1057",2023,"Department of Emergency Management","STATE",-3522.74,186238436.82,0
+"1058",2023,"Department of Environmental Protection","FEDERAL - OTHER",3762209.04,1535921046.42,0
+"1059",2023,"Department of Environmental Protection","STATE",2004270.55,1535921046.42,0
+"1060",2023,"Department of Finance","STATE",329150,332077135.420001,0
+"1061",2023,"Department of Health and Mental Hygiene","FEDERAL - OTHER",463549200.319998,2335487991.38001,0.2
+"1062",2023,"Department of Health and Mental Hygiene","STATE",785535858.11,2335487991.38001,0.34
+"1063",2023,"Department of Homeless Services","FEDERAL - OTHER",501419171.030001,3540377650.3,0.14
+"1064",2023,"Department of Homeless Services","STATE",617615861.57,3540377650.3,0.17
+"1065",2023,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",2162527,897444018.830002,0
+"1066",2023,"Department of Information Technology and Telecommunications","STATE",2334975.93,897444018.830002,0
+"1067",2023,"Department of Investigation","FEDERAL - OTHER",2325554.65,47674617.3199999,0.05
+"1068",2023,"Department of Parks and Recreation","FEDERAL - OTHER",168945.98,614286337.580001,0
+"1069",2023,"Department of Parks and Recreation","STATE",-8019827.43,614286337.580001,-0.01
+"1070",2023,"Department of Probation","FEDERAL - OTHER",45000,115332511.02,0
+"1071",2023,"Department of Probation","STATE",13726853.31,115332511.02,0.12
+"1072",2023,"Department of Records and Information Services","FEDERAL - OTHER",-1536.69,14234228.31,0
+"1073",2023,"Department of Records and Information Services","STATE",-18028,14234228.31,0
+"1074",2023,"Department of Sanitation","FEDERAL - OTHER",0,1919279015.03,0
+"1075",2023,"Department of Sanitation","STATE",3662641.77,1919279015.03,0
+"1076",2023,"Department of Small Business Services","FEDERAL - OTHER",42954809.6199999,364135862.77,0.12
+"1077",2023,"Department of Small Business Services","STATE",1466288.27999999,364135862.77,0
+"1078",2023,"Department of Social Services","FEDERAL - OTHER",1556188752.18,11126993268,0.14
+"1079",2023,"Department of Social Services","STATE",703570933.36,11126993268,0.06
+"1080",2023,"Department of Transportation","FEDERAL - OTHER",120094938.48,1385386403.03,0.09
+"1081",2023,"Department of Transportation","STATE",274563352.469999,1385386403.03,0.2
+"1082",2023,"Department of Veterans' Services","STATE",435000,NA,NA
+"1083",2023,"Department of Youth and Community Development","FEDERAL - OTHER",22521726.46,1126488498.5,0.02
+"1084",2023,"Department of Youth and Community Development","STATE",9724071,1126488498.5,0.01
+"1085",2023,"District Attorney - Bronx County","FEDERAL - OTHER",1280653.19,106628806,0.01
+"1086",2023,"District Attorney - Bronx County","STATE",3972816.62,106628806,0.04
+"1087",2023,"District Attorney - New York County","FEDERAL - OTHER",845172.48,157107177.65,0.01
+"1088",2023,"District Attorney - New York County","STATE",6237690.62,157107177.65,0.04
+"1089",2023,"District Attorney - Queens County","FEDERAL - OTHER",243191.5,89353546.51,0
+"1090",2023,"District Attorney - Queens County","STATE",2762312.46,89353546.51,0.03
+"1091",2023,"District Attorney -Kings County","FEDERAL - OTHER",655089.379999999,135527486.36,0
+"1092",2023,"District Attorney -Kings County","STATE",3273846.37,135527486.36,0.02
+"1093",2023,"District Attorney -Richmond County","FEDERAL - OTHER",121057.42,23193844.9,0.01
+"1094",2023,"District Attorney -Richmond County","STATE",834450.52,23193844.9,0.04
+"1095",2023,"Fire Department","FEDERAL - OTHER",89630377.8200001,2552198780.54,0.04
+"1096",2023,"Fire Department","STATE",21433714.98,2552198780.54,0.01
+"1097",2023,"Health and Hospitals Corporation","FEDERAL - OTHER",749110.28,1921781845.29,0
+"1098",2023,"Housing Preservation and Development","FEDERAL - OTHER",657448788.16,1324080408.12,0.5
+"1099",2023,"Housing Preservation and Development","STATE",-473324.99,1324080408.12,0
+"1100",2023,"Landmarks Preservation Commission","STATE",20000,7203508.44,0
+"1101",2023,"Law Department","STATE",81783,271275706.679999,0
+"1102",2023,"Mayoralty","FEDERAL - OTHER",1643175689.03,182929863.35,8.98
+"1103",2023,"Mayoralty","STATE",87011229.78,182929863.35,0.48
+"1104",2023,"Miscellaneous","FEDERAL - OTHER",2575424.11,15662729630.74,0
+"1105",2023,"Miscellaneous","STATE",1167537741.83,15662729630.74,0.07
+"1106",2023,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",66126,26549243.41,0
+"1107",2023,"Office of Prosecution - Special Narcotics","STATE",902500,26549243.41,0.03
+"1108",2023,"Police Department","FEDERAL - OTHER",172983549.79,6310784460.74999,0.03
+"1109",2023,"Police Department","STATE",85281655.39,6310784460.74999,0.01
+"1110",2024,"Administration for Children's Services","FEDERAL - OTHER",1338824335.54,3355051718.45,0.4
+"1111",2024,"Administration for Children's Services","STATE",990901433.35,3355051718.45,0.3
+"1112",2024,"Board of Elections","STATE",14677836.93,257341780.62,0.06
+"1113",2024,"Borough President - Bronx","FEDERAL - OTHER",303924.12,6598252.34,0.05
+"1114",2024,"Borough President - Brooklyn","FEDERAL - OTHER",0,7163557.91,0
+"1115",2024,"Borough President - Queens","FEDERAL - OTHER",226386.08,6495069.41,0.03
+"1116",2024,"Business Integrity Commission","FEDERAL - OTHER",268430.07,8821192.96999999,0.03
+"1117",2024,"Business Integrity Commission","STATE",35761.68,8821192.96999999,0
+"1118",2024,"City University of New York","FEDERAL - OTHER",111132444,1281872319.87,0.09
+"1119",2024,"City University of New York","STATE",259458279,1281872319.87,0.2
+"1120",2024,"Civilian Complaint Review Board","FEDERAL - OTHER",0,25910508.95,0
+"1121",2024,"Civilian Complaint Review Board","STATE",201511.62,25910508.95,0.01
+"1122",2024,"Commission on Human Rights","FEDERAL - OTHER",171100,11494378.14,0.01
+"1123",2024,"Commission on Human Rights","STATE",55427,11494378.14,0
+"1124",2024,"Debt Service","FEDERAL - OTHER",102942760.01,6761553278.44,0.02
+"1125",2024,"Department for the Aging","FEDERAL - OTHER",99144941.15,509350363.95,0.19
+"1126",2024,"Department for the Aging","STATE",111662275.85,509350363.95,0.22
+"1127",2024,"Department of Buildings","STATE",55447,190335942.65,0
+"1128",2024,"Department of City Planning","FEDERAL - OTHER",1803785.11,45661063.31,0.04
+"1129",2024,"Department of City Planning","STATE",142509,45661063.31,0
+"1130",2024,"Department of Citywide Administrative Services","FEDERAL - OTHER",284184.83,1823493415.65,0
+"1131",2024,"Department of Citywide Administrative Services","STATE",76792087.2400001,1823493415.65,0.04
+"1132",2024,"Department of Consumer & Worker Protection","STATE",1700790.48,NA,NA
+"1133",2024,"Department of Correction","FEDERAL - OTHER",279022.83,1277574383.63,0
+"1134",2024,"Department of Correction","STATE",1491599.16,1277574383.63,0
+"1135",2024,"Department of Cultural Affairs","FEDERAL - OTHER",429380.52,222592762.56,0
+"1136",2024,"Department of Design and Construction","FEDERAL - OTHER",972761.27,171931787.2,0.01
+"1137",2024,"Department of Design and Construction","STATE",34694,171931787.2,0
+"1138",2024,"Department of Education","FEDERAL - OTHER",4320788236.99,33367648004.53,0.13
+"1139",2024,"Department of Education","STATE",13043677736.99,33367648004.53,0.39
+"1140",2024,"Department of Emergency Management","FEDERAL - OTHER",29689817.96,174743175.53,0.17
+"1141",2024,"Department of Emergency Management","STATE",372933.5,174743175.53,0
+"1142",2024,"Department of Environmental Protection","FEDERAL - OTHER",556683.190000003,1622653326.74,0
+"1143",2024,"Department of Environmental Protection","STATE",194569.04,1622653326.74,0
+"1144",2024,"Department of Finance","STATE",112500,341808889.45,0
+"1145",2024,"Department of Health and Mental Hygiene","FEDERAL - OTHER",514413298.450002,2344290033.91,0.22
+"1146",2024,"Department of Health and Mental Hygiene","STATE",709849095.019999,2344290033.91,0.3
+"1147",2024,"Department of Homeless Services","FEDERAL - OTHER",444716377.93,3892168604.13999,0.11
+"1148",2024,"Department of Homeless Services","STATE",1033809666.53,3892168604.13999,0.27
+"1149",2024,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",3265145.82,972621057.669999,0
+"1150",2024,"Department of Information Technology and Telecommunications","STATE",2270571.09,972621057.669999,0
+"1151",2024,"Department of Investigation","FEDERAL - OTHER",3870234.24,55702878.12,0.07
+"1152",2024,"Department of Parks and Recreation","FEDERAL - OTHER",27786.08,639005225.04,0
+"1153",2024,"Department of Parks and Recreation","STATE",917987.129999999,639005225.04,0
+"1154",2024,"Department of Probation","FEDERAL - OTHER",11921.71,106500757.23,0
+"1155",2024,"Department of Probation","STATE",17107380.93,106500757.23,0.16
+"1156",2024,"Department of Records and Information Services","FEDERAL - OTHER",434880.47,13466012.81,0.03
+"1157",2024,"Department of Records and Information Services","STATE",290082.68,13466012.81,0.02
+"1158",2024,"Department of Sanitation","FEDERAL - OTHER",1219416.06,1977801388.90999,0
+"1159",2024,"Department of Sanitation","STATE",2255118.29,1977801388.90999,0
+"1160",2024,"Department of Small Business Services","FEDERAL - OTHER",58128324.19,284367531.239999,0.2
+"1161",2024,"Department of Small Business Services","STATE",1250000.00000003,284367531.239999,0
+"1162",2024,"Department of Social Services","FEDERAL - OTHER",2055055490.2,12448780659.37,0.17
+"1163",2024,"Department of Social Services","STATE",1777347645.96,12448780659.37,0.14
+"1164",2024,"Department of Transportation","FEDERAL - OTHER",116939477.35,1471075538.6,0.08
+"1165",2024,"Department of Transportation","STATE",313115083.91,1471075538.6,0.21
+"1166",2024,"Department of Veterans' Services","STATE",435000,NA,NA
+"1167",2024,"Department of Youth and Community Development","FEDERAL - OTHER",101304146.93,1291698905.29,0.08
+"1168",2024,"Department of Youth and Community Development","STATE",18199084.24,1291698905.29,0.01
+"1169",2024,"District Attorney - Bronx County","FEDERAL - OTHER",497143.11,123194211.24,0
+"1170",2024,"District Attorney - Bronx County","STATE",13475411.19,123194211.24,0.11
+"1171",2024,"District Attorney - New York County","FEDERAL - OTHER",1162322.52,189729649.79,0.01
+"1172",2024,"District Attorney - New York County","STATE",24867497.31,189729649.79,0.13
+"1173",2024,"District Attorney - Queens County","FEDERAL - OTHER",1219656.88,113337838.74,0.01
+"1174",2024,"District Attorney - Queens County","STATE",16325224.97,113337838.74,0.14
+"1175",2024,"District Attorney -Kings County","FEDERAL - OTHER",743987.01,163023914.89,0
+"1176",2024,"District Attorney -Kings County","STATE",19392666.38,163023914.89,0.12
+"1177",2024,"District Attorney -Richmond County","FEDERAL - OTHER",301633.96,30051994.1,0.01
+"1178",2024,"District Attorney -Richmond County","STATE",4878057.34,30051994.1,0.16
+"1179",2024,"Fire Department","FEDERAL - OTHER",89587702.3199997,2719837086.55999,0.03
+"1180",2024,"Fire Department","STATE",19663207.75,2719837086.55999,0.01
+"1181",2024,"Health and Hospitals Corporation","FEDERAL - OTHER",1663492.5,3131094470.11,0
+"1182",2024,"Housing Preservation and Development","FEDERAL - OTHER",732123933.320004,1871840601.15,0.39
+"1183",2024,"Housing Preservation and Development","STATE",-1441344.26,1871840601.15,0
+"1184",2024,"Landmarks Preservation Commission","STATE",162406,7963665.98,0.02
+"1185",2024,"Law Department","STATE",67064,325257646.06,0
+"1186",2024,"Mayoralty","FEDERAL - OTHER",542061439.520003,184116513.08,2.94
+"1187",2024,"Mayoralty","STATE",379209287.86,184116513.08,2.06
+"1188",2024,"Miscellaneous","FEDERAL - OTHER",4939447.8,14366593045.73,0
+"1189",2024,"Miscellaneous","STATE",1171777441.76,14366593045.73,0.08
+"1190",2024,"NYC Taxi and Limousine Commission","STATE",31000,54466700.22,0
+"1191",2024,"OFFICE OF CRIMINAL JUSTICE","FEDERAL - OTHER",2330685.52,9882558.76,0.24
+"1192",2024,"Office of Prosecution - Special Narcotics","FEDERAL - OTHER",61124.24,31186166.2,0
+"1193",2024,"Office of Prosecution - Special Narcotics","STATE",1650000,31186166.2,0.05
+"1194",2024,"Police Department","FEDERAL - OTHER",183897581.2,6627306933.36,0.03
+"1195",2024,"Police Department","STATE",28642415.03,6627306933.36,0
+"1196",2025,"Administration for Children's Services","FEDERAL - OTHER",-7129023.99999996,NA,NA
+"1197",2025,"Administration for Children's Services","STATE",-4716415.07999994,NA,NA
+"1198",2025,"Borough President - Bronx","FEDERAL - OTHER",0,NA,NA
+"1199",2025,"Business Integrity Commission","FEDERAL - OTHER",-142740.16,NA,NA
+"1200",2025,"Business Integrity Commission","STATE",0,NA,NA
+"1201",2025,"Civilian Complaint Review Board","STATE",0,NA,NA
+"1202",2025,"Department for the Aging","FEDERAL - OTHER",-274290.64,NA,NA
+"1203",2025,"Department for the Aging","STATE",0,NA,NA
+"1204",2025,"Department of City Planning","FEDERAL - OTHER",0,NA,NA
+"1205",2025,"Department of City Planning","STATE",0,NA,NA
+"1206",2025,"Department of Citywide Administrative Services","FEDERAL - OTHER",-40.5099999999911,NA,NA
+"1207",2025,"Department of Citywide Administrative Services","STATE",-1632039.57,NA,NA
+"1208",2025,"Department of Consumer & Worker Protection","STATE",0,NA,NA
+"1209",2025,"Department of Correction","FEDERAL - OTHER",0,NA,NA
+"1210",2025,"Department of Correction","STATE",-478600,NA,NA
+"1211",2025,"Department of Design and Construction","FEDERAL - OTHER",-1.45519152283669e-11,NA,NA
+"1212",2025,"Department of Education","FEDERAL - OTHER",0,NA,NA
+"1213",2025,"Department of Education","STATE",-818720.590000093,NA,NA
+"1214",2025,"Department of Emergency Management","FEDERAL - OTHER",9.31322574615479e-10,NA,NA
+"1215",2025,"Department of Emergency Management","STATE",0,NA,NA
+"1216",2025,"Department of Environmental Protection","FEDERAL - OTHER",-7.27595761418343e-12,NA,NA
+"1217",2025,"Department of Environmental Protection","STATE",0,NA,NA
+"1218",2025,"Department of Finance","STATE",0,NA,NA
+"1219",2025,"Department of Health and Mental Hygiene","FEDERAL - OTHER",-868145.889999963,NA,NA
+"1220",2025,"Department of Health and Mental Hygiene","STATE",-2428262.00000001,NA,NA
+"1221",2025,"Department of Homeless Services","FEDERAL - OTHER",-115085.240000002,NA,NA
+"1222",2025,"Department of Homeless Services","STATE",0,NA,NA
+"1223",2025,"Department of Information Technology and Telecommunications","FEDERAL - OTHER",0,NA,NA
+"1224",2025,"Department of Parks and Recreation","STATE",0,NA,NA
+"1225",2025,"Department of Probation","FEDERAL - OTHER",0,NA,NA
+"1226",2025,"Department of Probation","STATE",-3301270.5,NA,NA
+"1227",2025,"Department of Records and Information Services","STATE",-53768,NA,NA
+"1228",2025,"Department of Small Business Services","FEDERAL - OTHER",1.86264514923096e-09,NA,NA
+"1229",2025,"Department of Social Services","FEDERAL - OTHER",-69910869.8800001,NA,NA
+"1230",2025,"Department of Social Services","STATE",-67590418,NA,NA
+"1231",2025,"Department of Transportation","FEDERAL - OTHER",-1.86264514923096e-09,NA,NA
+"1232",2025,"Department of Transportation","STATE",0,NA,NA
+"1233",2025,"Department of Youth and Community Development","FEDERAL - OTHER",-18490188.05,NA,NA
+"1234",2025,"District Attorney - Bronx County","FEDERAL - OTHER",0,NA,NA
+"1235",2025,"District Attorney - Bronx County","STATE",0,NA,NA
+"1236",2025,"District Attorney - New York County","FEDERAL - OTHER",0,NA,NA
+"1237",2025,"District Attorney - New York County","STATE",0,NA,NA
+"1238",2025,"District Attorney - Queens County","FEDERAL - OTHER",-2.91038304567337e-11,NA,NA
+"1239",2025,"District Attorney - Queens County","STATE",0,NA,NA
+"1240",2025,"District Attorney -Kings County","FEDERAL - OTHER",-7.27595761418343e-12,NA,NA
+"1241",2025,"District Attorney -Kings County","STATE",0,NA,NA
+"1242",2025,"District Attorney -Richmond County","FEDERAL - OTHER",3.63797880709171e-12,NA,NA
+"1243",2025,"District Attorney -Richmond County","STATE",-5980,NA,NA
+"1244",2025,"Fire Department","FEDERAL - OTHER",4.65661287307739e-09,NA,NA
+"1245",2025,"Fire Department","STATE",-7.27595761418343e-12,NA,NA
+"1246",2025,"Housing Preservation and Development","FEDERAL - OTHER",-33975162.84,NA,NA
+"1247",2025,"Mayoralty","FEDERAL - OTHER",-12317472.63,NA,NA
+"1248",2025,"Miscellaneous","FEDERAL - OTHER",-2425207.75,NA,NA
+"1249",2025,"Miscellaneous","STATE",-67593.1800000016,NA,NA
+"1250",2025,"Office of Prosecution - Special Narcotics","STATE",0,NA,NA
+"1251",2025,"Police Department","FEDERAL - OTHER",-1573.06999997795,NA,NA
+"1252",2025,"Police Department","STATE",-2.3283064365387e-10,NA,NA
